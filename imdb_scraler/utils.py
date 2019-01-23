@@ -35,6 +35,25 @@ def get_soup(url, headers=None):
     page = BeautifulSoup(html, 'lxml')
     return page
 
+def idx_as_strf(id):
+    """
+    Arguments
+    ---------
+    id : int
+        Movie id
+
+    Returns
+    -------
+    `0` padded 7 characters
+
+    Example
+    -------
+        >>> idx_as_strf(1234)
+        $ '0001234'
+    """
+
+    return '{0:07d}'.format(id)
+
 doublespace_pattern = re.compile('\s+')
 lineseparator_pattern = re.compile('\n+')
 
