@@ -60,6 +60,8 @@ lineseparator_pattern = re.compile('\n+')
 def normalize_text(text):
     text = text.replace('\t', ' ')
     text = text.replace('\r', ' ')
+    text = text.replace('»', '')
+    text = text.replace(':', '')
     text = lineseparator_pattern.sub('\n', text)
     text = doublespace_pattern.sub(' ', text)
     return text.strip()
