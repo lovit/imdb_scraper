@@ -14,7 +14,7 @@ def parse_credits(id):
 
     Returns
     -------
-    Json format information
+    List of json format information
     """
 
     url = credit_base.format(idx_as_strf(id))
