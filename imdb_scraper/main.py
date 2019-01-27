@@ -1,7 +1,8 @@
 from .utils import get_soup
 from .utils import normalize_text
+from .utils import idx_as_strf
 
-main_base = 'https://www.imdb.com/title/tt{}'
+main_base = 'https://www.imdb.com/title/tt{}/?ref_=fn_al_tt_1'
 
 
 def parse_main(id):
@@ -16,10 +17,20 @@ def parse_main(id):
     Json format information
     """
 
-    url = 'https://www.imdb.com/title/tt0371746/?ref_=fn_al_tt_1'.format(id)
+    url = main_base.format(idx_as_strf(id))
     soup = get_soup(url)
 
     informations = {}
+
+    # title, year
+    title, year = parse_title_year(soup)
+    informations['Title'] = title
+    informations['Year'] = year
+
+    # directors
+    directors = parse_director(soup)
+    if directors:
+        informations['Directors'] = directors
 
     # Plot Keywords & Genres
     for div in soup.select('div[id=titleStoryLine] div[class^=see-more]'):
@@ -54,3 +65,28 @@ def parse_main(id):
         informations[key] = value
 
     return informations
+
+def parse_director(soup):
+    directors = []
+
+    for div in soup.select('div[class=credit_summary_item]'):
+        h4 = div.select('h4')
+        if not h4:
+            continue
+        if 'Director' in h4[0].text and div.select('a'):
+            name = div.select('a')[0].text.strip()
+            idx = div.select('a')[0].attrs.get('href', '').split('/?')[0].replace('/name/nm', '')
+            try:
+                idx = int(idx)
+            except:
+                idx = -1
+            directors.append({'id': idx, 'name': name})
+
+    return directors
+
+def parse_title_year(soup):
+    title = soup.select('div[class=title_wrapper] h1')[0].text.replace('\xa0', ' ').strip()
+    year = ''
+    if title[-6] == '(' and title[-1] == ')':
+        year = title[-5:-1]
+    return title, year
