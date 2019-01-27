@@ -5,6 +5,17 @@ main_base = 'https://www.imdb.com/title/tt{}'
 
 
 def parse_main(id):
+    """
+    Arguments
+    ---------
+    id : int
+        Movie id
+
+    Returns
+    -------
+    Json format information
+    """
+
     url = 'https://www.imdb.com/title/tt0371746/?ref_=fn_al_tt_1'.format(id)
     soup = get_soup(url)
 
