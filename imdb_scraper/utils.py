@@ -52,6 +52,8 @@ def idx_as_strf(id):
         $ '0001234'
     """
 
+    if isinstance(id, str):
+        return id
     return '{0:07d}'.format(id)
 
 doublespace_pattern = re.compile('\s+')
