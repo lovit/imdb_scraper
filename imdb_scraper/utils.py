@@ -66,6 +66,7 @@ def normalize_text(text):
     text = text.replace(':', '')
     text = lineseparator_pattern.sub('\n', text)
     text = doublespace_pattern.sub(' ', text)
+    text = text.replace('\n', '  ') # doublespace as newline
     return text.strip()
 
 def strf_to_datetime(strf, form):
