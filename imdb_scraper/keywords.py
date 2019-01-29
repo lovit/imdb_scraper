@@ -18,7 +18,7 @@ def parse_keywords(id):
     """
 
     id = idx_as_strf(id)
-    url = keyword_bases.format(idx)
+    url = keyword_bases.format(id)
     soup = get_soup(url)
     trs = soup.select('table[class^=dataTable] div[class=sodatext]')
     keywords = [tr.text.strip() for tr in trs]

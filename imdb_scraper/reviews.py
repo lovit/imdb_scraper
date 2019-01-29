@@ -50,7 +50,7 @@ def yield_reviews(idx, max_page=3, sleep=1.0):
         url = reviews_base.format(idx, datakey)
         soup = get_soup(url)
         datakey = parse_data_key(soup)
-        yield parse_reviews_soup
+        yield parse_reviews_soup(soup)
 
 def parse_data_key(soup):
     """
