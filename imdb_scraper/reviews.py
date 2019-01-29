@@ -37,6 +37,8 @@ def yield_reviews(idx, max_page=3, sleep=1.0):
     num_reviews = get_num_of_reviews(idx)
     if max_page > 0:
         max_page = min(max_page, math.ceil(num_reviews / 25))
+    else:
+        max_page = math.ceil(num_reviews / 25)
 
     # front page
     url = front_base.format(idx)
