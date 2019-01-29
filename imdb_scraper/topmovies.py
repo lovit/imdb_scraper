@@ -27,17 +27,19 @@ def yield_topmovie_title_idxs(year, max_num=1500, sleep=1.0, verbose=False):
 
     last_num = min(last_num, max_num)
     if verbose:
-        print('Begin year = {}, / {} movies'.format(year, last_num))
+        print('Begin year = {}, / {} movies'.format(year, last_num), end='')
 
     for start in range(1, last_num + 1, 50):
         if verbose:
-            print('Scraping year = {}, {} / {} movies'.format(year, start, last_num))
+            print('\rScraping year = {}, {} / {} movies'.format(year, start, last_num), end='', flush=True)
         try:
             yield parse_a_page(year, start)
             time.sleep(sleep)
         except:
-            print('Unexpected exception. Sleep 10 minutes. year = {}, start = {}'.format(year, start))
+            print('\nUnexpected exception. Sleep 10 minutes. year = {}, start = {}'.format(year, start))
             time.sleep(600)
+    if verbose:
+        print('\rScraping year = {0}, {1} / {1} movies was done'.format(year, last_num), flush=True)
 
 def get_total_number_of_movies(year):
     try:
