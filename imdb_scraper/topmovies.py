@@ -7,7 +7,7 @@ year_base = 'https://www.imdb.com/search/title?title_type=feature&year={0}-01-01
 pattern = re.compile('[\d,]+ titles')
 
 
-def yield_topmovie_title_idxs(year, max_num=1500, sleep=1.0):
+def yield_topmovie_title_idxs(year, max_num=1500, sleep=1.0, verbose=False):
     """
     Arguments
     ---------
@@ -26,15 +26,17 @@ def yield_topmovie_title_idxs(year, max_num=1500, sleep=1.0):
         raise ValueError('Failed to get total number of movies')
 
     last_num = min(last_num, max_num)
-    print('Begin year = {}, / {} movies'.format(year, last_num))
+    if verbose:
+        print('Begin year = {}, / {} movies'.format(year, last_num))
 
     for start in range(1, last_num + 1, 50):
-        print('Scraping year = {}, {} / {} movies'.format(year, start, last_num))
+        if verbose:
+            print('Scraping year = {}, {} / {} movies'.format(year, start, last_num))
         try:
             yield parse_a_page(year, start)
             time.sleep(sleep)
         except:
-            print('Unexpected exception. Sleep 10 minutes')
+            print('Unexpected exception. Sleep 10 minutes. year = {}, start = {}'.format(year, start))
             time.sleep(600)
 
 def get_total_number_of_movies(year):
