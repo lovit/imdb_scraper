@@ -1,12 +1,56 @@
+import math
+import time
 from .utils import get_soup
 from .utils import normalize_text
+from .utils import idx_as_strf
 
 
 reviews_base = 'https://www.imdb.com/title/tt{}/reviews/_ajax?sort=submissionDate&dir=desc&ref_=undefined&paginationKey={}'
 front_base = 'https://www.imdb.com/title/tt{}/reviews/_ajax?sort=submissionDate'
 
-def parse_reviews(id):
-    raise NotImplemented
+
+def yield_reviews(idx, max_page=3, sleep=1.0):
+    """
+    Arguments
+    ---------
+    idx : int or str
+        Movie id
+    max_page : int
+        Maximum number of page.
+        Maximum number of reviews is 25 x max_page
+    sleep : float
+        Sleep time [second]
+
+    Yields
+    -------
+    list of JSON format reviews
+
+    Usage
+    -----
+        for reviews in yield_reviews(idx):
+            # do something
+    """
+
+    idx = idx_as_strf(idx)
+
+    # get number of reviews
+    num_reviews = get_num_of_reviews(idx)
+    if max_page > 0:
+        max_page = min(max_page, math.ceil(num_reviews / 25))
+
+    # front page
+    url = front_base.format(idx)
+    soup = get_soup(url)
+    datakey = parse_data_key(soup)
+    yield parse_reviews_soup(soup)
+
+    # loop
+    for p in range(1, max_page):
+        time.sleep(sleep)
+        url = reviews_base.format(idx, datakey)
+        soup = get_soup(url)
+        datakey = parse_data_key(soup)
+        yield parse_reviews_soup
 
 def parse_data_key(soup):
     """
