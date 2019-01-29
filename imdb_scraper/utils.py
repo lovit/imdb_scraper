@@ -35,11 +35,11 @@ def get_soup(url, headers=None):
     page = BeautifulSoup(html, 'lxml')
     return page
 
-def idx_as_strf(id):
+def idx_as_strf(idx):
     """
     Arguments
     ---------
-    id : int
+    idx : int
         Movie id
 
     Returns
@@ -52,9 +52,9 @@ def idx_as_strf(id):
         $ '0001234'
     """
 
-    if isinstance(id, str):
-        return id
-    return '{0:07d}'.format(id)
+    if isinstance(idx, str):
+        return idx
+    return '{0:07d}'.format(idx)
 
 doublespace_pattern = re.compile('\s+')
 lineseparator_pattern = re.compile('\n+')
