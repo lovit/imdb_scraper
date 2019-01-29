@@ -114,16 +114,26 @@ def parse_reviews_soup(soup):
         >>> soup = get_soup(url)
         >>> parse_reviews_soup(soup)
 
-        [{'content': "Amazing. Just amazing. The MCU started off with a bang. ...",
-          'date': '25 January 2019',
-          'id': 'rw4605666',
-          'title': 'Iron Man Review',
-          'user': 'ur67856870'},
-         {'content': 'A dynamic, inventive, thrilling, fun story with deep meaning, ...",
-          'date': '23 January 2019',
-          'id': 'rw4601717',
-          'title': 'Impressive start of an incredible universe',
-          'user': 'ur98135771'}]
+        [{'content': 'Amazing. Just amazing. The MCU started off with a bang. Robert '
+                    "Downey Jr.'s phenomenal performance is great, and with a "
+                    'dangerous antagonist, Iron Man is bound for greatness. 0 out of 0 '
+                    'found this helpful. Was this review helpful? Sign in to vote. '
+                    'Permalink',
+         'date': '25 January 2019',
+         'id': 'rw4605666',
+         'rating': '9',
+         'title': 'Iron Man Review',
+         'user': 'ur67856870'}
+        {'content': 'A dynamic, inventive, thrilling, fun story with deep meaning, '
+                    'complemented by a vibrant Robert Downey Jr. performance and cool '
+                    'visual effects. John Favreau gave a flawless start to an awesome '
+                    'franchise. 0 out of 0 found this helpful. Was this review '
+                    'helpful? Sign in to vote. Permalink',
+         'date': '23 January 2019',
+         'id': 'rw4601717',
+         'rating': '10',
+         'title': 'Impressive start of an incredible universe',
+         'user': 'ur98135771'}}]
     """
 
     def parse(div):
@@ -133,9 +143,10 @@ def parse_reviews_soup(soup):
             user = div.select('span[class=display-name-link] a')[0].attrs.get('href', '').split('/?')[0].replace('/user/', '')
             date = div.select('span[class=review-date]')[0].text
             content = normalize_text(div.select('div[class=content]')[0].text)
-            return {'title': title, 'user': user, 'date': date, 'content': content, 'id': review_id}
+            #return {'title': title, 'user': user, 'date': date, 'content': content, 'id': review_id}
+            rating = div.select('span[class=rating-other-user-rating] span')[0].text.strip()
+            return {'title': title, 'user': user, 'date': date, 'content': content, 'id': review_id, 'rating': rating}
         except Exception as e:
-            print(e)
             return None
 
     reviews = []
