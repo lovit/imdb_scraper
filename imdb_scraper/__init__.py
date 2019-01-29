@@ -3,6 +3,7 @@ from .credits import parse_credits
 from .keywords import parse_keywords
 from .quotes import parse_quotes
 from .reviews import yield_reviews
+from .topmovies import yield_topmovie_title_idxs
 from .utils import now
 from .utils import get_soup
 from .utils import idx_as_strf
