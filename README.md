@@ -3,6 +3,8 @@
 
 ## Usage
 
+### Scrap meta data
+
 영화 아이언맨의 meta data 수집을 위해 `parse_main` 함수를 이용합니다.
 
 ```python
@@ -46,6 +48,9 @@ parse_main(idx)
  'Year': '2008'}
 ```
 
+
+### Scrap credits
+
 영화 아이언맨에 출연한 배우 목록을 가져오기 위하여 `parse_credits` 을 이용합니다.
 
 ```python
@@ -76,4 +81,87 @@ parse_credits(idx)
 {'name': 'Ido Mor', 'id': 2789241, 'role': 'Guard (as Ido Ezra)', 'order': 19}
 {'name': 'Kevin Foster', 'id': 1080555, 'role': 'Jimmy', 'order': 20}
 ...
+```
+
+
+### Scrap reviews
+
+영화 아이언맨의 리뷰를 가져오려면 `yield_reviews` 를 이용합니다. 서버로부터 리뷰를 받을 때마다 list of dict 형식의 reviews 를 yield 합니다.
+
+```python
+from pprint import pprint
+from imdb_scraper import yield_reviews
+
+idx = 371746
+for reviews in yield_reviews(idx, max_page=3):
+    pprint(reviews[0])
+```
+
+```
+{'content': 'Amazing. Just amazing. The MCU started off with a bang. Robert '
+            "Downey Jr.'s phenomenal performance is great, and with a "
+            'dangerous antagonist, Iron Man is bound for greatness. 0 out of 0 '
+            'found this helpful. Was this review helpful? Sign in to vote. '
+            'Permalink',
+ 'date': '25 January 2019',
+ 'id': 'rw4605666',
+ 'rating': '9',
+ 'title': 'Iron Man Review',
+ 'user': 'ur67856870'}
+
+{'content': 'A dynamic, inventive, thrilling, fun story with deep meaning, '
+            'complemented by a vibrant Robert Downey Jr. performance and cool '
+            'visual effects. John Favreau gave a flawless start to an awesome '
+            'franchise. 0 out of 0 found this helpful. Was this review '
+            'helpful? Sign in to vote. Permalink',
+ 'date': '23 January 2019',
+ 'id': 'rw4601717',
+ 'rating': '10',
+ 'title': 'Impressive start of an incredible universe',
+ 'user': 'ur98135771'}
+```
+
+### Scrap keywords
+
+영화 아이언맨의 키워드를 가져오려면 `pasrse_keywords` 를 이용합니다.
+
+```python
+from imdb_scraper import parse_keywords
+
+parse_keywords(idx)
+```
+
+```
+['robot suit',
+ 'based on comic',
+ 'billionaire',
+ 'inventor',
+ 'stan lee character',
+ 'high tech',
+ 'marvel cinematic universe',
+ 'playboy',
+ 'armor',
+ 'genius',
+ 'engineer',
+ ...]
+```
+
+### Scrap quotes
+
+영화의 극중 명대사를 수집하려면 `parse_quotes` 를 이용합니다.
+
+```python
+from imdb_scraper import parse_quotes
+
+parse_quotes(idx)
+```
+
+```
+[{'agree': '116 of 116', 'character': 'Tony Stark', 'quote': 'I am Iron Man.'},
+ {'agree': '92 of 93', 'character': 'Yinsen', 'quote': "So you're a man who has everything... and nothing."},
+ {'agree': '59 of 59', 'character': 'Tony Stark', 'quote': "[reading the newspaper] Iron Man. That's kind ..."},
+ {'agree': '55 of 55', 'character': '', 'quote': '[dies]'},
+ {'agree': '47 of 47', 'character': 'Tony Stark', 'quote': "Please don't follow me ..."},
+ {'agree': '38 of 38', 'character': 'Tony Stark', 'quote': "I shouldn't be alive... unless it ..."},
+ ...]
 ```
