@@ -1,6 +1,14 @@
 import argparse
 import json
 import os
+import time
+
+from imdb_scraper import parse_main
+from imdb_scraper import parse_credits
+from imdb_scraper import yield_reviews
+from imdb_scraper import parse_keywords
+from imdb_scraper import parse_quotes
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -19,6 +27,7 @@ def main():
     directory = args.directory
     begin_year = args.begin_year
     end_year = args.end_year
+    sleep = args.sleep
     scrap_main = args.scrap_main
     scrap_credits = args.scrap_credits
     scrap_keywords = args.scrap_keywords
@@ -28,8 +37,10 @@ def main():
 
     # check output directory
     directories = ['{}/main/', '{}/credits/', '{}/keywords/', '{}/quotes/', '{}/reviews/']
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+    directories = [d.format(directory) for d in directories]
+    for d in directories:
+        if not os.path.exists(d):
+            os.makedirs(d)
 
     print('Scrap main    : {}'.format(scrap_main))
     print('Scrap credits : {}'.format(scrap_credits))
@@ -38,7 +49,7 @@ def main():
     print('Scrap reviews : {}'.format(scrap_reviews))
     print('year          : {} ~ {}'.format(begin_year, end_year))
 
-    for year in range(begin_year, end_year - 1, -1):
+    for year in range(end_year, begin_year - 1, -1):
 
         id_list_path = 'movie_lists/{}.txt'.format(year)
         if not os.path.exists(id_list_path):
@@ -49,9 +60,52 @@ def main():
         if debug:
             title_idxs = title_idxs[:10]
 
-        # TODO
+        n_movies = len(title_idxs)
+        for i_movie, (title, idx) in enumerate(title_idxs):
 
-        print('done year = {}'.format(year))
+            print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
+
+            if scrap_main:
+                path = '{}/main/{}.json'.format(directory, idx)
+                obj = parse_main(idx)
+                save_json(obj, path)
+                print('scrap {} main'.format(idx))
+                time.sleep(1)
+
+            if scrap_credits:
+                path = '{}/credits/{}'.format(directory, idx)
+                obj = parse_credits(idx)
+                save_list_of_json(obj, path)
+                print('scrap {} credits'.format(idx))
+                time.sleep(1)
+
+            if scrap_keywords:
+                path = '{}/keywords/{}'.format(directory, idx)
+                obj = parse_keywords(idx)
+                save_list(obj, path)
+                print('scrap {} keywords'.format(idx))
+                time.sleep(1)
+
+            if scrap_quotes:
+                path = '{}/quotes/{}'.format(directory, idx)
+                obj = parse_quotes(idx)
+                save_list_of_json(obj, path)
+                print('scrap {} quotes'.format(idx))
+                time.sleep(1)
+
+            if scrap_reviews:
+                path = '{}/reviews/{}'.format(directory, idx)
+                if debug:
+                    max_page = 3
+                else:
+                    max_page = -1
+                for i_reviews, reviews in enumerate(yield_reviews(idx, max_page, sleep)):
+                    save_list_of_json(reviews, path, op='a')
+                    print('\rscrap {} reviews {} pages ..'.format(idx, i_reviews + 1), end='', flush=True)
+                print('\rscrap {} reviews from {} pages was done.'.format(idx, i_reviews + 1))
+
+            print('-'*40)
+        print('done year = {} ({} ~ {})'.format(year, begin_year, end_year))
 
 def load_movie_idx(path):
     try:
@@ -63,6 +117,21 @@ def load_movie_idx(path):
             return docs
     except:
         return []
+
+def save_list(obj, path):
+    with open(path, 'w', encoding='utf-8') as f:
+        for row in obj:
+            f.write('{}\n'.format(row))
+
+def save_json(json_obj, path):
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(json_obj, f, ensure_ascii=False, indent=2)
+
+def save_list_of_json(json_list, path, op='w'):
+    with open(path, op, encoding='utf-8') as f:
+        for obj in json_list:
+            obj_strf = json.dumps(obj, ensure_ascii=False)
+            f.write('{}\n'.format(obj_strf))
 
 if __name__ == '__main__':
     main()
