@@ -10,6 +10,8 @@ build/
 
 # Experiments
 tmp/
+movie_lists/*
+movie_lists/2018.txt
 
 # Jupyter notebook
 .ipynb_checkpoints/
