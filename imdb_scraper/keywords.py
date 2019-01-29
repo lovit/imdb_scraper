@@ -2,7 +2,7 @@ from .utils import idx_as_strf
 from .utils import get_soup
 
 
-keyword_base = 'https://www.imdb.com/title/tt{}/keywords?ref_=tt_stry_kw'
+keyword_bases = 'https://www.imdb.com/title/tt{}/keywords?ref_=tt_stry_kw'
 
 
 def parse_keywords(id):
@@ -18,7 +18,7 @@ def parse_keywords(id):
     """
 
     id = idx_as_strf(id)
-    url = keyword_base.format(idx)
+    url = keyword_bases.format(idx)
     soup = get_soup(url)
     trs = soup.select('table[class^=dataTable] div[class=sodatext]')
     keywords = [tr.text.strip() for tr in trs]
