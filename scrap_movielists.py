@@ -8,7 +8,7 @@ def main():
     parser.add_argument('--directory', type=str, default='./movie_lists', help='Output directory')
     parser.add_argument('--begin_year', type=int, default=1930, help='yyyy form')
     parser.add_argument('--end_year', type=int, default=2019, help='yyyy form')
-    parser.add_argument('--sleep', type=float, default=2.0, help='yyyy form')
+    parser.add_argument('--sleep', type=float, default=10.0, help='yyyy form')
     parser.add_argument('--max_num', type=int, default=1500, help='Maximum number of movies for each year')
 
     args = parser.parse_args()
