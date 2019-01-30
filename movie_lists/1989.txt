@@ -1,0 +1,1501 @@
+title	idx
+Road House	98206
+Indiana Jones and the Last Crusade	97576
+The Punisher	98141
+Batman	96895
+Glory	97441
+Pet Sematary	98084
+Dead Poets Society	97165
+Do the Right Thing	97216
+Ghostbusters II	97428
+The Little Mermaid	97757
+Back to the Future Part II	96874
+Bill & Ted's Excellent Adventure	96928
+Steel Magnolias	98384
+Uncle Buck	98554
+Major League	97815
+Leviathan	97737
+National Lampoon's Christmas Vacation	97958
+Honey, I Shrunk the Kids	97523
+Field of Dreams	97351
+The Abyss	96754
+The 'Burbs	96734
+When Harry Met Sally...	98635
+Society	98354
+Sex, Lies, and Videotape	98724
+Say Anything...	98258
+The Cook, the Thief, His Wife & Her Lover	97108
+The Wizard	98663
+Licence to Kill	97742
+UHF	98546
+Little Monsters	97758
+Dead Calm	97162
+Driving Miss Daisy	97239
+Weekend at Bernie's	98627
+All Dogs Go to Heaven	96787
+The Karate Kid Part III	97647
+Tango & Cash	98439
+K-9	97637
+Born on the Fourth of July	96969
+Parenthood	98067
+Lethal Weapon 2	97733
+See No Evil, Hear No Evil	98282
+My Left Foot: The Story of Christy Brown	97937
+Majo no takkyûbin	97814
+Black Rain	96933
+Always	96794
+Casualties of War	97027
+Look Who's Talking	97778
+Cyborg	97138
+Kickboxer	97659
+Sea of Love	98273
+DeepStar Six	97179
+Lean on Me	97722
+Blind Fury	96945
+Eddie and the Cruisers II: Eddie Lives!	97262
+Warlock	98622
+Wild Orchid	100934
+Star Trek V: The Final Frontier	98382
+The Tall Guy	98436
+Turner & Hooch	98536
+The War of the Roses	98621
+Drugstore Cowboy	97240
+Troop Beverly Hills	98519
+Friday the 13th Part VIII: Jason Takes Manhattan	97388
+Halloween 5: The Revenge of Michael Myers	97474
+Great Balls of Fire!	97457
+Chances Are	97044
+Harlem Nights	97481
+Henry V	97499
+Henry: Portrait of a Serial Killer	99763
+Meet the Feebles	97858
+¡Átame!	101026
+Teen Witch	98453
+She's Out of Control	98308
+Shirley Valentine	98319
+Loverboy	97790
+Ghosts Can't Do It	99656
+Next of Kin	97967
+Crimes and Misdemeanors	97123
+She-Devil	98309
+Shag	98300
+Santa Sangre	98253
+A Nightmare on Elm Street: The Dream Child	97981
+Skin Deep	98343
+Scandal	98260
+The Fabulous Baker Boys	97322
+Lock Up	97770
+Dream a Little Dream	97236
+Valmont	98575
+The Fly II	97368
+Mystery Train	97940
+Shocker	98320
+Going Overboard	96870
+Gleaming the Cube	97438
+The Return of the Musketeers	98194
+La chiesa	94860
+Best of the Best	96913
+Dip huet seung hung	97202
+Tetsuo	96251
+The Package	98051
+Night Visitor	100254
+Last Exit to Brooklyn	97714
+Fletch Lives	97366
+After Midnight	96769
+Erik the Viking	97289
+Little Nemo	104740
+Intruder	95379
+Lords of the Deep	97781
+Johnny Handsome	97626
+Pink Cadillac	98097
+A Dry White Season	97243
+Fat Man and Little Boy	97336
+Cutting Class	97136
+The Return of Swamp Thing	98193
+Sleepaway Camp III: Teenage Wasteland	96119
+The Blood of Heroes	94764
+The Dream Team	97235
+Who's Harry Crumb?	98645
+No Holds Barred	97987
+We're No Angels	98625
+New York Stories	97965
+Robot Jox	102800
+Death Spa	99384
+Police Academy 6: City Under Siege	98105
+The Phantom of the Opera	98090
+Der siebente Kontinent	98327
+Paganini	98052
+An Innocent Man	97579
+Bride of Re-Animator	99180
+Three Fugitives	98471
+Millennium	97883
+Cannibal Women in the Avocado Jungle of Death	94834
+Kill Me Again	97662
+Heart of Dixie	97490
+The Siege of Firebase Gloria	98328
+When the Whales Came	98638
+Kinjite: Forbidden Subjects	97670
+Far from Home	97332
+Longtime Companion	100049
+Family Business	97328
+Moontrap	97911
+Herbstmilch	95295
+The January Man	97613
+Clownhouse	94886
+The Horror Show	97527
+Communion	97100
+Mes nuits sont plus belles que vos jours	97872
+The Experts	97314
+Blaze	96943
+The Rainbow	98165
+The Dead Pit	122037
+Slipstream	98350
+Music Box	100211
+The Mighty Quinn	97880
+Laser Mission	99978
+Let It Ride	97731
+The Gods Must Be Crazy II	97443
+Speed Zone	98369
+Her Alibi	97500
+Stepfather II	98385
+Dad	97142
+How to Get Ahead in Advertising	97531
+Prancer	98115
+Jacknife	97607
+The Terror Within	96246
+Twister	96321
+Wicked Stepmother	98649
+Talvisota	98437
+In Country	97570
+The Big Picture	96926
+Happy Together	97478
+The Toxic Avenger Part II	98503
+Arena	101366
+Cat Chaser	97028
+Listen to Me	97756
+I, Madman	97557
+Cookie	97109
+Wizards of the Lost Kingdom II	90334
+Dead Bang	97166
+American Ninja 3: Blood Hunt	96804
+Parents	98068
+Sinbad of the Seven Seas	98333
+Etoile	96522
+True Love	98528
+Cousins	97116
+The Unbelievable Truth	100842
+Wired	98660
+Renegades	98188
+True Believer	98524
+Nightmare Beach	95740
+Sundown: The Vampire in Retreat	98412
+Old Gringo	98022
+Gross Anatomy	97458
+Lisa	100031
+Farewell to the King	97334
+Chattahoochee	99242
+Tempo di uccidere	100762
+Winter People	98659
+La révolution française	98238
+Brenda Starr	96978
+Beverly Hills Vamp	94734
+See You in the Morning	98283
+Savage Beach	98257
+Who Shot Patakango?	100930
+Slaves of New York	98347
+Catch Me If You Can	97029
+Godzilla 1990	97444
+Pembalasan ratu pantai selatan	95483
+The Rachel Papers	98160
+The Favorite	97341
+Blue Vengeance	205779
+How I Got Into College	97530
+Romero	98219
+Religion, Inc.	98185
+Hider in the House	97503
+Relentless	98184
+Dou san	97244
+Scenes from the Class Struggle in Beverly Hills	98261
+Worth Winning	98678
+Lost Angels	97782
+Tap	98442
+Physical Evidence	98093
+Fast Food	97335
+Sing	98335
+Meet the Hollowheads	95608
+Immediate Family	97567
+Marquis	97839
+Black Rainbow	99143
+A City of Sadness	96908
+Disorganized Crime	97211
+C.H.U.D. II: Bud the Chud	97001
+Vice Academy	96379
+River of Death	98205
+The Toxic Avenger Part III: The Last Temptation of Toxie	98502
+Monsieur Hire	97904
+Dark Tower	92831
+36.15 code Père Noël	96741
+Triumph of the Spirit	98513
+Kuroi ame	97694
+Enemies: A Love Story	97276
+Leningrad Cowboys Go America	97728
+Summer Job	98411
+Stripped to Kill 2: Live Girls	98399
+Amanece, que no es poco	94641
+Howling V: The Rebirth	97534
+Big Man on Campus	96925
+Sono otoko, kyôbô ni tsuki	98360
+Kidô keisatsu patorebâ: Gekijô-ban	100339
+Redneck Zombies	93833
+Elves	99496
+Think Big	100772
+The Borrower	101502
+Maine Pyar Kiya	100095
+Eversmile, New Jersey	97302
+Jésus de Montréal	97635
+Curse II: The Bite	94929
+Phantom of the Mall: Eric's Revenge	98089
+Sangre y arena	98251
+Francesco	97383
+Blood Red	96951
+Interzone	93268
+Qi ji	98019
+Collision Course	97081
+Ten Little Indians	98454
+Penn & Teller Get Killed	98073
+Staying Together	98383
+Terminator II	98321
+After Death (Oltre la morte)	94620
+Edge of Sanity	97263
+Second Sight	98276
+Rude Awakening	98230
+Noce blanche	97995
+Luther the Geek	100079
+Powwow Highway	98112
+Bloodhounds of Broadway	96953
+Kako je propao rokenrol	158610
+Rojo amanecer	98214
+Future Force	99624
+Homer and Eddie	97521
+Az én XX. századom	96863
+My Mom's a Werewolf	97938
+Spirits of the Air, Gremlins of the Clouds	98373
+Regal Shocker (The Movie)	955323
+Boj na Kosovu	96966
+La storia di Lady Chatterley	97704
+War Requiem	96416
+Rooftops	98222
+Sweetie	98725
+Jaisi Karni Waisi Bharni	373935
+True Blood	98525
+Beyond the Stars	96921
+Buried Alive	99187
+The Ranch	98169
+The Dead Next Door	94962
+The Delinquents	97182
+Night Game	97971
+The Weirdo	122800
+Tridev	100816
+Bava Bava Panneeru	280464
+Coming Out	97095
+The Dead Come Home	101670
+Oru Vadakkan Veeragatha	230597
+Hellgate	97498
+Never on Tuesday	95722
+The Chilling	97059
+Daata	405852
+That's Adequate	98464
+Lauderdale	97717
+Signs of Life	98330
+84C MoPic	96744
+Chrome Hearts	103959
+Astérix et le coup du menhir	96842
+Psycho Cop	95922
+Es ist nicht leicht ein Gott zu sein	97292
+Sakalakala Sambandhi	7416032
+Animal Behavior	96820
+Dr. Alien	95060
+Sabirni centar	122234
+Cheetah	97053
+Spasi i sokhrani	111254
+Miss Firecracker	97892
+Chandni	97045
+Wong Ka Si Sei IV: Sik Gik Sing Yan	97539
+La fille de 15 ans	97353
+Lover Boy	123982
+Nam Angels	97954
+Lobster Man from Mars	97768
+Cold Feet	97076
+El sueño del mono loco	98407
+Rakhwala	98167
+Food of the Gods II	97371
+Murder Weapon	100205
+Devil in the Flesh	97194
+Casa di piacere	99434
+El niño de la luna	97986
+Street of No Return	98396
+Warm Summer Rain	98623
+Aakhri Baazi	178171
+Bedroom Eyes II	99113
+Laurin	97719
+Bloodfist	96952
+Reunion	98197
+Baxter	94713
+Uçurtmayi Vurmasinlar	98573
+Where the Spirit Lives	103244
+Prem Pratigyaa	102705
+La vie et rien d'autre	98596
+Long zai tian ya	95542
+Snake Eater	100645
+Kindergarten	304292
+The Lemon Sisters	100003
+Witchtrap	98662
+Beware: Children at Play	112492
+Zatôichi	202152
+Breaking In	96976
+Another Chance	96824
+Diva Futura - L'avventura dell'amore	97212
+Zwei Frauen	98721
+Bade Ghar Ki Beti	231214
+Memorial Valley Massacre	95611
+Night Life	97972
+Wilt	97891
+Checking Out	97052
+Night Shadow	97973
+Walang panginoon	459023
+Slash Dance	210988
+Raakh	290820
+The Gunrunner	87374
+Violent Shit	94271
+The Evil Below	97306
+Dr. Caligari	97228
+Gitanjali	97437
+Mack the Knife	97800
+La puritana	228754
+Ghost Writer	97427
+A Chorus of Disapproval	94871
+Pan Jin Lian zhi qian shi jin sheng	98056
+Przesluchanie	84548
+Trop belle pour toi	98520
+Trained to Kill	129438
+Fear, Anxiety & Depression	169895
+An le zhan chang	96811
+Si te dicen que caí	98324
+Ilaaka	97563
+Aag Se Khelenge	96748
+Out Cold	98042
+Chameleon Street	101561
+The Jigsaw Murders	95400
+Young Rebels	2394099
+Vili, a veréb	98598
+Parinda	102636
+Cage	97003
+Driving Force	171245
+Dance of the Damned	94942
+Poslednji krug u Monci	180924
+Tripwire	100817
+Ying hung boon sik III: Zik yeung ji gor	98691
+Venus Senki	135037
+Welcome Home	98631
+Crime Zone	94918
+Dasharatham	237138
+Crack House	97119
+The Wolves of Willoughby Chase	96459
+Getting It Right	97424
+Celia	94849
+Beverly Hills Brats	96918
+M' agapas?	263677
+Sonny Boy	100661
+Future Hunters	97404
+Ganheddo	97410
+Mortal Passions	100188
+In una notte di chiaro di luna	97574
+Perdues dans New York	98078
+Ninja Academy	100265
+Terror in Beverly Hills	103067
+Return from the River Kwai	95985
+Silk 2	98332
+Nache Nagin Gali Gali	424298
+Il gatto nero	96932
+Australia	96854
+The Forgotten One	99601
+Gawa na ang bala para sa akin	465184
+Alien degli abissi	96785
+Bespredel	286502
+Karagattakaran	319649
+Dealers	97172
+Bert Rigby, You're a Fool	96911
+L'insegnante di violoncello	92505
+Limit Up	97755
+Resan till Melonia	98189
+Gair Kaanooni	187043
+Martians Go Home	100116
+Ram Lakhan	98168
+Bad Blood	96876
+Hit List	95311
+Yôtôden	209489
+A Soldier's Tale	96131
+Chaalbaaz	122427
+Posetitel muzeya	173024
+Mery per sempre	97870
+Comment faire l'amour avec un nègre sans se fatiguer	97098
+Ostrov Sokrovishch	122227
+Rikyu	98204
+Skinheads	100632
+Beyond the Door III	96920
+Pomeriggio caldo	92520
+Raja Chinna Roja	846073
+Shanakht	388403
+Jawani Solah Saal Ki	3513374
+Freakshow	235393
+Resurrected	98190
+Eat a Bowl of Tea	97261
+The Iron Triangle	97593
+Diamond Skulls	97158
+Nowhere to Run	98005
+Offerings	98014
+Splendor	96160
+Sûîto Homu	141861
+Paanch Papi	243470
+High Stakes	97507
+Paura nel buio	98072
+American Angels: Baptism of Blood	96799
+Yi dan qun ying	94351
+Aakrosh	1527050
+Mind Games	97885
+Fainaru faito - Saigo no ichigeki	140859
+Cold Comfort	97075
+Darkroom	99366
+La bande des quatre	94709
+Layanam	353658
+Torrents of Spring	96755
+Ban wo chuang tian ya	96885
+Cleo/Leo	97069
+Mirage	121556
+Nightwish	97982
+Palombella rossa	98055
+Stuff Stephanie in the Incinerator	98404
+Coastwatcher	97715
+Roller Blade Warriors: Taken by Force	98216
+L.A. Vice	145038
+White Hot	98640
+Souten Ki Beti	364015
+Strapless	98394
+Beyond Dream's Door	96919
+Blades	96936
+Fist Fighter	94599
+Bahurani	349122
+Täcknamn Coq Rouge	98544
+Cruising Bar	97131
+Princess Warrior	98127
+Jung Baaz	233990
+Paganini Horror	95812
+The Legendary Life of Ernest Hemingway	222009
+Bhutacha Bhau	267318
+Love Love Love	97784
+Indio	99843
+Che ora è?	97051
+Hathyar	214751
+Rosalie Goes Shopping	98224
+Bhrashtachar	96922
+The Cellar	99235
+Robot Ninja	100503
+American risciò	96806
+Marrakech Express	97841
+New Year's Day	97964
+Paint It Black	98054
+Do Qaidi	359169
+Bashu, gharibeye koochak	96894
+Arabella l'angelo nero	92577
+Majboor	260158
+Grave Secrets	97456
+Monster High	97905
+Tennessee Nights	96935
+Looking for Langston	95545
+Bodo - Eine ganz normale Familie	96962
+Season of Fear	94643
+Main Tera Dushman	97813
+Bicycleran	92651
+Les maris, les femmes, les amants	97836
+Shi jie da shai	98316
+Casablanca Express	94843
+The Vineyard	98600
+Minnamurra	97888
+Varavelpu	292319
+Doida Demais	139160
+Tale of Two Sisters	98435
+Jaadugar	97609
+Blood & Donuts	112527
+Ji dong qi xia	97618
+Jönssonligan på Mallorca	97636
+Deadly Weapon	97171
+Satan's Princess	100550
+Transylvania Twist	100811
+Últimas imágenes del naufragio	98732
+Ad un passo dall'aurora	96759
+Nangi Talwar	1289616
+Babar: The Movie	96869
+Sexbomb	244786
+Hot Blood	140242
+7 Lucky Ninja Kids	199292
+Race for Glory	98158
+Et la lumière fut	97297
+300 mil do nieba	96740
+Gui yao gui	80828
+Easy Wheels	97260
+Main Azaad Hoon	97812
+Khoj	261001
+Adhipan	291709
+The House of Usher	95332
+Shotgun	145464
+Bye Bye Blues	96999
+Histoires d'Amérique: Food, Family and Philosophy	95310
+Ecstasy	99482
+Bajarse al moro	94705
+Taaqatwar	362213
+Clerk	233464
+Speaking Parts	98368
+Romuald et Juliette	98220
+The Rose Garden	98225
+Ghetto Blaster	97426
+Shiva	248428
+Batwara	96896
+Thartharat	234872
+Kala Bazaar	97640
+Aakhri Ghulam	178175
+Je suis le seigneur du château	97614
+Masque of the Red Death	97844
+Caddie Woodlawn	185211
+L'enfant de l'hiver	97278
+A More Perfect Union: America Becomes a Nation	300212
+Ramji Rav Speaking	353935
+Unmasked Part 25	96343
+Oro fino	95794
+Afganistan - The last war bus (L'ultimo bus di guerra)	94618
+Killer Crocodile	143338
+Papa est parti, maman aussi	98059
+Nerds of a Feather	100235
+De kassière	97650
+Girlfriend from Hell	99664
+Iskusavanje djavola	173931
+Fortress of Amerikkka	97380
+En un motel nadie duerme	380347
+Le porte dell'inferno	134902
+Wedding Band	100908
+The Secret of the Ice Cave	98279
+Russian Terminator	100531
+Suryaa: An Awakening	360051
+Time Trackers	98480
+Moonstalker	240736
+Oh Babylon	217704
+Tank Malling	98441
+Ah Long dik goo si	98694
+Billoo Baadshah	242314
+Escape	99517
+Cold Light of Day	356476
+Rose Bluelight	135633
+Mitti Aur Sona	363824
+I Want to Go Home	97555
+Back to Back	99086
+Roselyne et les lions	98226
+Forbidden Sun	97375
+Tradita a morte	97705
+Georg Elser - Einer aus Deutschland	97417
+Curfew	97135
+Kuduz	97690
+Interdevochka	97584
+Little Sweetheart	95881
+Qin yong	98147
+S.E.R. - Svoboda eto rai	98240
+Tarzan Mama Mia	98443
+Dharmaga tongjoguro kan kkadalgun	97195
+Night Terror	97974
+Over-sexed Rugsuckers from Mars	200940
+O Sangue	98252
+Dead Cat	97163
+Wait Until Spring, Bandini	98615
+Vadakkunokkiyantram	354148
+Tres Lancheros Muy Picudos	338683
+Sidewalk Stories	98325
+Hot Times at Montclair High	97528
+Force majeure	97376
+Mutator	102489
+Boris Godounov	96968
+Prime Suspect	98125
+Sikka	155175
+Mad About You	95563
+Prema	320308
+Toofan	98491
+Bunker Palace Hôtel	96994
+Prokletí domu Hajnù	232475
+Split	98374
+Heritage Africa	216803
+Pont de Varsòvia	98139
+The Spring	98377
+El cuatrero	319235
+Miao tan shuang long	99614
+Roadkill	98209
+Venus Peter	98586
+Jaded	239070
+Up Your Alley	96348
+Out of the Body	98044
+Pestalozzis Berg	95856
+Joshilaay	89382
+The Masque of the Red Death	179334
+La diosa del puerto	210649
+Balache Baap Brahmachari	214521
+Mull	97927
+Alien Space Avenger	101296
+Blue Angel Cafe	96958
+Heavy Metal Massacre	1959398
+El diario íntimo de una cabaretera	353354
+Phantom Soldiers	222269
+Cyborg - Il guerriero d'acciaio	94931
+Snake Eater II: The Drug Buster	102950
+Io Gilda	97589
+El rey de las ficheras	380669
+Mrigaya	271648
+Queen of Hearts	98153
+Vandanam	255668
+Streghe	98397
+Simha Swapnam	2722792
+Eye of the Eagle 2: Inside the Enemy	97317
+Tu Nagin Main Sapera	2626318
+Massacre	97845
+The Bounty Hunter	96971
+She's Back	98306
+Recordações da Casa Amarela	98175
+Mortal Sins	100189
+Salim Langde Pe Mat Ro	241914
+Ganashatru	97409
+Bearskin: An Urban Fairytale	96901
+Identity Crisis	99825
+Gharana	359324
+L.A. Heat	97699
+Family Reunion	249506
+Chains	97036
+Vetri Vizha	140677
+Hard Car - Desiderio sfrenato del piacere	99737
+Seobe	108922
+Blueberry Hill	96961
+Orapronobis	97583
+Blood Nasty	96950
+Options	95792
+Il giustiziere del Bronx	207358
+Talih Kusu	253782
+La bahía esmeralda	96877
+Apoorva Sagodharargal	96827
+George's Island	97419
+Das Spinnennetz	98370
+An Unremarkable Life	98565
+Terror Eyes	94123
+Galimatias, czyli kogel-mogel II	97408
+Innale	248909
+Slunce, seno a pár facek	246934
+Yi mei dao ren	98690
+Nato per combattere	96970
+Las cosas del querer	97113
+L.A. Bounty	97698
+Asha-o-Bhalobasha	363442
+The Princess and the Dwarf	363910
+The Banker	96889
+Qun long xi feng	98155
+Guru	97466
+Mindfield	97886
+Riverbend	100500
+Sen no Rikyu: Honkakubô ibun	98287
+Kanoon Apna Apna	97642
+Eeshwar	97264
+Vreme cuda	181890
+The Freeway Maniac	129943
+Ustaad	374310
+Gwang tin lung fu wui	97524
+Hum Bhi Insaan Hain	359442
+A Princesa Xuxa e os Trapalhões	121654
+Sau Saal Baad	2637696
+Fireballs	99576
+La chute des aigles	212872
+American Rampage	166972
+Dai hao mei zhou bao	97144
+Modì	190568
+Dark Heritage	228182
+Lambada	1922646
+Hajde da se volimo 2	175698
+Meri Zabaan	243416
+Hyper Space	249591
+Termini Station	98457
+Sigurd Drakedreper	129377
+Heartstopper	95285
+Pudhu Pudhu Arthangal	155064
+Deadly Obsession	126858
+Cold Front	97077
+I Love You Teacher	2913716
+La via della droga	101601
+Liberty & Bash	100015
+Yaaba	98684
+Ade Raaga Ade Haadu	7901698
+Life Is Cheap... But Toilet Paper Is Expensive	100023
+La señora del Oriente Express	98297
+Ladri di saponette	97702
+East L.A. Warriors	144882
+Ministry of Vengeance	97887
+Utharam	253873
+Johanna D'Arc of Mongolia	95406
+Trapper County War	98508
+Deadly Breed	167873
+Shooters	152419
+Shadow of China	102895
+Un tour de manège	92131
+Ghar Ka Chiraag	363634
+Surgikill	235800
+Dear Diary	335036
+Jhankar	1590080
+Paraya Ghar	232276
+Luna di sangue	97400
+Ang babaeng nawawala sa sarili	451638
+Suffering Bastards	98408
+Back Track	1690444
+Indrudu Chandrudu	251139
+Damned River	97146
+Hindi pahuhuli ng buhay	336569
+Bandook Dahej Ke Seenay Par	2160093
+Beverly Hills Bodysnatchers	96917
+Sha shou hu die meng	93944
+Spogliando Valeria	96959
+Teri Payal Mere Geet	424489
+Ladrones de tumbas	282672
+Paap Ka Ant	95810
+1939	96737
+The Jitters	97625
+Soggadi Kapuram	8902798
+Rising Storm	100464
+Black Snow	96934
+God's Will	96791
+Arousi-ye Khouban	96833
+Satyavadi Raja Harishchandra	5592744
+Nayanmoni	363840
+Jism Ka Rishta	452270
+Empire of Ash III	122145
+Goodnight, Sweet Marilyn	97449
+Two to Tango	96325
+Wo zai hei she hui de ri zi	98667
+Santosh	359935
+Kvinnorna på taket	97695
+The White Room	98641
+Un monde sans pitié	98552
+The Runnin' Kind	98234
+Eyewitness to Murder	101845
+Zhi zun wu shang	98708
+Hisaab Khoon Ka	97513
+Mappilai	319817
+Action U.S.A.	96757
+Bolji zivot	380229
+Alien Seed	96784
+Masmediologija na Balkanu	180822
+Two Town Rowdy	262852
+Mircea	126439
+Kireedam	237376
+Maume tunun ch'ongnyon	6453236
+Pucker Up and Bark Like a Dog	100431
+The Kill-Off	97665
+Sach	249931
+The Lords of Magick	95547
+Deadly Reactor	97168
+Desh Ke Dushman	381989
+All's Fair	96789
+Runaway Dreams	98233
+Season	292226
+Otto - Der Außerfriesische	98040
+The Long Weekend (O'Despair)	191250
+Junglee Jawaani	3513412
+Komediya o Lisistrate	123138
+Ho vinto la lotteria di Capodanno	178579
+The Last Winter	99990
+Kamla Ki Maut	157882
+Ginger Ale Afternoon	97432
+Ledi Makbet Mtsenskogo uezda	97724
+Ek Din Achanak	97268
+Ang mahiwagang daigdig ni Elias Paniki	498182
+Poltron	180059
+A Whisper to a Scream	98639
+State Rowdy	246254
+Gola Barood	363644
+Vicky Dada	173415
+Mest	102497
+Born Killer	99170
+Wooly Booly: Ang classmate kong alien	467715
+Terminal Force	100764
+Shôgun Iemitsu no ranshin - Gekitotsu	98322
+One Man Force	98026
+Najbolji	181712
+American Boyfriends	96801
+Farz Ki Jung	363605
+Deadly Innocents	99380
+The Urge to Kill	254839
+Khol De Meri Zuban	231899
+Animal Protector	94658
+The Black Cobra 2	238080
+The Kill Reflex	97663
+American Hunter	281587
+Jurrat	926204
+Galit sa mundo	467180
+Les baisers de secours	96878
+Night Club	97978
+Try This One for Size	98530
+Cold Justice	97079
+Sati	98255
+Midnight Warrior	145082
+Djavolji raj	98463
+Århus by night	96520
+Dansen med Regitze	97155
+Tres veces mojado	380769
+Lola	97773
+Nostos: Il ritorno	100271
+Exquisite Corpses	97316
+Iskanderija, kaman oue kaman	99858
+Les sièges de l'Alcazar	98341
+B.O.R.N.	94693
+Balkan ekspres 2	383905
+Mortacci	97913
+Fratelli d'Italia	157667
+Wan zhu	276615
+Dark Bar	94949
+Rapid Fire	100460
+Shen yong shuang mei mai	98313
+Babangon ako't dudurugin kita	343390
+Ginseng King	122088
+A Sinful Life	98334
+Un macho en el reformatorio de señoritas	319777
+Cinq jours en juin	94881
+Midnight	97876
+Muddula Mavayya	307192
+Dharla Tar Chavtay	5647444
+Atmavishwas	267280
+Hunden som log	97543
+El garañón	285134
+Chanakyan	97043
+La blanca paloma	96938
+Escape from Safehaven	97293
+Dead Silence	6278694
+The Plot Against Harry	64820
+Valentino Returns	94236
+Malayathi Pennu	353701
+Nafrat Ki Aandhi	234309
+Riding the Edge	100490
+Ancharakkulla Vandi	353183
+Souvenir	96148
+Kurutta Butokai	95472
+Murder Story	97930
+Kahan Hai Kanoon	363730
+Last Stand at Lang Mei	99988
+Naqab	232160
+Night Club	100250
+Mangal Deep	7371694
+Alexa	94629
+Lashkar	275466
+Saaya	98243
+Enrapture	97281
+Xin zui jia pai dang	98681
+Trouble in Paradise	153311
+Los rateros	258079
+Hardcase and Fist	97480
+Via Appia	100865
+Criminal Act	97124
+The Feud	97350
+Der Philosoph	95864
+Kasam Vardi Ki	243355
+Open Fire	95790
+Tian shi xing dong III mo nu mo ri	100778
+La donna dell'isola	4721906
+Miraklet i Valby	97890
+Maya	157981
+Mahaadev	319787
+Friends, Lovers, & Lunatics	97389
+226	203022
+Kitchen	122133
+Prisoners of Inertia	98128
+Bees Saal Baad	94720
+American Blue Note	96800
+The Fighter	93022
+Windprints	100940
+Last Two Minutes	422616
+Salut Victor	98246
+Estudyante blues	336394
+Sukkubus - den Teufel im Leib	98410
+Peruvannapurathe Visheshangal	292181
+City Hunter: Ai to shukumei no Magnum	97067
+Los placeres ocultos	371083
+Super Mouse and the Roborats	466145
+Thunderground	98473
+No Justice	199870
+Gummibärchen küßt man nicht	97464
+Comezón a la Mexicana	284976
+Embrasse-moi	166178
+Trust Me	98529
+Student Body	378817
+American Eagle	96802
+Fists of Steel	101890
+Ijmete kudasai Henrietta	287493
+Isang bala isang buhay	422500
+It Had to Be You	97600
+Aayiram Chirakulla Moham	353153
+Out on Bail	98046
+Goonj	172509
+Dost	373801
+Après la guerre	96828
+Lie mo qun ying	97745
+Mes meilleurs copains	97871
+Vachanam	259709
+Lady Chatterley II	327008
+Storia di ragazzi e di ragazze	98390
+Night Children	100249
+La noche oscura	97998
+Montoyas y Tarantos	97909
+Lankeshwarudu	246032
+Rito d'amore	143839
+Athaku Yamudu Ammayiki Mogudu	245731
+Nijisseiki shônen dokuhon	122631
+Thrilling Love	153056
+Gioco al massacro	97433
+Khooni Murdaa	363740
+Sabar dulu dong...!	2079573
+Seinto Seiya: Saishu Seisen no Senshi-tachi	326101
+The Rookies	9477888
+One Man Out	98027
+Dirty Games	97207
+Mob Story	100170
+Ako ... ang huhusga	391733
+Boda secreta	94774
+Erreur de jeunesse	99513
+Abhimanyu	96751
+Nanjundi Kalyana	8593290
+Circles in a Forest	99270
+Dance to Win	97150
+Danger Zone II: Reaper's Revenge	99354
+Un macho en la tortería	244633
+Point of View	100382
+Dykket	97250
+Play Me Something	98101
+Gentleman	363632
+La ciudad al desnudo	257487
+The Assassin's Bullet	1690279
+Zhong yi qun ying	98710
+Melancholia	97861
+Do pervoy krovi	97215
+La stanza delle parole	100682
+Willy Signori e vengo da lontano	100938
+La luna negra	97795
+Hamaal De Dhamaal	5495080
+Pradeshika Vaarthakal	1334045
+Lo que le pasó a Santiago	97766
+Simple Justice	100622
+Nigahen: Nagina Part II	187351
+Tamis ng unang halik	441539
+Sachai Ki Taqat	260336
+Isang araw walang Diyos	360677
+Hu dan nu er hong	97535
+Justice Denied	97634
+Bloody psycho	157412
+Tree of Hands	99846
+Face of the Enemy	97323
+Speak of the Devil	102965
+A legényanya	97727
+Dehset gecesi	2261451
+Bye Bye Vietnam	94821
+Covjek koji je volio sprovode	94914
+Dva lidi v zoo	367686
+The Mad Bunch	97801
+Oznamuje se láskám vasim	95808
+Colli di cuoio	94893
+Entre compadres te veas	319364
+Deux	95008
+Mamata Ki Chhaon Mein	234183
+Qi xiao fu zai chu ji	97793
+Girl Talk	136971
+La cintura	97063
+Loos	97780
+Lo zio indegno	98714
+Mujrim	97926
+Pahiram ng isang umaga	98053
+La vouivre	98609
+Accidents	94607
+Jagratha	271575
+Alaska	132678
+Dana Paani	373778
+Solo para adúlteros	258230
+Nocturne indien	98000
+Sztuka kochania	98424
+Obsession - una storia di straordinaria follia	195106
+Sachché Ká Bol-Bálá	155131
+Blind Fear	96944
+Pheka Pheki	2354560
+Iskolakerülök	97595
+Asmaan Se Ooncha	233146
+Meng gui da sha	93523
+Blind Faith	299548
+La vendetta	95212
+Pasión de hombre	95828
+Starzan II	413310
+Order of the Eagle	98033
+Med cezir manzaralari	1721028
+Garibon Ka Daata	357693
+Migimagari No Dandy	3189034
+Haru kuru oni	202895
+En håndfull tid	97549
+Mohajer	194169
+Orlando sei	192397
+Satarupa	7372426
+Island	97597
+Fun Down There	95187
+Chill Factor	99256
+The Vampire Is Still Alive	416664
+Sounds of Silence	149016
+Rock-A-Die Baby	171700
+Raffles Hotel	313512
+Hard Days, Hard Nights	97479
+Charithram	271422
+Sedím na konári a je mi dobre	98280
+Dos camioneros con suerte (recongidos en cancus)	293796
+Antarjali Jatra	92572
+Miss Pamela	332246
+Adam Ka Janam	2856994
+Everlasting Love	466784
+De avonden	96862
+Starzan: Shouting Star of the Jungle	413309
+100 Jahre Adolf Hitler - Die letzte Stunde im Führerbunker	96735
+Ba liang jin	99079
+Les enfants du désordre	97279
+Bondying: The Little Big Boy	423875
+En Arumai Manaivi	2725182
+Heroes Stand Alone	97501
+Easy Kill	97259
+Parinati	230622
+Demasiado viejo para morir joven	94994
+L'union sacrée	96342
+Warbirds	96417
+Jewel of the Gods	151131
+Violación	258292
+Wohi Bhayanak Raat	2674160
+Posed for Murder	98109
+Ice House	141303
+El mar y el tiempo	97831
+Kahit wala ka na	345478
+Si Aida, si Lorna, o si Fe	467235
+s/y Glädjen	98241
+Álombrigád	121976
+Mind Trap	242686
+Mazhavil Kavadi	308563
+Joe Pring: Homicide Manila Police	317765
+Valentina	467114
+Esquilache	95115
+Shani	251394
+Impaktita	417777
+Brown Bread Sandwiches	97448
+Mob War	97898
+Ne parliamo lunedì	198819
+Not Another Mistake	94920
+Champagne amer	88900
+Tarzan raja rimba	949898
+Suivez cet avion	98409
+El pájaro con suelas	258064
+Le Clandestin	7255020
+V gorode Sochi tyomnye nochi	98574
+Bye bye chaperon rouge	97000
+Gawaahi	215789
+Teito taisen	144636
+Pamilya Banal	467372
+Mielött befejezi röptét a denevér	95632
+Death Doll	319271
+Shehzaade	359965
+Mudra	237472
+Gece yolculugu	280356
+Hajen som visste för mycket	97473
+Vietnam War Story: The Last Days	98597
+Five Star Stories	159443
+Mamai Raja	7899236
+Love Obsession	97785
+Kokak	466869
+Zadar! Cow from Hell	250124
+Tender Hooks	98455
+Dotsuitarunen	97226
+Rouge Venise	211602
+Galiyon Ka Badshah	315875
+El acto	92509
+Ulsavapittennu	216319
+Zehir Hafiye	253977
+La ley de las calles	379868
+Shang jie	342983
+Zombie vs. Ninja	94384
+Marhi Da Deeva	308158
+Khuli Khidki	1149394
+Ina Mina Dika	5657362
+Fanat	1555803
+Glass	125769
+Scugnizzi	98271
+Black Tiger	262287
+Amori in corso	96810
+Fatal Exposure	97338
+Battle Rats	294337
+The Devil & the Song	3774736
+Vacaciones de terror 2	220136
+Looking Your Best	319762
+En fremmed piges dagbog	251704
+Torquemada	98496
+Shocktroop	206290
+Le rapport Darty	98170
+Istanbul	97599
+Guests of Hotel Astoria	205991
+Bañeros II, la playa loca	221008
+Dans le ventre du dragon	97153
+Xi tai hou	351998
+Les bois noirs	96965
+Eagle Squad	377838
+Dgesastsauli dgesastsaulis molodinshi	286589
+The Hired Gun	97511
+Saengui hunjok	6457610
+Enemy Unseen	97277
+Zanzibar	96496
+Îlé Aiyé	98730
+New Year	353795
+La morte è di moda	97914
+Seobe II	1935882
+Chinnari Sneham	389852
+Xiao xiao xiao jing cha	98680
+De ce are vulpea coada?	236143
+Guendalina	256789
+Naaduvazhikal	292142
+The Corsican Brothers	142193
+El verano del potro	98587
+Blanche est la nuit	96939
+Ostatni dzwonek	98035
+Mutant on the Bounty	97934
+Der Geschichtenerzähler	99643
+Shab-e bist o nohom	793572
+Jin pai shi jie	99883
+Hap ga foon	97922
+Lawa. Opowiesc o 'Dziadach' Adama Mickiewicza	97721
+The Lost Idol	204452
+Forced March	97377
+Adharvam	271355
+La portera ardiente	380640
+Power Games	138035
+Adikkurippu	235160
+Alien Private Eye	92531
+Time Burst: The Final Alliance	242952
+Gorio & Tekla	458724
+Kari Diye Kinlam	1527143
+Batoru hîtâ	222798
+Hum Intezaar Karenge	363691
+Theo en Thea en de ontmaskering van het tenenkaasimperium	98466
+El vampiro teporocho	229008
+Vampiri su medju nama	181120
+Mahal	261035
+Underground	100846
+Miami Cops	266929
+Sha shou tian shi	98298
+Khel Jawani Ka	3628860
+Kageki honban: Midareru	2102349
+Machalti Jawani	2958696
+Walter & Carlo i Amerika	98616
+Huang jia fei feng	98676
+Varusham Padhinaaru	215308
+Las novias del lechero	380591
+Sharavegada Saradara	2249546
+Banned	96888
+Megi	170236
+'O re	98009
+Mujer de fuego	95669
+Jawani Ke Gunah	378124
+Crime of Crimes	150222
+Berlin-Yerushalaim	133410
+Kornblumenblau	95464
+Chimère	94866
+Doraemon: Nobita no Nihon tanjô	1147511
+Zhena kerosinshchika	96503
+Wanita harimau	1045248
+Posvyashchyonnyy	98110
+Shen yong fei hu ba wang hua	98312
+Destiny to Order	99412
+Margarit i Margarita	206118
+Nair Saab	271663
+Kopytem sem, kopytem tam	95463
+Insiders	97582
+Atração Satânica	100551
+Comédie d'été	97102
+The Rutanga Tapes	100533
+Ren zai Niu Yue	98187
+Aab, baad, khaak	96747
+Xiang jiao tian tang	490518
+Trampa infernal	98505
+Bang, I Want You!	6639992
+Diploma za smrt	97206
+Hua gui you xian gong si	97536
+Taekwon sonyeon Erniewa Master Kim	334463
+Mohabat Ka Paigham	361917
+Peter och Petra	98086
+The Basement	2005367
+San lang qi an	98250
+Nipagesh Basafari	1298712
+Juliana	123931
+Ehad Mishelanu	97265
+Raajadhi Raaja	288784
+Bu tuo wa de ren	96989
+Les cigognes n'en font qu'à leur tête	94879
+News	353796
+Aakhri Badla	482672
+Het sacrament	100537
+Un bulgare de huma	237059
+Ponmana Selvan	320291
+Naag Nagin	359729
+Amok: Patrolman 2	4627700
+Oh Schucks ..... It's Schuster!	2268746
+Hiver 54, l'abbé Pierre	97515
+Lu bing hua	97791
+Dost Garibon Ka	359186
+Kodiparakkudu	155812
+Zugzwang	98716
+May pulis, may pulis sa ilalim ng tulay	420099
+Krvopijci	188779
+Wo wei cheng nian	98665
+Mentiras piadosas	133965
+Yuga Purusha	403709
+Cold Heat	97078
+Yawara!	1621068
+Dias Melhores Virão	97198
+C.B.I. Shankar	1319067
+The Trident Force	219363
+Vahsi ve Güzel	5321194
+La nación clandestina	97951
+La più bella del reame	98099
+El fiscal de hierro	290618
+Trigon Fire	1105397
+Sa kuko ng agila	360945
+Rumbera, caliente	257069
+Puthiya Pathai	332338
+A Case of Honor	94844
+Coeurs de couleur	252997
+Vardi	100857
+Tosui yugi	291518
+Hentai byôtô: SM shinryo-shitsu	291234
+Showbiz - eller hvordan bli kjendis på en-to-tre!	98323
+Ye ji qing	100981
+Fu gui zai san po ren	97396
+Sura Sundaranga	246260
+Il bambino e il poliziotto	96884
+Fanshî dansu	97330
+Kronvittnet	97687
+Garaga	97411
+Florencio Diño Public Enemy No. 1 of Caloocan	924221
+Savannah	226408
+Veiled Threat	98582
+Al-aragoz	101362
+Bagh Bahadur	158481
+La ragazza del metrò	139551
+Vanille fraise	98578
+La bella del Alhambra	178266
+Deadly Spygames	97170
+Buying Time	96998
+En verden til forskel	98551
+Al margen de la ley	276767
+Merchants of War	95624
+Jaathakam	353569
+Fu gui kai xin gui	97395
+Douthyam	291871
+Rebus	98173
+Quarantine	245378
+Na-Insaafi	234302
+Ab Meri Baari	950681
+Derrumbe	377765
+Olor a muerte	288666
+Ennai Petha Raasa	288513
+Fatal Revenge	99552
+Karachi	97645
+Salisi Gang	466966
+Mi mujer tiene un amante	214948
+Ögretmen Zeynep	428063
+Bille en tête	92903
+El vuelo de la paloma	96406
+Anak ng demonyo	474545
+Xiao nan ren zhou ji	96115
+Milagro en Roma	95639
+Boutique	263153
+Lahu Ki Awaz	2637656
+Joi hei fung wan	98703
+Ölsäm... bagisla	173956
+Coprnica Zofka	321762
+Mera Farz	187278
+Blackbelt II	94755
+Jungle Assault	97632
+Aso't pusa	360385
+Bharata Nari	7489484
+Estación Central	97294
+The Tell Tale Heart	253796
+Siva	9240104
+Full Metal Ninja	183098
+Buon Natale... Buon anno	158530
+Wallers letzter Gang	96411
+Cei care platesc cu viata	101557
+L'ultima emozione	339836
+Ang pumatay ng dahil sa iyo	317081
+Sluga	96121
+Konec starych casu	97681
+Final Cut	2627822
+Rape of Virgina P	2729078
+The Long Road Home	221358
+Zulm Ki Zanjeer	187615
+Bloodbath in Psycho Town	299555
+Rangeelay Jasoos	9189550
+The Top of His Head	98493
+Shi mian mai fu	100599
+Fu xing chuang jiang hu	121302
+Pleure pas my love	98103
+On the Edge	2127337
+Gui gou ren	97463
+Aararo Aariraro	155468
+Long Ranger and Tonton: Shooting Stars of the West	466884
+Meng gui jia ren	121540
+Gili Gili Ge	1527114
+Moonchild	5528372
+A un	332580
+Wild Zone	98653
+Pistolero a sueldo	289760
+The Prisoner of St. Petersburg	100413
+Hosçakal	2523648
+Kissa Pehli Raat Ka	3673372
+Faca de Dois Gumes	93059
+Bandini	6925998
+Etyudy o Vrubele	5735932
+Provoked	244736
+Homeboyz II: Crack City	238278
+Un macho en el hotel	289734
+Fatal Images	183071
+Khotipuron	5431372
+Elaan-E-Jung	359215
+Milan Ki Pyas	3628858
+Stan posiadania	98381
+Indira	2255845
+M&M, the Incredible Twins	466887
+Psy	1316626
+Lahure	6577862
+Kamilla og tyven II	209072
+El día de las sirvientas	285538
+El río que nos lleva	98239
+Al Andalus	96779
+Kokila	263583
+Meng gui shan fen	97865
+La Parisienne	207005
+Thendral Sudum	320617
+Grüne Hochzeit	97460
+Jing hun ji	97623
+Pyari Dulhaniya	2737238
+Nawab Sirajuddaula	5782250
+Jézus Krisztus horoszkópja	95422
+Mera Naseeb	427526
+Zwei schräge Vögel	98723
+Doppelgänger	322062
+Tiger, Löwe, Panther	98477
+Christian	125695
+Leedvermaak	97725
+Koduku Diddina Kapuram	234046
+Liu mang chai po	97761
+Kristnihald undir Jökli	137891
+Layla	116842
+Rajanigandha	1427285
+Murder on Line One	211531
+Apna Ghar	231166
+O Grande Mentecapto	239016
+I ragazzi del 42° plotone	202539
+En Purushan Thaan Enakkum Mattum Thaan	288509
+Burning Vengeance	299609
+Hai Hai Nayaka	249561
+Avariya - doch menta	96858
+Singapore Harbor	160872
+Return of the Family Man	219275
+Apna Desh Paraye Log	395455
+Berdugo Ng Escalante	4911756
+Kasam Suhaag Ki	359546
+My Darling Domestik	360814
+El Rey De Los Taxistas	378663
+Si mi cama hablara	253697
+Tere Bina Kya Jeena	395784
+Pi li jing hua	4300456
+Tolérance	98487
+Peaux de vaches	95842
+Uf - oni jsou tady	100833
+Die Senkrechtstarter	274821
+Dos tipas de cuidado	257566
+Mil Gayee Manzil Mujhe	374046
+Luigi's Ladies	97794
+Naa Mogudu Nanke Sontham	262636
+Misplaced	100158
+Badis	101400
+Protezione a vista	278650
+The Hitch-Hikers	209026
+Perfect Profile	98079
+Shatarupa	1545718
+Jeniec Europy	97617
+CF gâru	295896
+Kill Slade	97664
+Lie huo jie tou	97744
+Los extermineitors	257655
+Police Ke Peechhe Police	1773630
+Notater om kærligheden	124029
+Tarka	1319174
+Oonch Neech Beech	359777
+Yûwakusha	203235
+Games of Survival	264629
+Mission Dynamo	6028930
+Lykken er en underlig fisk	122594
+Maihime	97151
+Intimidad	248911
+Paattukku Oru Thalaivan	289377
+Abot hanggang sukdulan	360331
+Fragments of Isabella	97381
+Der Bruch	94804
+Barroco	99107
+Cas sluhu	97020
+1990 Kaliyuga Vishwamitra	389717
+Blauäugig	96942
+Shaadi Se Pehle Aur Shaadi Ke Baad	3511190
+Boerenpsalm	96964
+Kingsgate	97669
+Primary Target	98124
+Bliskie spotkania z wesolym diablem	96948
+Dancing in the Forest	94944
+Bejalai	271393
+Viva Villaveien!	129558
+Voskhozhdenie na Fudziyamu	175309
+Gu-Ga	272646
+Bilangin ang bituin sa langit	125009
+Kavarna Astoria	97653
+Stage Fright	161987
+Pekin no suika	99116
+Die Geschichte von der Gänseprinzessin und ihrem treuen Pferd Falada	95210
+L'invité surprise	97588
+Mahayanam	314349
+Book of Days	204913
+Kuarup	97689
+Paap Ki Sazaa	2637672
+Manika, une vie plus tard	95584
+Marley's Revenge: The Monster Movie	242647
+The Tattoo Chase	420241
+Desperation Rising	237153
+Programado para morir	285949
+Bandhabi	5426850
+Rosa de dos aromas	206254
+Onde Bate o Sol	98025
+Passi d'amore	98070
+Loco veneno	95536
+Sevmek ve ölmek zamani	5610558
+Tong gen sheng	98490
+Os Trapalhões na Terra dos Monstros	139659
+Okhota na Edinoroga	311597
+Heaven Becomes Hell	237304
+Corps perdus	99306
+El chácharas	284959
+Corsa di primavera	97112
+Nari Nari Naduma Murari	355808
+President's Target	244727
+Pardina at ang mga duwende	487724
+Prabhatham Chuvanna Theruvil	353904
+Juliet Game	138544
