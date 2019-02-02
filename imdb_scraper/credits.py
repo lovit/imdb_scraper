@@ -30,7 +30,7 @@ def parse_credits(id):
         text = tr.text.replace('\n', '').replace('\t','').strip()
         if not text or not marker in text:
             continue
-        idx = tr.select('a[href^=/name/nm]')
+        idx = tr.select('a[href^="/name/nm"]')
         if idx:
             idx = idx[0].attrs.get('href', '').split('/?')[0]
             idx = idx.replace('/name/nm','')
