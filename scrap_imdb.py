@@ -65,36 +65,36 @@ def main():
 
             print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
 
-            if scrap_main:
-                path = '{}/main/{}.json'.format(directory, idx)
+            path = '{}/main/{}.json'.format(directory, idx)
+            if scrap_main and not os.path.exists(path):
                 obj = parse_main(idx)
                 save_json(obj, path)
                 print('scrap {} main'.format(idx))
                 time.sleep(1)
 
-            if scrap_credits:
-                path = '{}/credits/{}'.format(directory, idx)
+            path = '{}/credits/{}'.format(directory, idx)
+            if scrap_credits and not os.path.exists(path):
                 obj = parse_credits(idx)
                 save_list_of_json(obj, path)
                 print('scrap {} credits'.format(idx))
                 time.sleep(1)
 
-            if scrap_keywords:
-                path = '{}/keywords/{}'.format(directory, idx)
+            path = '{}/keywords/{}'.format(directory, idx)
+            if scrap_keywords and not os.path.exists(path):
                 obj = parse_keywords(idx)
                 save_list(obj, path)
                 print('scrap {} keywords'.format(idx))
                 time.sleep(1)
 
-            if scrap_quotes:
-                path = '{}/quotes/{}'.format(directory, idx)
+            path = '{}/quotes/{}'.format(directory, idx)
+            if scrap_quotes and not os.path.exists(path):
                 obj = parse_quotes(idx)
                 save_list_of_json(obj, path)
                 print('scrap {} quotes'.format(idx))
                 time.sleep(1)
 
-            if scrap_reviews:
-                path = '{}/reviews/{}'.format(directory, idx)
+            path = '{}/reviews/{}'.format(directory, idx)
+            if scrap_reviews and not os.path.exists(path):
                 if debug:
                     max_page = 3
                 else:
