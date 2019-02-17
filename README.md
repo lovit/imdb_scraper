@@ -192,12 +192,13 @@ for tidxs in yield_topmovie_title_idxs(2018, max_num=100):
 | begin_year | int | 1930 | yyyy form |
 | end_year | int | 2019 | yyyy form |
 | sleep | float | 10.0 | yyyy form |
-| main | Boolean | | action='store_true' |
-| credits | Boolean | | action='store_true' |
-| keywords | Boolean | | action='store_true' |
-| quotes | Boolean | | action='store_true' |
-| reviews | Boolean | | action='store_true' |
-| debug | Boolean | | action='store_true' |
+| main | Boolean | False | action='store_true' |
+| credits | Boolean | False | action='store_true' |
+| keywords | Boolean | False | action='store_true' |
+| quotes | Boolean | False | action='store_true' |
+| reviews | Boolean | False | action='store_true' |
+| debug | Boolean | False | 매년 10 개의 영화만 scraping |
+| update | Boolean | False | 이미 scrap 한 정보라도 re-scrap |
 
 ```
 python scrap_imdb.py --begin_year 2017 --end_year 2018 --debug --main --credits --keywords --reviews --quotes
