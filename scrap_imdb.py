@@ -22,6 +22,7 @@ def main():
     parser.add_argument('--quotes', dest='scrap_quotes', action='store_true')
     parser.add_argument('--reviews', dest='scrap_reviews', action='store_true')
     parser.add_argument('--debug', dest='debug', action='store_true')
+    parser.add_argument('--update', dest='update', action='store_true')
 
     args = parser.parse_args()
     directory = args.directory
@@ -34,6 +35,7 @@ def main():
     scrap_quotes = args.scrap_quotes
     scrap_reviews = args.scrap_reviews
     debug = args.debug
+    update = args.update
 
     # check output directory
     directories = ['{}/main/', '{}/credits/', '{}/keywords/', '{}/quotes/', '{}/reviews/']
@@ -66,35 +68,35 @@ def main():
             print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
 
             path = '{}/main/{}.json'.format(directory, idx)
-            if scrap_main and not os.path.exists(path):
+            if (scrap_main and not os.path.exists(path)) or (scrap_main and update):
                 obj = parse_main(idx)
                 save_json(obj, path)
                 print('scrap {} main'.format(idx))
                 time.sleep(1)
 
             path = '{}/credits/{}'.format(directory, idx)
-            if scrap_credits and not os.path.exists(path):
+            if (scrap_credits and not os.path.exists(path)) or (scrap_credits and update):
                 obj = parse_credits(idx)
                 save_list_of_json(obj, path)
                 print('scrap {} credits'.format(idx))
                 time.sleep(1)
 
             path = '{}/keywords/{}'.format(directory, idx)
-            if scrap_keywords and not os.path.exists(path):
+            if (scrap_keywords and not os.path.exists(path)) or (scrap_keywords and update):
                 obj = parse_keywords(idx)
                 save_list(obj, path)
                 print('scrap {} keywords'.format(idx))
                 time.sleep(1)
 
             path = '{}/quotes/{}'.format(directory, idx)
-            if scrap_quotes and not os.path.exists(path):
+            if (scrap_quotes and not os.path.exists(path)) or (scrap_quotes and update):
                 obj = parse_quotes(idx)
                 save_list_of_json(obj, path)
                 print('scrap {} quotes'.format(idx))
                 time.sleep(1)
 
             path = '{}/reviews/{}'.format(directory, idx)
-            if scrap_reviews and not os.path.exists(path):
+            if (scrap_reviews and not os.path.exists(path)) or (scrap_reviews and update):
                 if debug:
                     max_page = 3
                 else:
