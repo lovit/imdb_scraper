@@ -22,7 +22,9 @@ def main():
     parser.add_argument('--quotes', dest='scrap_quotes', action='store_true')
     parser.add_argument('--reviews', dest='scrap_reviews', action='store_true')
     parser.add_argument('--debug', dest='debug', action='store_true')
-    parser.add_argument('--update', dest='update', action='store_true')
+    parser.add_argument('--rescrap', dest='rescrap', action='store_true')
+    parser.add_argument('--fast-update', dest='fastupdate', action='store_true',
+        help='If True, this script scraps which are not scraped before time')
 
     args = parser.parse_args()
     directory = args.directory
@@ -35,7 +37,8 @@ def main():
     scrap_quotes = args.scrap_quotes
     scrap_reviews = args.scrap_reviews
     debug = args.debug
-    update = args.update
+    rescrap = args.rescrap
+    fastupdate = args.fastupdate
 
     # check output directory
     directories = ['{}/main/', '{}/credits/', '{}/keywords/', '{}/quotes/', '{}/reviews/']
@@ -68,43 +71,59 @@ def main():
             print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
 
             path = '{}/main/{}.json'.format(directory, idx)
-            if (scrap_main and not os.path.exists(path)) or (scrap_main and update):
+            if (scrap_main and not os.path.exists(path)) or (scrap_main and rescrap):
                 obj = parse_main(idx)
                 save_json(obj, path)
                 print('scrap {} main'.format(idx))
                 time.sleep(1)
 
             path = '{}/credits/{}'.format(directory, idx)
-            if (scrap_credits and not os.path.exists(path)) or (scrap_credits and update):
+            if (scrap_credits and not os.path.exists(path)) or (scrap_credits and rescrap):
                 obj = parse_credits(idx)
                 save_list_of_json(obj, path)
                 print('scrap {} credits'.format(idx))
                 time.sleep(1)
 
             path = '{}/keywords/{}'.format(directory, idx)
-            if (scrap_keywords and not os.path.exists(path)) or (scrap_keywords and update):
+            if (scrap_keywords and not os.path.exists(path)) or (scrap_keywords and rescrap):
                 obj = parse_keywords(idx)
                 save_list(obj, path)
                 print('scrap {} keywords'.format(idx))
                 time.sleep(1)
 
             path = '{}/quotes/{}'.format(directory, idx)
-            if (scrap_quotes and not os.path.exists(path)) or (scrap_quotes and update):
+            if (scrap_quotes and not os.path.exists(path)) or (scrap_quotes and rescrap):
                 obj = parse_quotes(idx)
                 save_list_of_json(obj, path)
                 print('scrap {} quotes'.format(idx))
                 time.sleep(1)
 
             path = '{}/reviews/{}'.format(directory, idx)
-            if (scrap_reviews and not os.path.exists(path)) or (scrap_reviews and update):
+            if scrap_reviews:
+                # set debug mode
                 if debug:
                     max_page = 3
                 else:
                     max_page = -1
-                for i_reviews, reviews in enumerate(yield_reviews(idx, max_page, sleep)):
+
+                # load scraped reviews and initialize scrapeds
+                if not os.path.exists(path) or rescrap:
+                    reviews = []
+                else:
+                    reviews = load_reviews(path)
+                scrapeds = {r['id'] for r in reviews}
+
+                # reset scraped file
+                if rescrap:
+                    save_list_of_json([], path, op='w')
+
+                for i_reviews, reviews in enumerate(yield_reviews(idx, max_page, sleep, scrapeds, rescrap)):
                     save_list_of_json(reviews, path, op='a')
                     print('\rscrap {} reviews {} pages ..'.format(idx, i_reviews + 1), end='', flush=True)
-                print('\rscrap {} reviews from {} pages was done.'.format(idx, i_reviews + 1))
+                if max_page > 0 and (i_reviews + 1 < max_page):
+                    print('\rEarly stop scraping. {} reviews from {} pages was updated'.format(idx, i_reviews + 1))
+                else:
+                    print('\rscrap {} reviews from {} pages was done.'.format(idx, i_reviews + 1))
 
             print('-'*40)
         print('done year = {} ({} ~ {})'.format(year, begin_year, end_year))
@@ -134,6 +153,12 @@ def save_list_of_json(json_list, path, op='w'):
         for obj in json_list:
             obj_strf = json.dumps(obj, ensure_ascii=False)
             f.write('{}\n'.format(obj_strf))
+
+def load_reviews(path):
+    with open(path, encoding='utf-8') as f:
+        reviews = [line.strip() for line in f]
+    reviews = [r for r in reviews if r]
+    return reviews
 
 if __name__ == '__main__':
     main()
