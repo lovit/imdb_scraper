@@ -7,7 +7,7 @@ year_base = 'https://www.imdb.com/search/title?title_type=feature&year={0}-01-01
 pattern = re.compile('[\d,]+ titles')
 
 
-def yield_topmovie_title_idxs(year, max_num=1500, sleep=1.0, verbose=False):
+def yield_topmovie_title_idxs(year, max_num=3000, sleep=1.0, verbose=False):
     """
     Arguments
     ---------
