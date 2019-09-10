@@ -9,7 +9,7 @@ reviews_base = 'https://www.imdb.com/title/tt{}/reviews/_ajax?sort=submissionDat
 front_base = 'https://www.imdb.com/title/tt{}/reviews/_ajax?sort=submissionDate'
 
 
-def yield_reviews(idx, max_page=3, sleep=1.0):
+def yield_reviews(idx, max_page=3, sleep=1.0, already_scraped=None, rescrap=False):
     """
     Arguments
     ---------
@@ -20,6 +20,13 @@ def yield_reviews(idx, max_page=3, sleep=1.0):
         Maximum number of reviews is 25 x max_page
     sleep : float
         Sleep time [second]
+    already_scraped : set of str
+        Set of id of which already scraped.
+        If rescrap is False and a id of scraped review in this
+        function exists in 'already_scraped', then stop yielding.
+    rescrap : Boolean
+        If True, it scraps all reviews whether a id of review exists
+        in 'already_scraped' or not.
 
     Yields
     -------
@@ -32,6 +39,9 @@ def yield_reviews(idx, max_page=3, sleep=1.0):
     """
 
     idx = idx_as_strf(idx)
+
+    if already_scraped is None:
+        already_scraped = set()
 
     # get number of reviews
     num_reviews = get_num_of_reviews(idx)
@@ -47,12 +57,22 @@ def yield_reviews(idx, max_page=3, sleep=1.0):
     yield parse_reviews_soup(soup)
 
     # loop
+    stop = False
     for p in range(1, max_page):
+        if stop:
+            break
         time.sleep(sleep)
         url = reviews_base.format(idx, datakey)
         soup = get_soup(url)
         datakey = parse_data_key(soup)
-        yield parse_reviews_soup(soup)
+        reviews = parse_reviews_soup(soup)
+        if not rescrap:
+            reviews_ = [review for review in reviews if not (review['id'] in already_scraped)]
+            if len(reviews) != len(reviews_):
+                stop = True
+        else:
+            reviews_ = reviews
+        yield reviews_
 
 def parse_data_key(soup):
     """
