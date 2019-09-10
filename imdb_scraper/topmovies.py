@@ -35,7 +35,8 @@ def yield_topmovie_title_idxs(year, max_num=1500, sleep=1.0, verbose=False):
         try:
             yield parse_a_page(year, start)
             time.sleep(sleep)
-        except:
+        except Exception as e:
+            print(e)
             print('\nUnexpected exception. Sleep 10 minutes. year = {}, start = {}'.format(year, start))
             time.sleep(600)
     if verbose:
@@ -60,7 +61,7 @@ def parse_a_page(year, start):
     return title_idxs
 
 def parse_title_idx_from_div(div):
-    a = div.select('a[href^=/title/tt]')[0]
+    a = div.select('a[href^="/title/tt"]')[0]
     title = a.text.strip()
     idx = a.attrs.get('href', '').split('/?')[0].replace('/title/tt', '')
     idx = int(idx)
