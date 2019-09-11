@@ -63,7 +63,7 @@ def main():
 
         title_idxs = load_movie_idx(id_list_path)
         if debug:
-            title_idxs = title_idxs[:10]
+            title_idxs = title_idxs[:3]
 
         n_movies = len(title_idxs)
         for i_movie, (title, idx) in enumerate(title_idxs):
