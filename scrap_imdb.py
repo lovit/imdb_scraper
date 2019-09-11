@@ -52,6 +52,7 @@ def main():
     print('Scrap keywords: {}'.format(scrap_keywords))
     print('Scrap quotes  : {}'.format(scrap_quotes))
     print('Scrap reviews : {}'.format(scrap_reviews))
+    print('Fast update   : {}'.format(fastupdate))
     print('year          : {} ~ {}'.format(begin_year, end_year))
 
     for year in range(end_year, begin_year - 1, -1):
@@ -119,11 +120,11 @@ def main():
 
                 for i_reviews, reviews in enumerate(yield_reviews(idx, max_page, sleep, scrapeds, rescrap)):
                     save_list_of_json(reviews, path, op='a')
-                    print('\rscrap {} reviews {} pages ..'.format(idx, i_reviews + 1), end='', flush=True)
+                    print('\rscrap reviews of movie={} from {} pages ..'.format(idx, i_reviews + 1), end='', flush=True)
                 if max_page > 0 and (i_reviews + 1 < max_page):
-                    print('\rEarly stop scraping. {} reviews from {} pages was updated'.format(idx, i_reviews + 1))
+                    print('\rearly stop scraping review of movie={} from {} pages'.format(idx, i_reviews + 1))
                 else:
-                    print('\rscrap {} reviews from {} pages was done.'.format(idx, i_reviews + 1))
+                    print('\rscrap reviews of movie={} from {} pages was done.'.format(idx, i_reviews + 1))
 
             print('-'*40)
         print('done year = {} ({} ~ {})'.format(year, begin_year, end_year))
@@ -157,7 +158,7 @@ def save_list_of_json(json_list, path, op='w'):
 def load_reviews(path):
     with open(path, encoding='utf-8') as f:
         reviews = [line.strip() for line in f]
-    reviews = [r for r in reviews if r]
+    reviews = [json.loads(r) for r in reviews if r]
     return reviews
 
 if __name__ == '__main__':
