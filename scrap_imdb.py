@@ -24,7 +24,7 @@ def main():
     parser.add_argument('--debug', dest='debug', action='store_true')
     parser.add_argument('--rescrap', dest='rescrap', action='store_true')
     parser.add_argument('--fast-update', dest='fastupdate', action='store_true',
-        help='If True, this script scraps which are not scraped before time')
+        help='If True, this script scraps movie reviews which are not scraped before time')
 
     args = parser.parse_args()
     directory = args.directory
