@@ -1,1387 +1,1391 @@
 title	idx
 Casablanca	34583
-Reunion in France	35250
 Bambi	34492
-Somewhere I'll Find You	35356
-The Magnificent Ambersons	35015
-Saboteur	35279
-We Were Dancing	35537
-Mrs. Miniver	35093
-Cat People	34587
-Now, Voyager	35140
-The Pride of the Yankees	35211
-Holiday Inn	34862
-Jungle Book	34928
-To Be or Not to Be	35446
-Thunder Rock	35440
-The Talk of the Town	35417
-Yankee Doodle Dandy	35575
-This Gun for Hire	35432
-Random Harvest	35238
-The Glass Key	34798
-Woman of the Year	35567
-In Which We Serve	34891
-The Black Swan	34522
-The Ghost of Frankenstein	34786
-Tales of Manhattan	35415
-I Married a Witch	34881
-The Major and the Minor	35019
-Kings Row	34946
-Reap the Wild Wind	35244
-Keeper of the Flame	34936
-All Through the Night	34449
-The Man Who Came to Dinner	33874
-The Living Ghost	34985
 Flying Tigers	34742
-You Were Never Lovelier	35583
-Road to Morocco	35262
-My Sister Eileen	35105
-On the Sunny Side	35150
-In This Our Life	34890
+To Be or Not to Be	35446
+Saboteur	35279
+Cat People	34587
+The Talk of the Town	35417
+Now, Voyager	35140
+Mrs. Miniver	35093
+The Magnificent Ambersons	35015
 The Palm Beach Story	35169
-For Me and My Gal	34746
-Sherlock Holmes and the Voice of Terror	35318
-Went the Day Well?	35429
-Across the Pacific	34428
-A-Haunting We Will Go	34424
-Blondie for Victory	34526
-Once Upon a Honeymoon	35151
+The Ox-Bow Incident	36244
+Yankee Doodle Dandy	35575
+Jungle Book	34928
+The Glass Key	34798
+Reap the Wild Wind	35244
+In Which We Serve	34891
+This Gun for Hire	35432
+Holiday Inn	34862
+Random Harvest	35238
+All Through the Night	34449
 Moontide	35082
-The Spoilers	35369
-Sherlock Holmes and the Secret Weapon	35317
-The Young Mr. Pitt	35586
-Desperate Journey	34646
-Tortilla Flat	35460
-The First of the Few	34734
-A Night to Remember	36203
-The Magnificent Dope	35016
-The McGuerins from Brooklyn	35049
-The Mummy's Tomb	35096
-Wake Island	35530
-Gentleman Jim	34778
-Son of Fury: The Story of Benjamin Blake	35360
-Rio Rita	35259
-Miss Annie Rooney	35068
-Les visiteurs du soir	35521
-Captains of the Clouds	34578
-Pittsburgh	35195
-Who Done It?	35555
-Eyes in the Night	34711
-L'assassin habite... au 21	34478
-Seven Sweethearts	35309
-My Gal Sal	35103
-In Old California	34889
-Roxie Hart	35272
-The Falcon Takes Over	34716
-Arabian Nights	34465
-The Vanishing Virginian	35504
-The Pied Piper	35189
-Orchestra Wives	35157
-Tarzan's New York Adventure	35419
-One of Our Aircraft Is Missing	35153
-Rings on Her Fingers	35258
-George Washington Slept Here	34780
-The Corpse Vanishes	34613
 The Man Who Wouldn't Die	35027
-The Mad Monster	35009
-Back-Room Boy	34488
-Pardon My Sarong	35173
-Invisible Agent	34902
-Journey for Margaret	34923
-It Happened in Flatbush	34905
-Aniki Bóbó	34461
-Chichi ariki	34591
-Night Monster	35124
-Star Spangled Rhythm	35379
-Tombstone: The Town Too Tough to Die	35450
-Ride 'Em Cowboy	35252
-White Cargo	35553
-The Gay Sisters	34770
-Commandos Strike at Dawn	35746
-Time to Kill	35443
-This Above All	35431
-Castle in the Desert	34586
-The Boogie Man Will Get You	34540
-My Favorite Blonde	35100
-Ship Ahoy	35320
-The Adventures of Martin Eden	34431
-The Big Street	34514
-Secret Mission	35301
-To the Shores of Tripoli	35447
-The Night Has Eyes	35123
-The Moon and Sixpence	35078
-The Big Shot	34513
-Crossroads	34622
-Larceny, Inc.	34965
-Thunder Birds: Soldiers of the Air	35438
-The Undying Monster	35489
-Her Cardboard Lover	34846
-Valley of the Sun	35502
-The Strange Case of Doctor Rx	35386
-Lady for a Night	33806
-The Great Gildersleeve	34810
-Black Dragons	34521
-China Girl	34593
-Life Begins at Eight-Thirty	34976
-The Male Animal	35020
-Springtime in the Rockies	35370
-4 passi fra le nuvole	35230
-Beyond the Blue Horizon	34510
-Tennessee Johnson	36419
-The Goose Steps Out	34801
-Andy Hardy's Double Life	34458
-We the Living	92194
-A Date with the Falcon	33517
-The Fleet's In	34736
-Private Buckaroo	35218
-Bowery at Midnight	34546
-I Married an Angel	34882
-Blue, White and Perfect	33408
-Street of Chance	35388
-The Day Will Dawn	34639
-The Tuttles of Tahiti	35477
-Perils of Nyoka	35181
-Kid Glove Killer	34941
-Eagle Squadron	34691
-They All Kissed the Bride	35428
-The Lady Is Willing	34961
-Mokey	35074
-Lady Gangster	34959
-The Hidden Hand	34850
-Iceland	34886
-Alias Boston Blackie	34445
-Always in My Heart	34454
-¡Cuando la tierra tembló!	229084
-Undercover Man	35487
-Grand Central Murder	34808
-American Empire	34455
-The Navy Comes Through	35113
-The Lady Has Plans	34960
-Manila Calling	35033
-The Courtship of Andy Hardy	34618
-Die große Liebe	34815
-Ten Gentlemen from West Point	35421
-Song of the Islands	35361
-Take a Letter, Darling	35413
-When Johnny Comes Marching Home	35550
-Apache Trail	35639
-Footlight Serenade	34745
-Spy Smasher	35372
-Just Off Broadway	34931
-Dawn on the Great Divide	34638
-Mr. and Mrs. North	33926
-Nazi Agent	35114
-Phantom Killer	35185
-Raza	35241
-¡Así se quiere en Jalisco!	34479
-Meet the Stewarts	35052
-The Great Man's Lady	34812
-They Raid by Night	35430
-The Falcon's Brother	34717
-Deep in the Heart of Texas	34640
-The Loves of Edgar Allan Poe	34997
-There's One Born Every Minute	35427
-Cairo	34565
-Lucky Ghost	33856
-Heart of the Golden West	34832
-Mystery of Marie Roget	35107
-Hatter's Castle	33692
-Fingers at the Window	34732
-Sunset Serenade	35396
-A Desperate Chance for Ellery Queen	34645
-Joan of Paris	34919
-Stand by for Action	36386
-The Bugle Sounds	33438
-The Night Before the Divorce	35122
-Panama Hattie	35170
-Come on Danger	33478
-Fly-By-Night	34740
-Los tres mosqueteros	162020
-Nevinost bez zastite	271083
-Dr. Broadway	34678
-A Close Call for Ellery Queen	34602
-Devil's Harvest	157533
-Monsieur La Souris	35075
-The Forest Rangers	34749
-Die Entlassung	34704
-The Mayor of 44th Street	35048
-Seven Days' Leave	35307
-My Favorite Spy	35102
-Rid i natt!	35251
-Man with Two Lives	35031
-El conde de Montecristo	33482
-Butch Minds the Baby	34560
-The Next of Kin	35121
-A Tornado in the Saddle	35457
-Mahakavi Kalidas	234168
-Madame Spy	35010
-Blondie's Blessed Event	34527
-Bala Nagamma	254982
-The Bashful Bachelor	33379
-Penn of Pennsylvania	33493
-Tramp, Tramp, Tramp!	35467
-A Gentleman at Heart	34779
-The Foreman Went to France	33621
-Careful, Soft Shoulders	34579
-Broadway	34549
-Whistling in Dixie	35552
-Don Winslow of the Navy	34664
-Tish	35445
-Lady in a Jam	34963
-Tomorrow We Live	35453
-The Big Blockade	34512
-Remember Pearl Harbor	35249
-Blondie Goes to College	34525
-Black Sheep of Whitehall	33398
-The Remarkable Andrew	35247
-Captain Midnight	34577
-Northwest Rangers	35134
-Malombra	35021
-Emberek a havason	34701
-Much Too Shy	35095
-Wings for the Eagle	35564
-The Panther's Claw	35171
-Löjtnantshjärtan	35006
-Unpublished Story	35494
-Brooklyn Orchid	34551
-Obliging Young Lady	33968
-Calling Dr. Gillespie	34570
-So's Your Aunt Emma!	35051
-Enemy Agents Meet Ellery Queen	34703
-The Affairs of Martha	34433
-Flying Fortress	34741
-Overland Stagecoach	35166
-Quiet Please: Murder	35233
-Junior G-Men of the Air	34930
-Raiders of the West	35237
-Berlin Correspondent	34507
-The War Against Mrs. Hadley	35531
-Counter-Espionage	34617
-Powder Town	35205
-Men of Texas	35058
-Les inconnus dans la maison	34893
-King of the Mounties	34944
-O Pátio das Cantigas	35228
-Private Snuffy Smith	35220
-Smart Alecks	35345
-Here We Go Again	34847
-Lucky Jordan	34998
-Prisoner of Japan	35217
-X Marks the Spot	35570
-Vi hemslavinnor	35510
-Un pilota ritorna	35191
-Bombs Over Burma	34538
-El que tenga un amor	233637
-Mrs. Wiggs of the Cabbage Patch	35094
-Dr. Gillespie's New Assistant	34680
-Law of the Jungle	34968
-You Can't Escape Forever	35582
-Roti	232542
-Sunday Punch	35393
-Down Texas Way	34677
-Born to Sing	34543
-Billy the Kid Trapped	33390
-La fausse maîtresse	154473
-Der große König	34814
-Mug Town	36176
-Girl Trouble	34794
-The Mad Doctor of Market Street	35007
-Busses Roar	34558
-Hitler--Dead or Alive	34857
-Lettres d'amour	154767
-'Neath Brooklyn Bridge	34420
-The Pay Off	36255
-The Dawn Express	34637
-Below the Border	34505
-Rhythm Parade	36309
-Die goldene Stadt	34800
-The Old Chisholm Trail	36232
-Army Surgeon	34473
-Klondike Fury	34948
-Wen die Götter lieben	35540
-South of Santa Fe	35364
-Szíriusz	35410
-Man from Cheyenne	35025
-Baby Face Morgan	34486
-The Daring Young Man	35781
-A Yank at Eton	35572
-Johnny Doughboy	34921
-Noi vivi	35130
-The Great Impersonation	34811
-Syncopation	35405
-Four Jacks and a Jill	34751
-Maisie Gets Her Man	35018
-Juke Girl	34926
-Murder in the Big House	35098
-The Wife Takes a Flyer	35560
-Joe Smith, American	34920
-Behind the Eight Ball	34500
-Sin Town	35337
-Lost Canyon	34996
-The Spirit of Stanford	35368
-Stagecoach Buckaroo	35376
-Wild Bill Hickok Rides	34392
-Secret Enemies	35300
-Atlantic Convoy	34480
-Un garibaldino al convento	33648
-Ali Baba wa al arbain harame	281560
-Afsporet	34435
-Himlaspelet	34855
-Highways by Night	34853
-Kalakar	378171
-A Gentleman After Dark	34777
-The Silver Bullet	35334
-Dr. Renault's Secret	34681
-Queen of Broadway	35231
-What's Cookin'	35548
-Miss V from Moscow	36164
-The Secret Code	35299
-Macao, l'enfer du jeu	31600
-Submarine Raider	35391
-They Flew Alone	34278
-Silver Queen	35335
-War Dogs	35532
-Flight Lieutenant	34739
-Uncensored	35486
-The Mysterious Rider	35106
-Dr. Kildare's Victory	33554
-Parachute Nurse	35172
-¡A mí la legión!	34423
-She's in the Army	35313
-Are Husbands Necessary?	34467
-Gang Busters	34767
-El baisano Jalil	179664
-Heart of the Rio Grande	34833
-One Thrilling Night	35152
+The Black Swan	34522
+I Married a Witch	34881
+The Pride of the Yankees	35211
+The Major and the Minor	35019
+Gentleman Jim	34778
+You Were Never Lovelier	35583
+The Spoilers	35369
+Woman of the Year	35567
+The Man Who Came to Dinner	33874
+The Ghost of Frankenstein	34786
 Kan doktorn komma?	34933
-The Missing Million	35069
-The Boss of Big Town	35694
-I Was Framed	34883
-The Great Mr. Handel	34813
-Yo bailé con don Porfirio	35580
-Jungle Siren	34929
-Canal Zone	34572
-La cena delle beffe	33456
-Dernier atout	34643
-Sleepytime Gal	35344
-Quarta pagina	35229
-Lady from Chungking	36093
-Seven Miles from Alcatraz	35308
-Prairie Gunsmoke	35207
-Wildcat	35562
-Jesusita en Chihuahua	34916
-Suspected Person	36403
-Moonlight in Havana	35080
-Wiener Blut	35559
-Whispering Ghosts	35551
-Boston Blackie Goes Hollywood	34545
-Thru Different Eyes	35437
-Freckles Comes Home	34754
-Giorgi Saakadze	34781
-City of Silent Men	34598
-West of the Law	35543
-Jesús de Nazareth	233975
-The Balloon Goes Up	34491
-Mexican Spitfire's Elephant	35061
-Secret Agent of Japan	35298
-Sheikh Chilli	376881
-Mexican Spitfire Sees a Ghost	35059
-Basant	138315
-This Time for Keeps	35433
-Avanti c'è posto...	34481
-Youth on Parade	35587
-El verdugo de Sevilla	180280
-Unseen Enemy	35495
-Don Cesare di Bazan	34660
-La duchesse de Langeais	179161
-Call of the Canyon	34568
-Bengasi	34506
-That Other Woman	35426
-Outlaws of Pine Ridge	35163
-Doktor Glas	34659
-Alibi	34446
-Hawai · Maree oki kaisen	35533
-Sexlingar	35310
-Hände hoch	159486
-Thundering Hoofs	34290
-Let's Get Tough!	34973
-I Live on Danger	34880
-This Was Paris	35434
-The Yanks Are Coming	35576
-El ángel negro	222514
-Shepherd of the Ozarks	35315
-Wir machen Musik	35566
-Sons of the Pioneers	35362
-Over My Dead Body	35164
-Spy Ship	35371
-Mexican Spitfire at Sea	35060
-Jackass Mail	34909
-Tough As They Come	35461
-Bullets for Bandits	34557
-The Devil's Trail	34652
-Shut My Big Mouth	35324
-Call Out the Marines	34567
-Destination Unknown	34647
-True to the Army	35474
-Romance on the Range	35266
-A Man's World	35032
-Hay Foot	33696
-Mr. Wise Guy	35092
-Ridin' Down the Canyon	35255
-Seishun no kiryû	174190
-Der große Schatten	34817
-A Yank in Libya	35573
-Sweater Girl	35400
-Junior Army	36061
-Rembrandt	35248
-Two Yanks in Trinidad	35481
-My Heart Belongs to Daddy	35104
-A Tragedy at Midnight	35463
-Mississippi Gambler	35070
-Egy asszony visszanéz	33569
-Bullet Scars	34555
-Twin Beds	35479
-Ghost Town Law	34785
-G.P.U.	34765
-Between Us Girls	34509
-La nuit fantastique	41705
-Croisières sidérales	33501
-North to the Klondike	35133
-Eyes of the Underworld	35850
-Arizona Roundup	34468
-Le mariage de Chiffon	35039
-North of the Rockies	35132
-Pacific Rendezvous	35167
-Bhakta Potana	264418
-Riding the Wind	34109
-Lure of the Islands	35002
-Historia de un gran amor	162372
-Tsubasa no gaika	274997
-A Yank on the Burma Road	35574
-Young America	35585
-Sheriff of Sage Valley	35316
-Night in New Orleans	35126
-La aldea maldita	34441
-Where Trails End	166877
-House of Errors	34871
-The Valley of Vanishing Men	35501
-Nightmare	35127
-Asking for Trouble	34476
-The Mad Martindales	35008
-Lone Star Ranger	34994
-Somewhere in Camp	35357
-Let the People Sing	34972
-Today I Hang	35448
-Secrets of a Co-Ed	165938
-Malvaloca	35023
-Bells of Capistrano	34504
-The Affairs of Jimmy Valentine	34432
-Joan of Ozark	34918
-Trysil-Knut	35475
-Le destin fabuleux de Désirée Clary	193092
-Odessa in fiamme	35143
-Not a Ladies' Man	35137
-Hillbilly Blitzkrieg	34854
-Get Hep to Love	34784
-En äventyrare	35595
-Stasera niente di nuovo	35381
-Texas to Bataan	35425
-Hello, Annapolis	34840
-Jacobs stege	34910
-Sunset on the Desert	35397
-Mashenka	35044
-Lucky Legs	34999
-Broken Strings	135173
-We'll Smile Again	35539
-Juke Box Jenny	34927
-Nandanar	245310
-La symphonie fantastique	35403
-Das große Spiel	33681
-Drums of the Congo	34684
-Le voile bleu	162038
-Sieben Jahre Glück	35326
-Station Master	35382
-Stardust on the Sage	35380
-Underground Agent	35488
-Bandit Ranger	34494
-Escape from Crime	34707
-La virgen que forjó una patria	35520
-La guerra gaucha	34820
-Henry and Dizzy	34844
-Una storia d'amore	160915
-Sweetheart of the Fleet	35401
-Criminal Investigator	34621
-Rubber Racketeers	35273
-Boss of Hangtown Mesa	34544
-Sing Your Worries Away	35338
-Vsadniki	32103
-Secrets of the Underground	36338
-Soy puro mexicano	35365
-Haha wa shinazu	34824
-Henry Aldrich, Editor	34842
-Yokel Boy	35581
-Inside the Law	34898
-En trallande jänta	35466
-Vie privée	195389
-Klyatva Timura	34949
-Sabotage Squad	35277
-USS VD: Ship of Shame	244869
-Land of the Open Range	33810
-Das Gespensterhaus	34783
-Ballade i Nyhavn	124292
-Mariage d'amour	154847
-Man from Headquarters	35028
-Kak zakalyalas stal	34932
-I 3 aquilotti	35468
-Cuando viajan las estrellas	46886
-Cowboy Serenade	34619
-Fedora	34726
-You're Telling Me	35584
-Foreign Agent	34748
-Carnaval en el trópico	161377
-En el viejo Buenos Aires	178405
-Bombay Clipper	34537
-La fortuna viene dal cielo	34750
-Hong Kong kôryaku: Eikoku kuzururu no hi	34697
-Ek Raat	150447
-The Omaha Trail	35149
-Little Joe, the Wrangler	34982
-Priorities on Parade	35216
-Sealed Lips	34163
-Giorno di nozze	34793
-Sekretar raykoma	35304
-Isle of Missing Men	34904
-Zwei in einer großen Stadt	159842
-Friendly Enemies	34757
-The Man Who Returned to Life	35026
-Gallant Lady	34766
-Who Is Hope Schuyler?	35556
-Flying with Music	34743
-Jawani	241594
+For Me and My Gal	34746
+Kings Row	34946
+The First of the Few	34734
+Across the Pacific	34428
+In This Our Life	34890
+Road to Morocco	35262
+One of Our Aircraft Is Missing	35153
+Sherlock Holmes and the Secret Weapon	35317
+Roxie Hart	35272
+Went the Day Well?	35429
+Once Upon a Honeymoon	35151
+Keeper of the Flame	34936
+Tarzan's New York Adventure	35419
+Tales of Manhattan	35415
+The Mummy's Tomb	35096
+Son of Fury: The Story of Benjamin Blake	35360
+The Big Street	34514
+This Above All	35431
+Pittsburgh	35195
+The Corpse Vanishes	34613
+White Cargo	35553
+Wake Island	35530
+Orchestra Wives	35157
+In Old California	34889
+Desperate Journey	34646
+Larceny, Inc.	34965
 Bob's Your Uncle	33411
-Arizona Stage Coach	34469
-Giarabub	34789
-Halfway to Shanghai	34825
-Goyescas	34805
-Pardon My Stripes	35174
-Simón Bolívar	33053
-Give Out, Sisters	34797
-Take My Life	34261
-Red River Robin Hood	36296
-Law and Order	34967
-Riders of the West	35254
-Sauce for the Gander	7620294
-Small Town Deb	34202
-Inferno giallo	34895
-Rojo y negro	35264
-Along the Sundown Trail	34453
-Timber!	35442
-Down Rio Grande Way	34676
-Men of San Quentin	35057
-Dr. Crippen an Bord	34679
-The Phantom Plainsmen	35186
-The Power of God	4487016
-Sundown Jim	35394
-Le signorine della villa accanto	35332
-Ice-Capades Revue	34885
-Danger in the Pacific	34633
-Overland Mail	35165
-Egy bolond százat csinál	34695
-Fall In	35857
-Doku-ganryu Masamune	35154
-Fra' Diavolo	33630
-Pierre of the Plains	35190
-L'assassin a peur la nuit	34477
-Una signora dell'ovest	127284
-Vengeance of the West	35507
-Capitan Tempesta	33449
-Rodeo Rhythm	34123
-Correo de Indias	34614
-Fari nella nebbia	33588
-Addio Kira!	34429
-Professor Creeps	35221
-King of the Stallions	34945
-Riders of the Northland	35253
-Overland to Deadwood	203046
-The Seventh Survivor	34169
-El frente de los suspiros	34755
-Strictly in the Groove	35389
-Don Giovanni	34663
-Hab mich lieb	34823
-Boot Hill Bandits	34541
-Seda, sangre y sol	202579
-L'arlésienne	34471
-Casanova farebbe così!	34584
-Ubiytsy vykhodyat na dorogu	35485
-Western Mail	35544
-Musica proibita	35099
-Boyevoy kinosbornik 9	34535
-Westward Ho!	35545
-Duke of the Navy	34689
-Pirates of the Prairie	35193
-Front Line Kids	34760
-La isla de la pasión	33762
-Don't Get Personal	33543
-The Sundown Kid	35395
-Scattergood Survives a Murder	35293
-Hi, Neighbor	34849
-Les petits riens	34018
-Mam'zelle Bonaparte	35024
-Les affaires sont les affaires	210476
-Home in Wyomin'	34866
-Il leone di Damasco	33825
-Le due orfanelle	34688
-Too Many Women	35454
-Le bienfaiteur	154232
-Huit hommes dans un château	199611
-Thunder River Feud	35439
-King Arthur Was a Gentleman	34943
-Jail House Blues	34911
-Perils of the Royal Mounted	35182
-Mamnou'a el hub	281988
-Rossini	34131
-La guardia del corpo	34819
-Catene invisibili	34588
-Ven mi corazón te llama	197998
-Bharat Milap	156360
-Malambo	178732
-Fortunato	33625
-M.A.S.	33885
-Un colpo di pistola	33475
-Salute John Citizen	35284
-Chudiyan	417537
-Moonlight Masquerade	35079
-The Sky of Hope	259382
-Pension Jonas	192449
-L'ultimo addio	34332
-Claro de luna	178338
-Geliebte Welt	34773
-The Lone Prairie	34990
-Morskoy yastreb	239667
-Escape from Hong Kong	18867
-Police Bullets	35199
-The Postman Didn't Ring	35204
-Carmela	34580
-Stinsen på Lyckås	36387
-Cadets on Parade	34564
-Der verkaufte Großvater	35508
-Non ti pago!	35131
-Smith of Minnesota	35346
-Szeptember végén	165969
-Le journal tombe à cinq heures	170084
-Sissignora	34194
-The Cyclone Kid	34629
-Kísértés	33793
-Caballería del imperio	209952
-Un marido a precio fijo	35040
-Sürtük	304779
-Défense d'aimer	207442
-The Yukon Patrol	35588
-Hochzeit auf Bärenhof	34860
-Stand By All Networks	35378
-Girls' Town	34796
-Pazzo d'amore	35178
-Caprices	207372
-Melodías de América	123168
-The Traitor Within	35465
-I due Foscari	34687
-Princesa Urduja	764865
-The Lone Star Vigilantes	34995
-Wrecking Crew	35569
-Tumbleweed Trail	235121
-Torpedo Boat	35458
-Muqabala	35097
-The Rangers Take Over	36292
-Örségváltás	35598
-Tragica notte	34308
-Breach of Promise	34548
-Awaaz	1062229
-Paren iz nashego goroda	33801
-Valley of Hunted Men	35500
-Adolescencia	175427
-Gyávaság	34822
-Luisa Sanfelice	35000
-Meine Freundin Josefine	35054
-Halta Lottas krog	34826
-La belle aventure	34503
-Oborona Tsaritsyna. 1 seriya: Pokhod Voroshilova	35142
-Violanta	159823
-Frk. Vildkat	34759
-La signorina	35331
-Boyevoy kinosbornik 13: Nashi devushki	495162
-Forte tête	199537
-La última aventura de Chaflán	235116
-Wakai sensei	484005
-Del rancho a la capital	231440
-Fronttheater	136209
-Casa de mujeres	218082
-Alejandra	179632
-Testament profesora Wilczura	170668
-Dernière aventure	191077
-Lady from Lisbon	29105
-Sommerliebe	35359
-Code of the Outlaw	34604
-Rock River Renegades	35263
-Scattergood Rides High	35292
-Diesel	34653
-Viel Lärm um Nixi	35518
-Det är min musik	34649
-Kisise Na Kehna	213034
-Ala-Arriba!	34439
-Trail Riders	35464
-Hopeakihlajaiset	34869
-The Old Homestead	35145
-Lågor i dunklet	35005
-Dillagi	155669
-Colpi di timone	34607
-Texas Justice	34993
-Gula kliniken	34821
-Bad Men of the Hills	34489
-Der Fall Rainer	34718
-Otoko no iki	3556634
-Alfa Tau!	34444
-La bisbetica domata	34520
-A 2000 pengös férfi	34421
-L'amant de Bornéo	198298
-Pontcarral, colonel d'empire	198918
-Kerem ile Asli	304282
-Vårat gäng	35526
-La donna è mobile	34672
-Tordenskjold går i land	122761
-Pardon My Gun	36250
-The Girl from Alaska	34795
-Pahili Mangalagaur	332305
-Die heimliche Gräfin	34839
-The Lone Rider and the Bandit	34991
-West of Tombstone	35542
-Los ladrones somos gente honrada	34957
-Der Seniorchef	158932
-La novia de primavera	184789
-Regalo de reyes	180090
-Talk About Jacqueline	35416
-Det æ'kke te å tru	34650
-Retour au bonheur	189045
-Treat 'Em Rough	35471
-General von Döbeln	34775
-Brüderlein fein	34553
-Frisco Lil	34758
-Simplet	35336
-Little Tokyo, U.S.A.	34983
-A régi nyár	34139
-Frédérica	218987
-Riding Through Nevada	197824
-Shadows on the Sage	35311
-Søren Søndervold	125524
-Brother Martin	34552
-Kazakhstan - frontu!	259059
-Mil estudiantes y una muchacha	162471
-Die Sache mit Styx	132489
-Anuschka	158468
-Tamanna	236787
-El hombre que se quiso matar	34864
-Annette et la dame blonde	239237
-Una novia en apuros	35139
-Flickan i fönstret mitt emot	34738
-Khilona	154733
-La pantera nera	33997
-Laugh Your Blues Away	36100
-Kanchô imada shisezu	950619
-Hard Steel	33689
-Ein Zug fährt ab	130384
-Swapna	378825
-¿Quién te quiere a tí?	180337
-Aratanaru kôfuku	5057732
-Le lit à colonnes	198655
-Arizona Terrors	34470
-Sein Sohn	131004
-Baby på eventyr	122389
-Su primer baile	178918
-Bajó un ángel del cielo	178258
-Lawless Plainsmen	34969
-Aydah	237016
-Vi kunde ha' det saa rart	127958
-Vertigine	34357
-Der 5. Juni	158447
-Romanzo di un giovane povero	35267
-Sabotage at Sea	35278
-Jhankar	370808
-Tentazione	34267
-La mentirosa	178754
-Billy the Kid's Smoking Guns	34516
-La rueda de la vida	35274
-Stagecoach Express	35377
-Saugandh	35291
-Mahakavi Kalidas	234167
-Katyi	34934
-Documento Z-3	33540
-Anschlag auf Baku	135775
-Ta hand om Ulla	35412
-The Man in the Trunk	35030
-Una luz en la ventana	197651
-Locos de verano	184681
-Unidos por el eje	234950
-La blanca Paloma	34523
-Via delle cinque lune	35511
-Papá se desenreda	162519
-Vijay	378979
-Los dos pilletes	233609
-Haha no chizu	358501
-So ein Früchtchen	35350
-Puck	133163
-Les hommes sans peur	204385
-Viaje sin destino	35512
-La vírgen morena	235007
-Jesse James, Jr.	34915
-Velká prehrada	279500
-Boyevoy kinosbornik 10	34508
-La femme que j'ai le plus aimée	201615
-Meenakshi	156782
-Barat	215547
-Top Sergeant	35455
-Regina di Navarra	34090
-Das Baje	247977
-Amanecer ranchero	233195
-Midori no daichi	6331316
-Oro nero	33983
-Mit den Augen einer Frau	35073
-Los misterios de Tánger	35072
-El gran secreto	236265
-Geheimakte W.B.1	34772
-Los chicos crecen	34592
-La femme perdue	193154
-Kannagi	332174
-L'âge d'or	200317
-Ta' briller på	122278
-Romance à trois	250701
-Zwischen Himmel und Erde	35591
-En Manaivi	240481
-Secreto eterno	228829
-The Lone Rider in Cheyenne	34992
-Caviteño	786958
-Patrouille blanche	160646
-Soyez les bienvenus	195297
-Az utolsó dal	34349
-Morgondagens melodi	35083
-I gult och blått	34884
-La contessa Castiglione	34612
-Legión de héroes	34970
-Ying chun hua	437661
-Il fanciullo del West	34722
-Chauranghee	214578
-Zindagi	9438606
-Mañana me suicido	199760
-La casa de los millones	178302
-Yego zovut Sukhe-Bator	35578
-Jawan Ki Pukar	156635
-The Sombrero Kid	35355
-Le grand combat	194927
-A che servono questi quattrini?	34422
-Gert and Daisy's Weekend	33658
-Le prince charmant	35213
-À vos ordres, Madame	200315
-Damen med de lyse Handsker	33506
-Livet på en pinne	34984
-Lobos da Serra	34986
-Andorra ou les hommes d'Airain	202226
-Khandan	151200
-Cruza	194782
-Virgen de medianoche	34363
-Almost Married	34451
-Drei tolle Mädels	35827
-La principessa del sogno	35214
-P'al otro lado	181749
-Those Kids from Town	35435
-Le vie del cuore	35516
-Isten rabjai	240622
-Olycksfågeln nr 13	35147
-Thamizhariyum Perumal	259051
-Mademoiselle Swing	247493
-Incertidumbre	181596
-A Yank in Australia	337500
-Üzenet a Volgapartról	241139
-Outlaws of Boulder Pass	35162
-Border Roundup	34542
-Estélyi ruha kötelezö	1164578
-Texas Trouble Shooters	158267
-Hogar, dulce hogar	194944
-Dos mexicanos en Sevilla	179778
-Giorni felici	34792
-Voglio vivere così	34366
-Sette anni di felicità	34168
-Las tres viudas de papá	180263
-Mi cielo de Andalucía	35063
-Mamaji	355732
-Sinfonía argentina	279415
-Bhakta Surdas	213510
-Margherita fra i tre	33880
-Mi viuda alegre	232091
-Piazza San Sepolcro	35188
-Yli rajan	35579
-Signé illisible	200136
-Acque di primavera	34426
+Reunion in France	35250
+My Sister Eileen	35105
+Fingers at the Window	34732
+Tortilla Flat	35460
+Life Begins at Eight-Thirty	34976
+Quiet Please: Murder	35233
+Arabian Nights	34465
+Les visiteurs du soir	35521
+Sherlock Holmes and the Voice of Terror	35318
+The Strange Case of Doctor Rx	35386
+Get Hep to Love	34784
+L'assassin habite... au 21	34478
+Miss Annie Rooney	35068
+Invisible Agent	34902
+Eyes in the Night	34711
+Who Done It?	35555
+Ship Ahoy	35320
+A-Haunting We Will Go	34424
+Ride 'Em Cowboy	35252
+Rings on Her Fingers	35258
+Seven Days' Leave	35307
+Night Monster	35124
+Private Buckaroo	35218
+Captains of the Clouds	34578
+The Moon and Sixpence	35078
+The Pied Piper	35189
+A Night to Remember	36203
+Panama Hattie	35170
+Pardon My Sarong	35173
+The Adventures of Martin Eden	34431
+The Mad Doctor of Market Street	35007
+The Young Mr. Pitt	35586
+Crossroads	34622
+Come on Danger	33478
+Commandos Strike at Dawn	35746
+The Mad Monster	35009
+The Night Has Eyes	35123
+Stand by for Action	36386
+To the Shores of Tripoli	35447
+The Gay Sisters	34770
+The Boogie Man Will Get You	34540
 Natekspressen P903	126496
-L'ange gardien	192976
-Cartacalha, reine des gitans	195586
-Prairie Pals	35208
-Soltanto un bacio	35354
-Elvira Fernández, vendedora de tiendas	197426
-Szeretö fia, Péter	35408
-Yâmamâtsurî bôtenkâ	7543718
-Lykken kommer	35004
-Jelmezbál	168010
-Kiskanç	304297
-La condesa María	34609
-Nada más que amor	189787
-Ein Windstoß	35563
-A hegyek lánya	34838
-Négylovas hintó	4658090
-Orizzonte di sangue	35159
-Dove andiamo, signora?	34674
-Hahakogusa	1583261
-En sjöman i frack	35340
-Perdizione	35180
-Chambre 13	193807
-Antosha Rybkin	34463
-Bhakta Prahlada	247202
-Labbra serrate	34956
-Daigoretsu no kyofu	374595
-Éjfélre kiderül	132648
-Fünftausend Mark Belohnung	34764
-El viejo Hucha	35517
-El hermano José	192115
-Sancta Maria	32817
-La croisée des chemins	195617
-Bajtársak	244418
-Texas Man Hunt	35424
-Historia de crímenes	197551
-Kogen no Tsuki	8894010
-Boléro	34536
-Theresienstadt 1942	1162131
-Right to the Heart	35256
-La neige sur les pas	161853
-Rantasuon raatajat	35239
-Kníze Václav	386577
-La abuelita	179629
-Phir Milenge	243486
-A tökéletes család	35484
-I quattro di Bir El Gobi	385972
-Jawab	155774
-Finalmente soli	33604
-El-muttahama	266506
-I cavalieri del deserto	385587
-La maison des sept jeunes filles	178731
-Sharda	35312
-Mestecko na dlani	199765
-Kvinnan tar befälet	34954
-Alkalom	34447
-Der Kegelkönig	498689
-Satyabhama	265704
-Bhishma	154226
-Halálos csók	34827
-Die Erbin vom Rosenhof	34706
-Niña bonita	924259
-Duniya Ek Tamasha	231505
-Raiders of the Range	35236
-La madre guapa	33862
-Raja Rani	247649
-Here Will I Nest	305636
-Regnen holdt op	126635
-I sette peccati	284472
-Opéra-musette	35156
-Promesse à l'inconnue	196021
-Házasság	34879
-Se ha perdido un cadáver	35296
-L'uomo venuto dal mare	34347
-Mamta	454195
-Die heimlichen Bräute	36903
-Suhagan	152508
-Musashibo Benkei	263766
-Shuhaddaa el gharam	125495
-Allá en el bajio	231125
-Andreas Schlüter	34457
-Fièvres	169909
-Gharana Donga	266582
-Babruvahana	254161
-Apna Ghar	156295
-C'è un fantasma nel castello	33444
-Nankai no hanataba	216934
-Ujala	374303
-Broadway Big Shot	34550
-Saudagar	9450766
-Uljhan	153398
-Boyevoy kinosbornik 11	34532
-Notte di fiamme	385911
-Al toque de clarín	190226
-La donna del peccato	34671
-Vom Schicksal verweht	35525
-El pobre rico	35198
-Aikoku no hana	8886452
-Zevar	155411
-Sumidagawa	8846668
-Se io fossi onesto	35297
-Miliardi, che follia!	35066
-Nai Duniya	35111
-Arzoo	34474
-No te niegues a vivir	35129
-Gentryfészek	418701
-Patricia	192443
-Una vez en la vida	178967
-Ômura Masujirô	2211187
-Patni	259491
-El barbero prodigioso	221001
-Anime in tumulto	33344
-Szabotázs	439841
-Ek Faisla	9450708
-L'appel du bled	179084
-Dukh Sukh	158593
-Jungle Princess	332164
-Tre skojiga skojare	35470
-El pijama de Adán	176022
-Khamoshi	378186
-La maestrita de los obreros	123161
-Vidas marcadas	202060
-Violette nei capelli	34362
-Manonmani	6239144
-Giungla	33665
-Papá se enreda otra vez	162520
-¿Por qué vivir tristes?	35593
-Lyckan kommer	35003
-Meine Frau Teresa	35053
-Miyamoto Musashi: Ichijoji ketto	428829
-La epopeya del camino	231539
-Gert and Daisy Clean Up	34782
-Marsvinjagt i Lillebælt	302761
-Pimentilla	34026
-La bella addormentata	34501
-La famosa Luz María	34720
-Uuteen elämään	133254
-Gelosia	34774
-Malan	378313
-Boda en el infierno	34530
-Shesh Utter	8710566
-La fabbrica dell'imprevisto	34712
-Wavell's 30,000	1870576
-Steibruch	35384
-Il ponte sull'infinito	34036
-Ceniza al viento	199407
-Intriga	34899
-Banana Ridge	33374
-Kuollut mies rakastuu	34953
-Mélodie pour toi	191303
-Stimme des Herzens	35385
-La culpa del otro	34627
-Levko	178701
-Magdolna	33863
-Tavaszi szonáta	170662
-Himmelhunde	159476
-Izpitanie	327973
-Oichi no kata	5330222
-Dr. Kovács István	33556
-Esa mujer es la mía	407767
-Fráter Loránd	34761
-Muzi nestárnou	204492
-Boyevoy kinosbornik 12	34533
-Garib	139234
-Law kunt ghani	266718
-Einmal der liebe Herrgott sein	34698
-Keresztúton	4637586
-Aankh Michouli	158452
-Sanyasi	35287
-Man glömmer ingenting	35029
-La maestrina	35012
-Enyém vagy	34705
-Tamasha	232762
-Der Hochtourist	34859
-Vasantsena	230936
-Una volta alla settimana	216323
-Tyrannens Fald	35482
-Vi er Vidkun Quislings hirdmenn	35509
-Prinsipe Teñoso	1223352
-Haut le vent	169992
-Sangre en la nieve	35285
-Pobre hija mía	189012
-Pritam	1566612
-Farliga vägar	34724
-Den farlige leken	34725
-Chandni	213548
-Vite vendute	35523
-Fallet Ingegerd Bremssen	34719
-Synnin puumerkki	35406
-Fantasmas en Buenos Aires	187003
-Así te quiero	190245
-Gabriela	150677
-Feu sacré	197462
-Ryba na suchu	248387
-Férfihüség	34763
-Mata	215974
-Cap au large	142148
-Et skud før midnat	125499
-Vidas cruzadas	35514
-El-charid	266504
+The Big Shot	34513
+The Undying Monster	35489
+My Favorite Blonde	35100
+The Falcon Takes Over	34716
+The Fleet's In	34736
+Chichi ariki	34591
+Lady Gangster	34959
+Thunder Birds: Soldiers of the Air	35438
+Star Spangled Rhythm	35379
+The Male Animal	35020
+Castle in the Desert	34586
+George Washington Slept Here	34780
+Time to Kill	35443
+Perils of Nyoka	35181
+Seven Sweethearts	35309
+Tombstone: The Town Too Tough to Die	35450
+Bowery at Midnight	34546
+The Missing Million	35069
+Somewhere I'll Find You	35356
+Rio Rita	35259
+China Girl	34593
+Thunder Rock	35440
+The Hidden Hand	34850
+Springtime in the Rockies	35370
+The Great Gildersleeve	34810
+Take a Letter, Darling	35413
+There's One Born Every Minute	35427
+4 passi fra le nuvole	35230
+The Lady Is Willing	34961
+Her Cardboard Lover	34846
+Beyond the Blue Horizon	34510
+Lady for a Night	33806
+A Gentleman at Heart	34779
+Aniki Bóbó	34461
+Black Dragons	34521
+Monsieur La Souris	35075
+Always in My Heart	34454
+Lost Canyon	34996
+Berlin Correspondent	34507
+Valley of the Sun	35502
+Private Snuffy Smith	35220
+The Day Will Dawn	34639
+Journey for Margaret	34923
+Secret Mission	35301
+The Pay Off	36255
+Lucky Jordan	34998
+Noi vivi	35130
+Song of the Islands	35361
+Kid Glove Killer	34941
+Hatter's Castle	33692
+They All Kissed the Bride	35428
+The Great Man's Lady	34812
+Andy Hardy's Double Life	34458
+Syncopation	35405
+Dr. Renault's Secret	34681
+Whispering Ghosts	35551
+Grand Central Murder	34808
+The Goose Steps Out	34801
+Eagle Squadron	34691
+Street of Chance	35388
+Nazi Agent	35114
+Whistling in Dixie	35552
+The Bugle Sounds	33438
+We Were Dancing	35537
+Tomorrow We Live	35453
+Hitler--Dead or Alive	34857
+Juke Girl	34926
+Manila Calling	35033
+Ten Gentlemen from West Point	35421
+Captain Midnight	34577
+X Marks the Spot	35570
+Joan of Paris	34919
+Cairo	34565
+Undercover Man	35487
+The War Against Mrs. Hadley	35531
+It Happened in Flatbush	34905
+Blue, White and Perfect	33408
+The Falcon's Brother	34717
+Meet the Stewarts	35052
+The Living Ghost	34985
+Apache Trail	35639
+Spy Smasher	35372
+Twin Beds	35479
+Powder Town	35205
+The Next of Kin	35121
+Alias Boston Blackie	34445
+Iceland	34886
+A Yank at Eton	35572
+Much Too Shy	35095
+American Empire	34455
+Junior G-Men of the Air	34930
+Don Winslow of the Navy	34664
+The Old Chisholm Trail	36232
+¡Así se quiere en Jalisco!	34479
+Wrecking Crew	35569
+Los tres mosqueteros	162020
+The Courtship of Andy Hardy	34618
+The Tuttles of Tahiti	35477
+Arizona Roundup	34468
+Jesusita en Chihuahua	34916
+Law of the Jungle	34968
+The Vanishing Virginian	35504
+The Lady Has Plans	34960
+Lucky Legs	34999
+The Panther's Claw	35171
+Phantom Killer	35185
+Die große Liebe	34815
+Der große König	34814
+The Remarkable Andrew	35247
+Remember Pearl Harbor	35249
+Black Sheep of Whitehall	33398
+Back-Room Boy	34488
+My Favorite Spy	35102
+Mr. and Mrs. North	33926
+Raza	35241
+Nightmare	35127
+Bombs Over Burma	34538
+Les inconnus dans la maison	34893
+Pierre of the Plains	35190
+Freckles Comes Home	34754
+Penn of Pennsylvania	33493
+The Foreman Went to France	33621
+My Gal Sal	35103
+Sunday Punch	35393
+Lady in a Jam	34963
+Unpublished Story	35494
+Let's Get Tough!	34973
+War Dogs	35532
+Johnny Doughboy	34921
+I Married an Angel	34882
+Footlight Serenade	34745
+Tennessee Johnson	36419
+My Heart Belongs to Daddy	35104
+Uncensored	35486
+The Big Blockade	34512
+Smart Alecks	35345
+Maisie Gets Her Man	35018
+Jungle Siren	34929
+Mokey	35074
+Wiener Blut	35559
+La casa de los millones	178302
+When Johnny Comes Marching Home	35550
+Just Off Broadway	34931
+The Affairs of Jimmy Valentine	34432
+The Dawn Express	34637
+Too Many Women	35454
+The Man in the Trunk	35030
+Man with Two Lives	35031
+Between Us Girls	34509
+Mystery of Marie Roget	35107
+Fly-By-Night	34740
+Mrs. Wiggs of the Cabbage Patch	35094
+The Valley of Vanishing Men	35501
+Avanti c'è posto...	34481
+They Raid by Night	35430
+Ghost Town Law	34785
+The Magnificent Dope	35016
+Blondie's Blessed Event	34527
+Dr. Kildare's Victory	33554
+Girl Trouble	34794
+La aldea maldita	34441
+Atlantic Convoy	34480
+Tish	35445
+The Forest Rangers	34749
+Melodías de América	123168
+The Wife Takes a Flyer	35560
+Let the People Sing	34972
+Devil's Harvest	157533
+Sons of the Pioneers	35362
+This Time for Keeps	35433
+Murder in the Big House	35098
+Dawn on the Great Divide	34638
+The Loves of Edgar Allan Poe	34997
+A Date with the Falcon	33517
+Billy the Kid Trapped	33390
+Alibi	34446
+Blondie for Victory	34526
+Un pilota ritorna	35191
+Bombay Clipper	34537
 Secuestro sensacional	178883
-Mpampi to elafaki	7214124
-O Cortejo do Mundo Português	32360
-Haha no kao	2081256
-Savera	214096
-Garmil	233776
-Manouche	197663
-El secreto de la mujer perfecta	35303
-Sous le manteau de la Vierge des Pauvres	265788
-Férias à Beira-Mar	129108
-Leila, ghadet el camelia	281960
-Madrid de mis sueños	35011
-Xieyu Canhua	3604638
-Minami no kaze mizue no maki	8959064
+Mahakavi Kalidas	234168
+'Neath Brooklyn Bridge	34420
+El conde de Montecristo	33482
+Junior Army	36061
+Malombra	35021
+South of Santa Fe	35364
+Sing Your Worries Away	35338
+Calling Dr. Gillespie	34570
+The Bashful Bachelor	33379
+Blondie Goes to College	34525
+Four Jacks and a Jill	34751
+The Mysterious Rider	35106
+Lucky Ghost	33856
+Below the Border	34505
+Le journal tombe à cinq heures	170084
+A Gentleman After Dark	34777
+Gang Busters	34767
+Le lit à colonnes	198655
+Rid i natt!	35251
+They Flew Alone	34278
+El baisano Jalil	179664
+The Navy Comes Through	35113
+Secret Enemies	35300
+Sunset Serenade	35396
+Obliging Young Lady	33968
+Bullet Scars	34555
+Le mariage de Chiffon	35039
+Boston Blackie Goes Hollywood	34545
+So's Your Aunt Emma!	35051
+Seven Miles from Alcatraz	35308
+Here We Go Again	34847
+Ridin' Down the Canyon	35255
+The Secret Code	35299
+Flight Lieutenant	34739
+One Thrilling Night	35152
+Emberek a havason	34701
+Inside the Law	34898
+Men of Texas	35058
+La cena delle beffe	33456
+Gert and Daisy's Week-end	33658
+Croisières sidérales	33501
+Sin Town	35337
+Overland Mail	35165
+The Affairs of Martha	34433
+A Tragedy at Midnight	35463
+Deep in the Heart of Texas	34640
+Man from Headquarters	35028
+Vengeance of the West	35507
+Macao, l'enfer du jeu	31600
+Flying Fortress	34741
+The Devil's Trail	34652
+Sauce for the Gander	7620294
+Basant	138315
+What's Cookin'	35548
+Sweater Girl	35400
+Dr. Broadway	34678
+Heart of the Golden West	34832
+Die goldene Stadt	34800
+The Mayor of 44th Street	35048
+Mug Town	36176
+Wildcat	35562
+Mr. Wise Guy	35092
+We'll Smile Again	35539
+Secret Agent of Japan	35298
+Kalakar	378171
+Over My Dead Body	35164
+Henry and Dizzy	34844
+Escape from Crime	34707
+A Yank in Libya	35573
+Lure of the Islands	35002
+Sunset on the Desert	35397
+Simplet	35336
+Historia de un gran amor	162372
+Broadway	34549
+Diesel	34653
+King of the Stallions	34945
+Kak zakalyalas stal	34932
+You Can't Escape Forever	35582
+Born to Sing	34543
+La symphonie fantastique	35403
+Prisoner of Japan	35217
+O Pátio das Cantigas	35228
+Broken Strings	135173
+Joe Smith, American	34920
+Busses Roar	34558
+Give Out, Sisters	34797
+On the Sunny Side	35150
+Pirates of the Prairie	35193
+Wild Bill Hickok Rides	34392
+The Boss of Big Town	35694
+Boot Hill Bandits	34541
+Lady from Chungking	36093
+Eyes of the Underworld	35850
+Fari nella nebbia	33588
+Pacific Rendezvous	35167
+The Omaha Trail	35149
+Dernier atout	34643
+Texas to Bataan	35425
+Professor Creeps	35221
+Silver Queen	35335
+Hillbilly Blitzkrieg	34854
+Counter-Espionage	34617
+Law and Order	34967
+La fausse maîtresse	154473
+Miss V from Moscow	36164
+Ice-Capades Revue	34885
+Die Entlassung	34704
+Are Husbands Necessary?	34467
+Baby Face Morgan	34486
+The Silver Bullet	35334
+Romance on the Range	35266
+West of the Law	35543
+Canal Zone	34572
+Bengasi	34506
+Parachute Nurse	35172
+Enemy Agents Meet Ellery Queen	34703
+Roti	232542
+Submarine Raider	35391
+Un garibaldino al convento	33648
+A Yank on the Burma Road	35574
+Youth on Parade	35587
+Front Line Kids	34760
+Call of the Canyon	34568
+Boss of Hangtown Mesa	34544
+Lettres d'amour	154767
+Jacobs stege	34910
+Joan of Ozark	34918
+La nuit fantastique	41705
+Code of the Outlaw	34604
+Addio Kira!	34429
+Sleepytime Gal	35344
+Jesús de Nazareth	233975
+Behind the Eight Ball	34500
+Le bienfaiteur	154232
+Sealed Lips	34163
+Red River Robin Hood	36296
+Heart of the Rio Grande	34833
+North to the Klondike	35133
+True to the Army	35474
+You're Telling Me	35584
+Call Out the Marines	34567
+Goyescas	34805
+L'assassin a peur la nuit	34477
+Down Texas Way	34677
+Simón Bolívar	33053
+I Live on Danger	34880
+King Arthur Was a Gentleman	34943
+Spy Ship	35371
+Man from Cheyenne	35025
+Hab mich lieb	34823
+Moonlight in Havana	35080
+Le destin fabuleux de Désirée Clary	193092
+Wir machen Musik	35566
+Khandan	151200
+The Great Impersonation	34811
+Bullets for Bandits	34557
+The Traitor Within	35465
+Caprices	207372
+Wings for the Eagle	35564
+The Great Mr. Handel	34813
+Bells of Capistrano	34504
+Una storia d'amore	160915
+Friendly Enemies	34757
+Riders of the West	35254
+Riding Through Nevada	197824
+Fronttheater	136209
+Ala-Arriba!	34439
+El ángel negro	222514
+Prairie Gunsmoke	35207
+Drums of the Congo	34684
+Tsubasa no gaika	274997
+Lone Star Ranger	34994
+Stand By All Networks	35378
+Hay Foot	33696
+Northwest Rangers	35134
+Rock River Renegades	35263
+Where Trails End	166877
+Rubber Racketeers	35273
+Tramp, Tramp, Tramp!	35467
+Underground Agent	35488
+La virgen que forjó una patria	35520
+Doktor Glas	34659
+Bala Nagamma	254982
+Carnaval en el trópico	161377
+Nevinost bez zastite	271083
+Ying chun hua	437661
+Ek Raat	150447
+The Daring Young Man	35781
+Sheriff of Sage Valley	35316
+Valley of Hunted Men	35500
+Banana Ridge	33374
+Scattergood Survives a Murder	35293
+The Night Before the Divorce	35122
+Moonlight Masquerade	35079
+Pardon My Gun	36250
+Night in New Orleans	35126
+USS VD: Ship of Shame	244869
+The Power of God	4487016
+G.P.U.	34765
+Seishun no kiryû	174190
+¡Cuando la tierra tembló!	229084
+The Yanks Are Coming	35576
+Thru Different Eyes	35437
+Zwei in einer großen Stadt	159842
+Caballería del imperio	209952
+Bandit Ranger	34494
+A Desperate Chance for Ellery Queen	34645
+Brooklyn Orchid	34551
+Shut My Big Mouth	35324
+Perils of the Royal Mounted	35182
+Stagecoach Buckaroo	35376
+The Seventh Survivor	34169
+Alle mand paa dæk	125661
+Men of San Quentin	35057
+Tough As They Come	35461
+Secrets of a Co-Ed	165938
+Strictly in the Groove	35389
+Sheikh Chilli	376881
+Highways by Night	34853
+Rhythm Parade	36309
+Mexican Spitfire's Elephant	35061
+Rembrandt	35248
+I cavalieri del deserto	385587
+Two Yanks in Trinidad	35481
+Mexican Spitfire Sees a Ghost	35059
+Pontcarral, colonel d'empire	198918
+¡A mí la legión!	34423
+I Was Framed	34883
+Suspected Person	36403
+Del rancho a la capital	231440
+Cadets on Parade	34564
+Fall In	35857
+Halta Lottas krog	34826
+Stardust on the Sage	35380
+Dr. Gillespie's New Assistant	34680
+Un colpo di pistola	33475
+Rojo y negro	35264
+Andreas Schlüter	34457
+Casanova farebbe così!	34584
+Arizona Stage Coach	34469
+La guerra gaucha	34820
+Giorno di nozze	34793
+North of the Rockies	35132
+Outlaws of Boulder Pass	35162
+Tragica notte	34308
+Raiders of the West	35237
+El que tenga un amor	233637
+Los ladrones somos gente honrada	34957
+King of the Mounties	34944
+Flying with Music	34743
+Timber!	35442
+Annette et la dame blonde	239237
+Cowboy Serenade	34619
+A Close Call for Ellery Queen	34602
+Border Roundup	34542
+Fedora	34726
+Thunder River Feud	35439
+Riding the Wind	34109
+Army Surgeon	34473
+Little Tokyo, U.S.A.	34983
+Ali Baba wa al arbain harame	281560
+Today I Hang	35448
+Don Cesare di Bazan	34660
+Afsporet	34435
+Giorgi Saakadze	34781
+Danger in the Pacific	34633
+Henry Aldrich, Editor	34842
+Laugh Your Blues Away	36100
+Pahili Mangalagaur	332305
+Hawai · Maree oki kaisen	35533
+Home in Wyomin'	34866
+Westward Ho!	35545
+Smith of Minnesota	35346
+Butch Minds the Baby	34560
+Sweetheart of the Fleet	35401
+La fortuna viene dal cielo	34750
+The Spirit of Stanford	35368
+Our Girl Shirley	218494
+Hello, Annapolis	34840
+Sekretar raykoma	35304
+Labbra serrate	34956
+En Manaivi	240481
+Una signora dell'ovest	127284
+Sancta Maria	32817
+Jail House Blues	34911
+Bahbah fi Baghdad	34490
+Billy the Kid's Smoking Guns	34516
+Mexican Spitfire at Sea	35060
+Bhakta Potana	264418
+El verdugo de Sevilla	180280
+House of Errors	34871
+Alfa Tau!	34444
+The Phantom Plainsmen	35186
+Una vez en la vida	178967
+I 3 aquilotti	35468
+Station Master	35382
+Giarabub	34789
+Escape from Hong Kong	18867
+El barbero prodigioso	221001
+Secrets of the Underground	36338
+Fra' Diavolo	33630
+Anuschka	158468
+El gran secreto	236265
+Ven mi corazón te llama	197998
+Soy puro mexicano	35365
+Férfihüség	34763
+Der große Schatten	34817
+Breach of Promise	34548
+A Tornado in the Saddle	35457
+Halfway to Shanghai	34825
+Fantasmas en Buenos Aires	187003
+Down Rio Grande Way	34676
+Gert and Daisy Clean Up	34782
+Einmal der liebe Herrgott sein	34698
+Criminal Investigator	34621
+This Was Paris	35434
+Pardon My Stripes	35174
+Texas Justice	34993
+Le voile bleu	162038
+Yokel Boy	35581
+The Lone Star Vigilantes	34995
+Fièvres	169909
+Sieben Jahre Glück	35326
+Szíriusz	35410
+Brother Martin	34552
+Little Joe, the Wrangler	34982
+Geheimakte W.B.1	34772
+Juke Box Jenny	34927
+La duchesse de Langeais	179161
+Capitan Tempesta	33449
+Trysil-Knut	35475
+Those Kids from Town	35435
+Baby på eventyr	122389
+Uljhan	153398
+Turbamento	34316
+Viaje sin destino	35512
+Correo de Indias	34614
+City of Silent Men	34598
+Jackass Mail	34909
+Young America	35585
+Quarta pagina	35229
+Finalmente soli	33604
+Mariage d'amour	154847
+The Sombrero Kid	35355
+General von Döbeln	34775
+That Other Woman	35426
+Not a Ladies' Man	35137
+Top Sergeant	35455
+Boda en el infierno	34530
+Jawani	241594
+West of Tombstone	35542
+Aleksandr Parkhomenko	34443
+Vie privée	195389
+Boléro	34536
+The Postman Didn't Ring	35204
+Small Town Deb	34202
+Der verkaufte Großvater	35508
+La isla de la pasión	33762
+The Mad Martindales	35008
+La abuelita	179629
+Kuollut mies rakastuu	34953
+Bahana	377440
+Bhishma	154226
+Destination Unknown	34647
+Mississippi Gambler	35070
+L'arlésienne	34471
+Cuando viajan las estrellas	46886
+Who Is Hope Schuyler?	35556
+Una luz en la ventana	197651
+The Cyclone Kid	34629
 Rolling Down the Great Divide	35265
-Maheman	213839
-Host do domu	281918
-La luna en el pozo	204457
-Yuan yang lei	206450
-Nadia la femme traquée	191305
-Szakítani nehéz dolog	1221971
-La morte civile	35084
-Tre glada tokar	35469
-10 O'Clock	247974
-Sewa	214108
-Preetam	452380
-Fortín alto	194893
-Le moussaillon	195077
-Uchinari Jani	35119
-Mahattat el unse	281981
-Un nuevo amanecer	181727
-Ulti Ganga	214217
-Varaventtiili	35505
-Cada hogar un mundo	181335
-Zeven jongens en 'n ouwe schuit	238755
-Stoyne u kostenurka	332415
-Bombay Calling	423874
-Black Out	1057881
-Jiban Sangini	345459
-Huma Gun Anmogaldi	382748
-Sumati	246259
-Kiski Biwi	378204
-Return of Toofan Mail	155107
-Avioliittoyhtiö	132686
-Szép csillag	35409
+Casa de mujeres	218082
+Il leone di Damasco	33825
+Las cinco noches de Adán	34596
+Western Mail	35544
+Bharat Milap	156360
+Ubiytsy vykhodyat na dorogu	35485
+Mahakavi Kalidas	234167
+Thundering Hoofs	34290
+Dr. Kovács István	33556
+Tre skojiga skojare	35470
+I due Foscari	34687
+Madame Spy	35010
+Police Bullets	35199
+La neige sur les pas	161853
+Testament profesora Wilczura	170668
+The Old Homestead	35145
+La belle aventure	34503
+Damen med de lyse Handsker	33506
+Søren Søndervold	125524
+Se io fossi onesto	35297
+Chandni	213548
+Yo bailé con don Porfirio	35580
+Riders of the Northland	35253
+Cap au large	142148
+Amanecer ranchero	233195
+Lågor i dunklet	35005
+Pazzo d'amore	35178
+Luisa Sanfelice	35000
+Das große Spiel	33681
+Le prince charmant	35213
+Frédérica	218987
+Frisco Lil	34758
+Assifa alal rif	281613
+The Girl from Alaska	34795
+Incertidumbre	181596
+Elvira Fernández, vendedora de tiendas	197426
+The McGuerins from Brooklyn	35049
+Girls' Town	34796
+Vårat gäng	35526
+Una volta alla settimana	216323
+Jungle Princess	332164
+Talk About Jacqueline	35416
+Le due orfanelle	34688
+A Yank in Australia	337500
+Doku-ganryu Masamune	35154
+Andorra ou les hommes d'Airain	202226
+Bajtársak	244418
+A hegyek lánya	34838
+Ballade i Nyhavn	124292
+Trail Riders	35464
+Raiders of the Range	35236
+Mademoiselle Swing	247493
+La última aventura de Chaflán	235116
+La femme que j'ai le plus aimée	201615
+Rossini	34131
+Hogar, dulce hogar	194944
+Treat 'Em Rough	35471
+Land of the Open Range	33810
+Seda, sangre y sol	202579
+Himlaspelet	34855
+Sürtük	304779
+Odessa in fiamme	35143
+Bhakta Surdas	213510
+Muqabala	35097
+Somewhere in Camp	35357
+Barat	215547
+Overland Stagecoach	35166
+Klondike Fury	34948
+Isle of Missing Men	34904
+La vírgen morena	235007
+The Balloon Goes Up	34491
+The Lone Prairie	34990
+Regalo de reyes	180090
+Alejandra	179632
+Overland to Deadwood	203046
+Right to the Heart	35256
+Man glömmer ingenting	35029
+Les petits riens	34018
+Cercasi bionda bella presenza	34589
+Romanzo di un giovane povero	35267
+Kísértés	33793
+Yli rajan	35579
+Secreto eterno	228829
+Negyedíziglen	243450
+La bisbetica domata	34520
+Der Seniorchef	158932
+Una novia en apuros	35139
+Bar Antofagasta	191811
+Les affaires sont les affaires	210476
+Mil estudiantes y una muchacha	162471
+Salute John Citizen	35284
+Scattergood Rides High	35292
+Catene invisibili	34588
+Oborona Tsaritsyna. 1 seriya: Pokhod Voroshilova	35142
+Non mi sposo più	28038
+Nari	355807
+Prinsipe Teñoso	1223352
+Adolescencia	175427
+Haha wa shinazu	34824
+Sundown Jim	35394
+Gallant Lady	34766
 Die Nacht in Venedig	35109
-Mar del Plata ida y vuelta	317897
-Intézö úr	1221891
-Biao zhun fu ren	191827
-Kontsert frontu	177891
-August järjestää kaiken	27318
-La loi du printemps	193300
-Minami kara kaetta hito	263744
-Primer amor	34066
-Yo conocí a esa mujer	178994
+Mit den Augen einer Frau	35073
+Asking for Trouble	34476
+Les hommes sans peur	204385
+Almost Married	34451
+Texas Man Hunt	35424
+Mashenka	35044
+Torpedo Boat	35458
+Der 5. Juni	158447
+Prijdu hned	152065
+Aydah	237016
+Documento Z-3	33540
+Synnin puumerkki	35406
+Egy bolond százat csinál	34695
+Hände hoch	159486
+Sabotage Squad	35277
+Careful, Soft Shoulders	34579
+Bajó un ángel del cielo	178258
 Noche de bodas	184784
-L'affare si complica	33318
+The Man Who Returned to Life	35026
+Hi, Neighbor	34849
+Theresienstadt 1942	1162131
+Il fanciullo del West	34722
+The Lone Rider in Cheyenne	34992
+Don't Get Personal	33543
+Wen die Götter lieben	35540
+Non ti pago!	35131
+Virgen de medianoche	34363
+Tumbleweed Trail	235121
+Kleine Residenz	34947
+El hombre que se quiso matar	34864
+Dos corazones y un tango	233608
+Stagecoach Express	35377
+A Man's World	35032
+Kunwara Baap	34952
+Suomisen Ollin tempaus	35398
+Concierto de almas	186929
+Violette nei capelli	34362
+¡Qué contenta estoy!	35592
+Shadows on the Sage	35311
+Sissignora	34194
+Kiski Biwi	378204
+Nandanar	245310
+Ons Staan 'n Dag Oor	2184251
+Musica proibita	35099
+La blanca Paloma	34523
+Perdizione	35180
+Un hombre de la calle	186214
+L'âge d'or	200317
+Violanta	159823
+Rodeo Rhythm	34123
+Su excelencia el mayordomo	35390
+Kazakhstan - frontu!	259059
+Malvaloca	35023
+El pobre rico	35198
+Hong Kong kôryaku: Eikoku kuzururu no hi	34697
+Gula kliniken	34821
+La croisée des chemins	195617
+Varaventtiili	35505
+Jesse James, Jr.	34915
+Stasera niente di nuovo	35381
+Puck	133163
+Paura d'amare	34008
+Cartacalha, reine des gitans	195586
+Verdejo gobierna en Vallaflor	186673
+Le grand combat	194927
+Via delle cinque lune	35511
+Katyi	34934
+Los chicos crecen	34592
+Steibruch	35384
 Awlad al fouqara	34483
-Kadétszerelem	138549
-Ziua cumpatarii	237942
+The Lone Rider and the Bandit	34991
+Avioliittoyhtiö	132686
+Das Baje	247977
+Sommerliebe	35359
+Fünftausend Mark Belohnung	34764
+Foreign Agent	34748
+Mi viuda alegre	232091
+Brüderlein fein	34553
+Le vie del cuore	35516
+Shepherd of the Ozarks	35315
+En herre med bart	34848
+Ein Windstoß	35563
+Unos pasos de mujer	34005
+La bella addormentata	34501
+Tre glada tokar	35469
+Vertigine	34357
+A 2000 pengös férfi	34421
+I sette peccati	284472
+Notte di fiamme	385911
+Muzi nestárnou	204492
+Mañana me suicido	199760
+Retour au bonheur	189045
+Tordenskjold går i land	122761
+Duke of the Navy	34689
+Kerem ile Asli	304282
+Niin se on, poijaat!	133125
+Die heimliche Gräfin	34839
+Gentryfészek	418701
+Signorinette	35333
+Haláltánc	240564
+Along the Sundown Trail	34453
+Lawless Plainsmen	34969
+Priorities on Parade	35216
+Vasantsena	230937
+Caviteño	786958
+Signé illisible	200136
+Six petites filles en blanc	197887
+Haut le vent	169992
+Klyatva Timura	34949
+Tamasha	232762
+10 O'Clock	247974
+Colpi di timone	34607
+Rospiggar	35270
+Die Sache mit Styx	132489
+¿Quién te quiere a tí?	180337
+La culpa del otro	34627
+Promesse à l'inconnue	196021
+Unseen Enemy	35495
+Regnen holdt op	126635
+Boyevoy kinosbornik 13: Nashi devushki	495162
+Malan	378313
+The Sky of Hope	259382
+Sinfonía argentina	279415
+Dr. Crippen an Bord	34679
+Hochzeit auf Bärenhof	34860
+Soyez les bienvenus	195297
+Princesa Urduja	764865
+Pension Jonas	192449
+Regina di Navarra	34090
+Szeretö fia, Péter	35408
+Malambo	178732
+Sein Sohn	131004
+Szép csillag	35409
+La epopeya del camino	231539
+Vasantsena	230936
+Arizona Terrors	34470
+Der Fall Rainer	34718
+Uuteen elämään	133254
+Giungla	33665
+Texas Trouble Shooters	158267
+Meine Freundin Josefine	35054
+La signorina	35331
+La Gorgona	34803
+The Rangers Take Over	36292
+Az utolsó dal	34349
+La maestrina	35012
+Valentin Dobrotivý	153484
+Siempre mujeres	35327
+Éramos siete a la mesa	35597
+La fanciulla dell'altra riva	34721
+Onni pyörii	35155
+Karel a já	215889
+La maestrita de los obreros	123161
+Kvinnan tar befälet	34954
+Kádár kontra Kerekes	137898
+La rueda de la vida	35274
+Raja Rani	247649
+Khidi	268406
+Baozitou Lin Chong: Shui hu zhuan Di er ji	5059916
+She's in the Army	35313
+Tyrannens Fald	35482
+Le signorine della villa accanto	35332
+Pobre hija mía	189012
+Défense d'aimer	207442
+La morte civile	35084
+Prairie Pals	35208
+Los dos pilletes	233609
+Mam'zelle Bonaparte	35024
+L'homme qui joue avec le feu	274555
+Tú eres la paz	191600
+Broadway Big Shot	34550
+Fortunato	33625
+Kisise Na Kehna	213034
 Okouzlená	175989
+Haha no chizu	358501
+L'amant de Bornéo	198298
+Wavell's 30,000	1870576
+Vi hemslavinnor	35510
+Carmela	34580
+La femme perdue	193154
+Die heimlichen Bräute	36903
+Take My Life	34261
+Kanchô imada shisezu	950619
+Mata	215974
+Meine Frau Teresa	35053
+Kontsert frontu	177891
+Weiße Wäsche	159827
+Shinsetsu	35319
+By an Old Southern River	231309
+Ômura Masujirô	2211187
+Haunted House	2161373
+Izpitanie	327973
+Lady from Lisbon	29105
+Bhakta Kabir	377502
+Locos de verano	184681
+El viejo Hucha	35517
+M.A.S.	33885
+Sharda	35312
+World Heavyweight Championship: Joe Louis vs. Buddy Baer	2288165
+Niña bonita	924259
+Un marido a precio fijo	35040
+Queen of Broadway	35231
+Bad Men of the Hills	34489
+Den farlige leken	34725
+El frente de los suspiros	34755
+Uchinari Jani	35119
+La pantera nera	33997
+Szakítani nehéz dolog	1221971
+Otoko no iki	3556634
+A tökéletes család	35484
+Chun	1003137
+Preetam	452380
+Mamnou'a el hub	281988
+Halálos csók	34827
+Vom Schicksal verweht	35525
+Sukhi Jeevan	156112
+Vidas cruzadas	35514
+Leila, ghadet el camelia	281960
+Nazrana	369767
+Bünös vagyok!	33443
+Un nuevo amanecer	181727
+Academia El Tango Argentino	192954
+Morgondagens melodi	35083
+Az 5-ös számú örház	169527
+Ulti Ganga	214217
+Hard Steel	33689
+Inferno giallo	34895
+Anschlag auf Baku	135775
+Liang xiao hua nong yue	205221
+Huma Gun Anmogaldi	382748
+Tentazione	34267
+Jhankar	370808
+Dernière aventure	191077
+Kannagi	332174
+Tamanna	236787
+La novia de primavera	184789
+En herre i kjole og hvidt	124742
+Vite vendute	35523
+Legión de héroes	34970
+Todo por ellas	35449
+Yaad	405483
+La donna del peccato	34671
+Arriviamo noi!	32224
+Der Hochtourist	34859
+Águila roja	235111
+Manouche	197663
+Law kunt ghani	266718
+Historia de crímenes	197551
+Vidas marcadas	202060
+Ungdom i bojor	35492
+Bondi	244435
+L'uomo venuto dal mare	34347
+La donna è mobile	34672
+Milan	154876
+Avayer Biye	237012
+Mélodie pour toi	191303
+Lykken kommer	35004
+Heiyi Guairen	3602910
+Madrid de mis sueños	35011
+Swapna	378825
+Jelmezbál	168010
+Ahib al ghalat	34436
+Leila, bint madaress	281959
+Saudagar	9450766
+Dos mexicanos en Sevilla	179778
+Kurama Tengu	1201634
+Wenn du noch eine Heimat hast	159776
+Rabab	1764557
+Giorni felici	34792
+Outlaws of Pine Ridge	35163
+Ponchos azules	195151
+Don Giovanni	34663
+Zindagi	9438606
+Nankai no hanataba	216934
+À vos ordres, Madame	200315
+Bo ai	191838
+Aru onna	418474
+Kirti	215905
+Chudiyan	417537
+Shuhaddaa el gharam	125495
+Romance à trois	250701
+Der Schuß von der Kanzel	409260
+Zwischen Himmel und Erde	35591
+Sexlingar	35310
+Pengmen Biyu	3603010
+Ala masra el hayat	281556
+De laatste dagen van een eiland	332186
+L'ange gardien	192976
+Chambre 13	193807
+El comisario de Tranco Largo	201633
+The Yukon Patrol	35588
+Yego zovut Sukhe-Bator	35578
+Lobos da Serra	34986
+Vi kunde ha' det saa rart	127958
+Boyevoy kinosbornik 10	34508
+Savera	214096
+Sewa	214108
+Oborona Tsaritsyna. 2 seriya: Oborona	4577512
+Los misterios de Tánger	35072
+En sjöman i frack	35340
+La contessa Castiglione	34612
+Garib	139234
+Warau chikyû ni asa ga kuru	467130
+L'appel du bled	179084
+Ôsaka chônin	9722992
+The Sundown Kid	35395
+A che servono questi quattrini?	34422
+Schicksal	35294
+Gyávaság	34822
+Mamaji	355732
+Oi, aika vanha, kultainen...!	35144
+Melodías prohibidas	35056
+Dhiraj	213612
+Swaminath	241997
+Fortín alto	194893
+Lajwanti	154759
+Meenakshi	156782
+La famosa Luz María	34720
+O Pugilista Mascarado	35223
+La guardia del corpo	34819
+Il mercante di schiave	33905
+Ujala	374303
+Paren iz nashego goroda	33801
+Mera Gaon	375967
+Alkalom	34447
+Yo conocí a esa mujer	178994
+Here Will I Nest	305636
+Khefaya al dunia	34939
+Matte ita otoko	259427
+Vsadniki	32103
+Msti, boyets!	256207
+Unidos por el eje	234950
+La novia de los forasteros	185555
+El molino de Los Andes	144313
+Chikai no minato	414897
+La principessa del sogno	35214
+I gult och blått	34884
+Jugend in Sonne und Schnee	130048
+Mamta	454195
+Esa mujer es la mía	407767
+Newels oor Mont-Aux-Sources	2182035
+Kessen	165349
+Haha no kao	2081256
+Hopeakihlajaiset	34869
+Araichi Mani	258424
+Zoku onna keizu	425667
+Intézö úr	1221891
+Funeral	345286
+Alli Vijaam	239226
+Satyabhama	265704
+Anime in tumulto	33344
+Vacaciones en el otro mundo	201295
+Mi cielo de Andalucía	35063
+Tavaszi szonáta	170662
+Cruza	194782
+Geishunka	8961638
+Gawhara	34769
+Minami kara kaetta hito	263744
+Huit hommes dans un château	199611
+Ghar Sansar	267523
+Phir Milenge	243486
+Yâmamâtsurî bôtenkâ	7543718
+Yaotome no uta	943513
+Zevar	155411
+Flora y Mariana	32478
+Hai shang da guan yuan	205109
+Motorwali	374061
+Die goldene Brücke	154541
+Patni	259491
+A régi nyár	34139
+Soonbai	253736
+Thamizhariyum Perumal	259051
+Patrouille blanche	160646
+Amor último modelo	178236
+Jawan Ki Pukar	156635
+Det æ'kke te å tru	34650
+Dong fang hua zhu ye	205020
+Sodh Bodh	245455
+Tábori levelezölap	35483
+Dollari-miljoona	136782
+Négylovas hintó	4658090
+Levko	178701
+Mahattat el unse	281981
+Ren yue huang hun hou	205365
+Nippon, das Land der aufgehenden Sonne	489990
+Szabotázs	439841
+Geliebte Welt	34773
+Zeven jongens en 'n ouwe schuit	238755
+Nahuel haupi	282018
+En el viejo Buenos Aires	178405
+Sirius symphonies	8257438
+Tu mujer es la mía	234925
+Pimentilla	34026
+Üzenet a Volgapartról	241139
+Hahakogusa	1583261
+Stoyne u kostenurka	332415
+Eiga no tomo	10148824
+Neljä naista	35116
+El-charid	266504
+Gabriela	150677
+Duniya Ek Tamasha	231505
+Sieg des Herzens	1436461
+Rantasuon raatajat	35239
+Kadétszerelem	138549
+La condesa María	34609
+Chauranghee	214578
+Kogen no Tsuki	8894010
+Egy szív megáll	34696
+Annamária	34462
+Shôgun to Sanbô to Hei	2210981
+Frk. Vildkat	34759
+El hermano José	192115
+Utau tanuki goten	418281
+I quattro di Bir El Gobi	385972
+El viaje	176291
+Dukh Sukh	158593
+Shiroi hekiga	435388
+Niwakaame	2081323
+Mpampi to elafaki	7214124
+Khilona	154733
+Patricia	192443
+Society	362162
+Aratanaru kôfuku	5057732
+Stinsen på Lyckås	36387
+Biao zhun fu ren	191827
+Kyôdai kaigi	5124436
+O Cortejo do Mundo Português	32360
+Kölcsönkért férjek	1909315
+Umabutai	2081409
+Huan xi yuan jia	206029
+The Framing of the Shrew	174657
+Jawab	155774
+Vi er Vidkun Quislings hirdmenn	35509
+Ta' briller på	122278
+Gelosia	34774
+Parineeta	158066
+Naar bønder elsker	125941
 Armaan	331176
 Xiao lao hu	194561
-Thasippen	259052
-Society	362162
-Milan	154876
-Ungdom i bojor	35492
-SOS Coast Guard	35276
-La venganza del Charro Negro	229824
-Msti, boyets!	256207
-Kádár kontra Kerekes	137898
-Tábori levelezölap	35483
-En herre i kjole og hvidt	124742
-La novia de los forasteros	185555
-Ons Staan 'n Dag Oor	2184251
-Ren yue huang hun hou	205365
-Matte ita otoko	259427
-Zoku onna keizu	425667
-Nari	355807
-Natasha	320140
-Prijdu hned	152065
-Ghar Sansar	267523
-Funeral	345286
-Suiko-den	264050
-Haunted House	2161373
-Isogawa heisuke komyo hanashi	8872332
-Chikai no minato	414897
-Unos pasos de mujer	34005
-Las cinco noches de Adán	34596
-Kirti	215905
-Baozitou Lin Chong: Shui hu zhuan Di er ji	5059916
-Kyôdai kaigi	5124436
-Turbamento	34316
-L'oasis dans la tourmente	1179896
-Sachcha Sapna	420141
-Jeg drepte!	34914
-Batyri stepey	174494
-Cercasi bionda bella presenza	34589
-Melodías prohibidas	35056
-Swaminath	241997
-Pahila Palna	155936
-Non mi sposo più	28038
-Boyevoy kinosbornik 8	34534
-Suomisen Ollin tempaus	35398
-Tú eres la paz	191600
-Shiroi hekiga	435388
-Bo ai	191838
-Khidi	268406
-La canción del plateado	233406
-Yaotome no uta	943513
-Dollari-miljoona	136782
-Onna keizu	259474
-Il mercante di schiave	33905
-Schweik gotovitsya k boyu	6691246
-Su excelencia el mayordomo	35390
-Una notte dopo l'opera	188963
-Negyedíziglen	243450
-Kunwara Baap	34952
-Jeevana Nataka	332156
-Gioco pericoloso	34791
-Ahib al ghalat	34436
-Aleksandr Parkhomenko	34443
-Puertos de ensueño	291435
-Sirius symphonies	8257438
-Soonbai	253736
-Jugend in Sonne und Schnee	130048
-Chauranghee	214579
-Geishunka	8961638
-Vasantsena	230937
-Lailat al farah	281955
-Pungnyeonga	416170
-Paura d'amare	34008
-Kiti Hasaal	230418
-Shingaeji	310148
-Haláltánc	240564
-Dong fang hua zhu ye	205020
-Mera Gaon	375967
-Shinsetsu	35319
-Amor último modelo	178236
-Egy szív megáll	34696
-The Framing of the Shrew	174657
-Alli Vijaam	239226
-Águila roja	235111
-Onni pyörii	35155
-Shôgun to Sanbô to Hei	2210981
-Bar Antofagasta	191811
-Kölcsönkért férjek	1909315
-Niwakaame	2081323
-Naneun ganda	940739
-Nippon, das Land der aufgehenden Sonne	489990
-Bolti Bulbul	213526
-Georg Stage	290628
-Bahbah fi Baghdad	34490
-Angelo del crepuscolo	34460
-Sukhi Jeevan	156112
-Lajwanti	154759
-Sol över Klara	35353
-Masnaa el zawjate	281995
-Araichi Mani	258424
-El viaje	176291
-Warau chikyû ni asa ga kuru	467130
-Duvaksiz gelin	303939
-Sieg des Herzens	1436461
-Umabutai	2081409
-Alle mand paa dæk	125661
-Tata	242019
-Motorwali	374061
-Der Schuß von der Kanzel	409260
-Gawhara	34769
-Assifa alal rif	281613
-By an Old Southern River	231309
-El molino de Los Andes	144313
-Haso Haso Ai Duniyawallaon	231701
-Doode oogen	264554
-Arriviamo noi!	32224
-Nahuel haupi	282018
-Kessen	165349
-Rospiggar	35270
-Weiße Wäsche	159827
-Khefaya al dunia	34939
-Valentin Dobrotivý	153484
-Duniya Tumhari Hai	252401
-L'homme qui joue avec le feu	274555
-Gran pensión La Alegría	193200
-Liang xiao hua nong yue	205221
-Fariyaad	213644
-Niin se on, poijaat!	133125
-Ala masra el hayat	281556
-Sarkari Pahune	332373
-Bhakta Damaji	252275
-Doroga k zvyozdam	312635
-Die goldene Brücke	154541
-Lyudi krasnogo kresta	264816
-Kleine Residenz	34947
-Die Lig van 'n Eeu	2186921
-Sodh Bodh	245455
-Wenn du noch eine Heimat hast	159776
-O Aleijado	34442
-Flora y Mariana	32478
-La fanciulla dell'altra riva	34721
-Nari	355806
-Dhiraj	213612
-El último día de invierno	243052
-Avayer Biye	237012
-Pashan Devata	213145
-Huan xi yuan jia	206029
-Aru onna	418474
-Schicksal	35294
-El sittat fi khatar	282167
-Bünös vagyok!	33443
-Kurama Tengu	1201634
-Siempre mujeres	35327
-Rabab	1764557
-Nazrana	369767
-Noi	265419
-Vacaciones en el otro mundo	201295
-Gui fu feng liu	205992
-Parineeta	158066
-Pengmen Biyu	3603010
-Antoon, de flierefluiter	154155
-El comisario de Tranco Largo	201633
-Chun	1003137
-Dos corazones y un tango	233608
-Bhakta Kabir	377502
-Ponchos azules	195151
+Antosha Rybkin	34463
+Farliga vägar	34724
+Margherita fra i tre	33880
 Sendas cruzadas	189077
-Utau tanuki goten	418281
-En herre med bart	34848
-This Is the Enemy	122755
-Todo por ellas	35449
-Mulden drager	305848
-Signorinette	35333
-Oi, aika vanha, kultainen...!	35144
-Yaad	405483
-Verdejo gobierna en Vallaflor	186673
-Hai shang da guan yuan	205109
-De laatste dagen van een eiland	332186
-Az 5-ös számú örház	169527
-Heiyi Guairen	3602910
-Bondi	244435
-Concierto de almas	186929
-Neljä naista	35116
-La Gorgona	34803
-Éramos siete a la mesa	35597
-Gora Kumbhar	355491
-World Heavyweight Championship: Joe Louis vs. Buddy Baer	2288165
-Omokage no machi	427609
-Jadugar	9450580
-Leila, bint madaress	281959
-¡Qué contenta estoy!	35592
-Newels oor Mont-Aux-Sources	2182035
-Academia El Tango Argentino	192954
-Forellen	123079
-Un hombre de la calle	186214
-Oborona Tsaritsyna. 2 seriya: Oborona	4577512
-Bint zawat	34517
+Doode oogen	264554
+Das Gespensterhaus	34783
+Ein Zug fährt ab	130384
+Dillagi	155669
+En äventyrare	35595
+Pahila Palna	155936
+Die Erbin vom Rosenhof	34706
+Nadia la femme traquée	191305
+Laila	9708286
+Se ha perdido un cadáver	35296
 ¡Gaucho!	292395
+Schweik gotovitsya k boyu	6691246
+Sanyasi	35287
+Khamoshi	378186
+Jeevana Nataka	332156
+Ek Faisla	9450708
+Papá se enreda otra vez	162520
+Intriga	34899
+Papá se desenreda	162519
+Orizzonte di sangue	35159
+Gui fu feng liu	205992
+Su primer baile	178918
+Boyevoy kinosbornik 9	34535
+Flickan i fönstret mitt emot	34738
 Umineko no minato	420283
-O Pugilista Mascarado	35223
-Rose of Tralee	35269
-Karel a já	215889
-Annamária	34462
-Med forenede kræfter	302778
+Pashan Devata	213145
+Jadugar	9450580
+Shingaeji	310148
+La madre guapa	33862
+Haso Haso Ai Duniyawallaon	231701
+Primer amor	34066
+Ta hand om Ulla	35412
+Oichi no kata	5330222
+Puertos de ensueño	291435
+Arzoo	34474
+Musashibo Benkei	263766
+Gioco pericoloso	34791
+Boyevoy kinosbornik 12	34533
+Host do domu	281918
+Natasha	320140
+Ryba na suchu	248387
+Sangre en la nieve	35285
+Feu sacré	197462
+Manonmani	6239144
+Chauranghee	214579
+Maheman	213839
+El último día de invierno	243052
+Forte tête	199537
+Sumati	246259
+August järjestää kaiken	27318
+La mentirosa	178754
+Antoon, de flierefluiter	154155
+Dove andiamo, signora?	34674
+Una notte dopo l'opera	188963
+Himmelhunde	159476
+Oro nero	33983
+Isogawa heisuke komyo hanashi	8872332
+Opéra-musette	35156
+Viel Lärm um Nixi	35518
+Jeg drepte!	34914
+Allá en el bajio	231125
+Omokage no machi	427609
+Claro de luna	178338
+El-muttahama	266506
+La maison des sept jeunes filles	178731
+Batyri stepey	174494
+Suiko-den	264050
 Boy pod sokolom	3028096
-Tu mujer es la mía	234925
-Naar bønder elsker	125941
-Bahana	377440
+Bint zawat	34517
+Georg Stage	290628
+Acque di primavera	34426
+Angelo del crepuscolo	34460
+Así te quiero	190245
+L'oasis dans la tourmente	1179896
+SOS Coast Guard	35276
+Kiskanç	304297
+Sumidagawa	8846668
+Vijay	378979
+Duniya Tumhari Hai	252401
+Thasippen	259052
+La fabbrica dell'imprevisto	34712
+Noi	265419
+Gharana Donga	266582
+El secreto de la mujer perfecta	35303
+La venganza del Charro Negro	229824
+Magdolna	33863
+Garmil	233776
+C'è un fantasma nel castello	33444
+Det är min musik	34649
+Yuan yang lei	206450
+Livet på en pinne	34984
+Mulden drager	305848
+P'al otro lado	181749
+Sarkari Pahune	332373
+El sittat fi khatar	282167
+Naneun ganda	940739
+Aankh Michouli	158452
+Bolti Bulbul	213526
+No te niegues a vivir	35129
+Lyckan kommer	35003
+Estélyi ruha kötelezö	1164578
+Fallet Ingegerd Bremssen	34719
+La luna en el pozo	204457
+Soltanto un bacio	35354
+Piazza San Sepolcro	35188
+Shesh Utter	8710566
+Éjfélre kiderül	132648
+O Aleijado	34442
+Sol över Klara	35353
+¿Por qué vivir tristes?	35593
+Olycksfågeln nr 13	35147
+Forellen	123079
+Masnaa el zawjate	281995
+Miliardi, che follia!	35066
+Sabotage at Sea	35278
+Mar del Plata ida y vuelta	317897
+Apna Ghar	156295
+La loi du printemps	193300
+Gran pensión La Alegría	193200
+Isten rabjai	240622
+Boyevoy kinosbornik 8	34534
+Sous le manteau de la Vierge des Pauvres	265788
+El pijama de Adán	176022
+Duvaksiz gelin	303939
+Sachcha Sapna	420141
+Ceniza al viento	199407
+Stimme des Herzens	35385
+Jiban Sangini	345459
+Miyamoto Musashi: Ichijoji ketto	428829
+Örségváltás	35598
+Drei tolle Mädels	35827
+Gora Kumbhar	355491
+Bhakta Damaji	252275
+Egy asszony visszanéz	33569
+Le moussaillon	195077
+Férias à Beira-Mar	129108
+Wakai sensei	484005
+Kiti Hasaal	230418
+Midori no daichi	6331316
+Black Out	1057881
+Xieyu Canhua	3604638
+Enyém vagy	34705
+Aikoku no hana	8886452
+Et skud før midnat	125499
+So ein Früchtchen	35350
+Saugandh	35291
+Fráter Loránd	34761
+Zhelezny angel	10305828
+Marsvinjagt i Lillebælt	302761
+En trallande jänta	35466
+Mestecko na dlani	199765
+Lailat al farah	281955
+Cada hogar un mundo	181335
+L'affare si complica	33318
+Sette anni di felicità	34168
+Minami no kaze mizue no maki	8959064
+Löjtnantshjärtan	35006
+Daigoretsu no kyofu	374595
+Return of Toofan Mail	155107
+Las tres viudas de papá	180263
+This Is the Enemy	122755
+Suiko den	9844936
+Rose of Tralee	35269
+Med forenede kræfter	302778
+Bhakta Prahlada	247202
+Házasság	34879
+Kníze Václav	386577
+Pungnyeonga	416170
+Tata	242019
+Pritam	1566612
+Nada más que amor	189787
+Il ponte sull'infinito	34036
+Suhagan	152508
+Nai Duniya	35111
+Lyudi krasnogo kresta	264816
+Boyevoy kinosbornik 11	34532
+Al toque de clarín	190226
+Nari	355806
+Voglio vivere così	34366
+Babruvahana	254161
+L'ultimo addio	34332
+Keresztúton	4637586
+Onna keizu	259474
+Fariyaad	213644
+Szeptember végén	165969
+Die Lig van 'n Eeu	2186921
+La canción del plateado	233406
+Velká prehrada	279500
+Awaaz	1062229
+Der Kegelkönig	498689
+Bombay Calling	423874

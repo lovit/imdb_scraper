@@ -1,1501 +1,2391 @@
 title	idx
 Some Like It Hot	53291
-Ben-Hur	52618
-North by Northwest	53125
-Sleeping Beauty	53285
-Anatomy of a Murder	52561
 Rio Bravo	53221
-Les quatre cents coups	53198
-A Hole in the Head	52896
-Carry on Nurse	51452
-Plan 9 from Outer Space	52077
-On the Beach	53137
-House on Haunted Hill	51744
-The Bat	52602
-Journey to the Center of the Earth	52948
-Imitation of Life	52918
-The Diary of Anne Frank	52738
-Suddenly, Last Summer	53318
-Darby O'Gill and the Little People	52722
-Pillow Talk	53172
-The Hanging Tree	52876
-Gidget	52847
-Please Turn Over	53174
-The Horse Soldiers	52902
-Operation Petticoat	53143
-Hiroshima mon amour	52893
-The Jayhawkers!	52941
-The Nun's Story	53131
-Orfeu Negro	53146
-Li'l Abner	53001
-The Hound of the Baskervilles	52905
-Solomon and Sheba	53290
-The Killer Shrews	52969
-Porgy and Bess	53182
-Witness in the Dark	53448
-Our Man in Havana	54152
-Green Mansions	52864
-Room at the Top	53226
-Compulsion	52700
-The Mummy	53085
-The Shaggy Dog	53271
-A Summer Place	53320
-Pickpocket	53168
-The Angry Red Planet	52564
-Apur Sansar	52572
-North West Frontier	53126
-Ningen no jôken	53114
-The Best of Everything	52619
-Das indische Grabmal	52924
-Ride Lonesome	53220
-Pork Chop Hill	53183
-Warlock	53434
-Day of the Outlaw	52724
-The Tingler	53363
-They Came to Cordura	53351
-The Wasp Woman	54462
-Never So Few	53108
-The Wonderful Country	53453
-Ohayô	53134
-A Bucket of Blood	52655
-The 39 Steps	53354
-Look Back in Anger	51879
-Ukikusa	53390
-Gli ultimi giorni di Pompei	54422
-Yellowstone Kelly	53457
-Die Brücke	52654
-Last Train from Gun Hill	52993
+North by Northwest	53125
+Ben-Hur	52618
+Sleeping Beauty	53285
 Behemoth the Sea Monster	52611
-It Happened to Jane	52933
-Return of the Fly	53219
-Odds Against Tomorrow	53133
-Ercole e la regina di Lidia	52782
-Le legioni di Cleopatra	52999
-The Mouse That Roared	53084
-Sapphire	53242
-Annibale	53891
-The Sound and the Fury	53298
-Attack of the Giant Leeches	53611
-The Young Philadelphians	53462
-The Hangman	52877
-The Oregon Trail	53145
-Alias Jesse James	52545
-Il generale Della Rovere	53856
-I'm All Right Jack	52911
-The Wreck of the Mary Deare	53455
-Third Man on the Mountain	53352
-J'irai cracher sur vos tombes	52937
-The Five Pennies	52809
-La grande guerra	52861
-Jack the Ripper	53961
-The World, the Flesh and the Devil	53454
-4D Man	52530
-Carry on Teacher	52676
-The Blue Angel	52638
-Horrors of the Black Museum	52901
-The Man Who Could Cheat Death	53041
-First Man Into Space	52805
-La battaglia di Maratona	52604
-The Crimson Kimono	52713
-Up Periscope	53399
-Caltiki il mostro immortale	52667
-The FBI Story	52792
-The Big Circus	52626
-The St. Louis Bank Robbery	52862
-Shake Hands with the Devil	53272
-The Last Blitzkrieg	51844
-The Manster	55139
-Teenagers from Outer Space	53337
-Westbound	53441
-Les liaisons dangereuses	53002
-Veerapandiya Kattabomman	250803
-Face of a Fugitive	52794
-Teenage Zombies	51064
-Nazarín	51983
-Tarzan's Greatest Adventure	53334
-The Monster of Piedras Blancas	51947
-Expresso Bongo	53806
-The Stranglers of Bombay	54346
-The Mating Game	53054
-The Alligator People	52549
-Ask Any Girl	52583
-The Scapegoat	53247
-Beloved Infidel	52617
-No Name on the Bullet	52002
-Operation Amsterdam	53140
-Gunmen from Laredo	52869
-The Chaplin Revue	50243
-The Gazebo	52837
-Nebo zovyot	53103
-Uchû daisensô	53388
-The Giant Gila Monster	52846
-Tarzan, the Ape Man	53335
-La legge	51852
-The Gene Krupa Story	52840
-Anari	52560
-The Atomic Submarine	52587
-Middle of the Night	53065
-Vice Raid	53418
-Upstairs and Downstairs	52780
-It Started with a Kiss	52934
-That Kind of Woman	53349
-Maigret et l'affaire Saint-Fiacre	53033
-Cover Girl Killer	52709
-Satta Bazaar	139587
-The Princess with the Golden Star	152073
-The Wild and the Innocent	53445
-Have Rocket -- Will Travel	52880
-The Devil's Disciple	52735
-Ballada o soldate	52600
-Nobi	53121
-Die Nackte und der Satan	53095
-Ningen no jôken	53115
-The Miracle	53069
-Segodnya uvolneniya ne budet	53258
-The Angry Hills	52563
-The Beat Generation	52610
-The 30 Foot Bride of Candy Rock	52529
-Invasion of the Animal People	53232
-Un maledetto imbroglio	53039
-Jet Storm	52944
-Go, Johnny, Go!	51665
-Das Totenschiff	53369
-Il terrore dei barbari	53346
-Ten Seconds to Hell	53341
-Nel segno di Roma	51985
-Don't Give Up the Ship	52749
-Beast from Haunted Cave	52609
-Les cousins	52708
-John Paul Jones	52946
-For the First Time	52817
-The Immoral Mr. Teas	52920
-Invisible Invaders	52929
-Career	52673
-Cuban Rebel Girls	52717
-La femme et le pantin	51608
-A Stranger in My Arms	51358
-Girls Town	52850
-The Journey	52950
-This Earth Is Mine	53355
-Thunder in the Sun	53359
-Libel	53003
-Revenge of the Virgins	178864
-Tiger Bay	53361
-Guns Girls and Gangsters	52870
-A Private's Affair	53192
-But Not for Me	52662
-Night of the Ghouls	156843
-Yesterday's Enemy	53458
-Curse of the Undead	52718
-Ferry to Hong Kong	52799
-Der Tiger von Eschnapur	52295
-Tôkaidô Yotsuya kaidan	155278
-Too Many Crooks	52301
-The Big Fisherman	52627
-Ghost of Dragstrip Hollow	52844
-Hound-Dog Man	52906
-Santa Claus	53241
+The Wasp Woman	54462
+Last Train from Gun Hill	52993
+Anatomy of a Murder	52561
+On the Beach	53137
+Plan 9 from Outer Space	52077
+Journey to the Center of the Earth	52948
+Les quatre cents coups	53198
+House on Haunted Hill	51744
 Blue Denim	52639
-The Story on Page One	53308
-Le déjeuner sur l'herbe	52765
-Woman Obsessed	53450
-Al Capone	52543
-Verboten!	52354
-Terror Is a Man	53344
-These Thousand Hills	53350
-Kaagaz Ke Phool	52954
-SOS Pacific	53234
-Cuentan de una mujer	242396
-Gangster Story	53850
-Danger Within	52648
-The Gunfight at Dodge City	51688
-The Trap	53374
-La vache et le prisonnier	53403
-Voulez-vous danser avec moi	53428
-Little Rascals Varieties	1196772
-Edge of Eternity	52771
-Idol on Parade	52915
-Katia	52964
-The Captain's Table	52672
-Deux hommes dans Manhattan	52733
-Timbuktu	53362
-Babette s'en va-t-en guerre	52595
-Kagi	52957
-The Last Angry Man	52990
-The Boy and the Bridge	52645
-The Four Skulls of Jonathan Drake	52820
-À double tour	53473
-La notte brava	51469
-Navrang	298078
-The Remarkable Mr. Pennypacker	53214
-Faibles femmes	52795
-Sudba cheloveka	53317
-Un témoin dans la ville	52571
-Say One for Me	53245
-Holiday for Lovers	52897
-Le bossu	52644
-Kali Topi Lal Rumal	371765
-Pociag	53176
-Escort West	51591
-The Navy Lark	198814
-Stournara 288	200177
-Nella città l'inferno	51986
-Island of Lost Women	52932
-Five Gates to Hell	52808
-Operation Bullshine	53141
-No Trees in the Street	52006
-Doa al karawan	231477
-Take a Giant Step	53331
-The Man Who Understood Women	53043
-Yûsei ôji	53464
-De espaldas a la puerta	52725
-1001 Arabian Nights	52527
-I Mobster	51760
-Beyond This Place	52623
-Dhool Ka Phool	52736
-Blind Date	52634
-Battle of the Coral Sea	52606
-Der Frosch mit der Maske	52829
-Serious Charge	53269
-Audace colpo dei soliti ignoti	52589
-Estate violenta	52786
-Dil Deke Dekho	230141
+Carry on Nurse	51452
+The Oregon Trail	53145
+Die Brücke	52654
+Warlock	53434
+Imitation of Life	52918
+Darby O'Gill and the Little People	52722
+Operation Petticoat	53143
+The Sound and the Fury	53298
+A Hole in the Head	52896
+Suddenly, Last Summer	53318
+The Wild and the Innocent	53445
+The Diary of Anne Frank	52738
+A Summer Place	53320
+Li'l Abner	53001
+Compulsion	52700
+4D Man	52530
+Gidget	52847
+Pillow Talk	53172
+Hiroshima mon amour	52893
+The Nun's Story	53131
+The Horse Soldiers	52902
+Room at the Top	53226
+Ningen no jôken	53114
+The Killer Shrews	52969
+Green Mansions	52864
+Orfeu Negro	53146
+The Hanging Tree	52876
+Solomon and Sheba	53290
+Porgy and Bess	53182
+Day of the Outlaw	52724
+Our Man in Havana	54152
 Carlton-Browne of the F.O.	53044
+The Mummy	53085
+The Wonderful Country	53453
+The Angry Red Planet	52564
+The Bat	52602
+The Shaggy Dog	53271
+Pickpocket	53168
+The Best of Everything	52619
+Odds Against Tomorrow	53133
+Ohayô	53134
+The Hound of the Baskervilles	52905
+Apur Sansar	52572
+Ride Lonesome	53220
+Never So Few	53108
+A Bucket of Blood	52655
+Ukikusa	53390
+The Tingler	53363
+The 39 Steps	53354
+The Mouse That Roared	53084
+Tiger Bay	53361
+Das indische Grabmal	52924
+It Happened to Jane	52933
+Al Capone	52543
+Deux hommes dans Manhattan	52733
+They Came to Cordura	53351
+Teenagers from Outer Space	53337
+Pork Chop Hill	53183
+The Immoral Mr. Teas	52920
+The Wreck of the Mary Deare	53455
+Ningen no jôken	53115
+Return of the Fly	53219
+Il generale Della Rovere	53856
+Carry on Teacher	52676
+The St. Louis Bank Robbery	52862
+The Hangman	52877
+Tarzan's Greatest Adventure	53334
+Third Man on the Mountain	53352
+Gli ultimi giorni di Pompei	54422
+I'm All Right Jack	52911
+The Monster of Piedras Blancas	51947
+The Young Philadelphians	53462
+Hound-Dog Man	52906
+The Alligator People	52549
+North West Frontier	53126
+Holiday for Lovers	52897
+The World, The Flesh and The Devil	53454
+Attack of the Giant Leeches	53611
+Nebo zovyot	53103
+The Scapegoat	53247
+Annibale	53891
+Yesterday's Enemy	53458
+Alias Jesse James	52545
+The Big Circus	52626
+Look Back in Anger	51879
+Sudba cheloveka	53317
+The Devil's Disciple	52735
+Ercole e la regina di Lidia	52782
+Uchû daisensô	53388
+The FBI Story	52792
+Veerapandiya Kattabomman	250803
+Escort West	51591
+The Giant Gila Monster	52846
+Les cousins	52708
+The Journey	52950
+Middle of the Night	53065
+La grande guerra	52861
+Expresso Bongo	53806
+Nazarín	51983
+The Crimson Kimono	52713
+Invasion of the Animal People	53232
+The Captain's Table	52672
+J'irai cracher sur vos tombes	52937
+Jack the Ripper	53961
+Beast from Haunted Cave	52609
+Operation Amsterdam	53140
+Les liaisons dangereuses	53002
+That Kind of Woman	53349
 Good Day for a Hanging	51673
-La scimitarra del saraceno	53253
-Cast a Long Shadow	52681
-Happy Anniversary	52878
--30-	52526
+Santa Claus	53241
+The Five Pennies	52809
+Der Tiger von Eschnapur	52295
+Ballada o soldate	52600
+Segodnya uvolneniya ne budet	53258
+Curse of the Undead	52718
+Ask Any Girl	52583
+Horrors of the Black Museum	52901
+The Stranglers of Bombay	54346
+Beloved Infidel	52617
+Kaagaz Ke Phool	52954
+Career	52673
+No Name on the Bullet	52002
+The Man Who Could Cheat Death	53041
+The Miracle	53069
+The Mating Game	53054
+The Manster	55139
+Nobi	53121
+Sapphire	53242
+Voulez-vous danser avec moi	53428
+The Angry Hills	52563
+Invisible Invaders	52929
+The Gazebo	52837
+Shake Hands with the Devil	53272
+John Paul Jones	52946
+Maigret et l'affaire Saint-Fiacre	53033
+Die Nackte und der Satan	53095
+Girls Town	52850
+Battle of the Coral Sea	52606
+Up Periscope	53399
 The Big Operator	52629
-The Man in the Net	53045
-The Incredible Petrified World	53944
-The Ugly Duckling	174303
-Agi Murad il diavolo bianco	52538
-Night of the Quarter Moon	53113
-L'île du bout du monde	140720
-The Rebel Set	53213
-The Purple Gang	54218
-The Rough and the Smooth	53229
-City of Fear	52696
-The Bloody Brood	52637
-The Young Land	53461
-Sampo	53240
-Never Steal Anything Small	53109
-La fièvre monte à El Pao	52810
-Life in Danger	53008
-I tartassati	53333
-Erode il grande	51587
-Count Your Blessings	52706
-Siete pecados	253701
-Whirlpool	53442
-Ung flukt	53437
-Marie-Octobre	53050
-Sathi Sukanya	8827176
-T-Bird Gang	163315
-The Naked Venus	144415
-Laos kai Kolonaki	208254
-Watusi	53436
-Black Cat	154236
-The Last Mile	52992
-Sen noci svatojánské	53261
-Tommy the Toreador	54391
-Carmen la de Ronda	52675
-Don't Panic Chaps	52750
-I magliari	53032
-To xylo vgike apo ton Paradeiso	177293
-Tempi duri per i vampiri	53340
-Batu Belah Batu Bertangkup	277599
-The Legend of Tom Dooley	52998
-Le chemin des écoliers	52690
-Riot in Juvenile Prison	53222
-The Siege of Pinchgut	53278
-Ballade på Bullerborg	123420
-Raggare!	53208
-La cucaracha	51504
-High School Big Shot	52891
-Le notti di Lucrezia Borgia	53128
-La prima notte	52090
-Erotikes istories	200615
-Il vedovo	131097
-Face of Fire	52793
-Bhai-Bahen	388768
-Virgin Sacrifice	188273
-The Louisiana Hussy	122159
-Buddenbrooks - 1. Teil	52656
-Nudist Paradise	141669
-Lotna	53019
-Killers of Kilimanjaro	52970
-La cambiale	52668
-Neel Akasher Neechey	53104
-The Rabbit Trap	53203
-Pensione Edelweiss	52058
-Marie des Isles	140364
-The Bridal Path	52649
-Gitaa o motta wataridori	270394
-Escucha mi canción	52783
-Didi	52740
-Madari	242630
-Na petheros, na malama!	200885
-Ragazzi del Juke-Box	53207
-Three Stooges Fun-O-Rama	390554
-Far til fire på Bornholm	52796
-Nippon tanjô	53117
-Flor de mayo (Topolobampo)	50400
-Crime & Punishment, USA	52711
-Des femmes disparaissent	52726
-Plunderers of Painted Flats	53175
+Anari	52560
+Yellowstone Kelly	53457
+The Atomic Submarine	52587
+The Blue Angel	52638
+Cuban Rebel Girls	52717
+Edge of Eternity	52771
+The Last Angry Man	52990
 Pendekar bujang lapok	277950
-Zorro, the Avenger	52424
-Das Feuerzeug	51611
-Vlak bez voznog reda	170774
-Paigham	53152
-Besos de arena	50185
-Eglima sto Kolonaki	236184
-Follow a Star	52815
-Chaowa-Pawa	237089
-Aru kengo no shogai	52579
-Il tempo si è fermato	52281
-The House of the Seven Hawks	52908
-Model for Murder	51940
-Le fauve est lâché	51604
+Der Frosch mit der Maske	52829
+The 30 Foot Bride of Candy Rock	52529
+Ten Seconds to Hell	53341
+Tôkaidô Yotsuya kaidan	155278
+Please Turn Over	53174
+Upstairs and Downstairs	52780
+Estate violenta	52786
+Too Many Crooks	52301
+Ghost of Dragstrip Hollow	52844
+Caltiki il mostro immortale	52667
+Pociag	53176
+Woman Obsessed	53450
+The Big Fisherman	52627
+La battaglia di Maratona	52604
+These Thousand Hills	53350
+Sampo	53240
+The Four Skulls of Jonathan Drake	52820
+The Incredible Petrified World	53944
+This Earth Is Mine	53355
+Strictly Confidential	200180
+The Remarkable Mr. Pennypacker	53214
+The Gene Krupa Story	52840
+The Jayhawkers!	52941
+The Trap	53374
+First Man Into Space	52805
+La legge	51852
+The Chaplin Revue	50243
+Serious Charge	53269
+Babette s'en va-t-en guerre	52595
+1001 Arabian Nights	52527
+Terror Is a Man	53344
+Revenge of the Virgins	178864
+It Started with a Kiss	52934
+Le déjeuner sur l'herbe	52765
+Tarzan, the Ape Man	53335
+Thunder in the Sun	53359
+Beyond This Place	52623
+The Story on Page One	53308
+A Stranger in My Arms	51358
+Tempi duri per i vampiri	53340
+La fièvre monte à El Pao	52810
+À double tour	53473
+Nel segno di Roma	51985
+Nujum pak belalang	277929
+Kali Topi Lal Rumal	371765
+Blood and Steel	52636
+Kagi	52957
+Go, Johnny, Go!	51665
+Ferry to Hong Kong	52799
+Hunde, wollt ihr ewig leben	51749
+The Young Land	53461
+The Man in the Net	53045
+Libel	53003
+Verboten!	52354
+The Beat Generation	52610
+Tommy the Toreador	54391
+For the First Time	52817
+Un maledetto imbroglio	53039
+125 rue Montmartre	52528
+Ein Engel auf Erden	52778
+La femme et le pantin	51608
+But Not for Me	52662
+Guns Girls and Gangsters	52870
+Raggare!	53208
+Il terrore dei barbari	53346
+Audace colpo dei soliti ignoti	52589
+Erode il grande	51587
+Agi Murad il diavolo bianco	52538
+Danger Within	52648
+Face of a Fugitive	52794
+Don't Give Up the Ship	52749
+As the Sea Rages	52582
+Teenage Zombies	51064
+The Last Blitzkrieg	51844
+Count Your Blessings	52706
+Nudist Paradise	141669
+Say One for Me	53245
+Faibles femmes	52795
+Satta Bazaar	139587
+Cover Girl Killer	52709
+The Rebel Set	53213
+Little Rascals Varieties	1196772
+La notte brava	51469
+Le bossu	52644
+Cast a Long Shadow	52681
+No Trees in the Street	52006
+L'île du bout du monde	140720
 La tête contre les murs	52328
-Goonj Uthi Shehnai	156576
-Tenemos 18 años	53342
+Gangster Story	53850
+Timbuktu	53362
+Killers of Kilimanjaro	52970
+A Private's Affair	53192
+Island of Lost Women	52932
+Didi	52740
+Captured	2025516
+Never Steal Anything Small	53109
+I Mobster	51760
+Primo amore	52091
+Ardhangini	139027
+The Bloody Brood	52637
+-30-	52526
+The Last Mile	52992
+The Headless Ghost	53895
+Blind Date	52634
+Katia	52964
+Follow a Star	52815
+Il vedovo	131097
+City of Fear	52696
+To xylo vgike apo ton Paradeiso	177293
+The Ugly Duckling	174303
+Batu Belah Batu Bertangkup	277599
+Le legioni di Cleopatra	52999
+Luna de miel	53023
+Five Gates to Hell	52808
+Doa al karawan	231477
+The Cosmic Man	52702
+Carmen la de Ronda	52675
+Dil Deke Dekho	230141
+The Gunfight at Dodge City	51688
+The Man Who Understood Women	53043
+Dhool Ka Phool	52736
+The Naked Venus	144415
+La cambiale	52668
+Cry Tough	52716
+Gunmen from Laredo	52869
+High School Big Shot	52891
+Archimède, le clochard	52573
+Have Rocket -- Will Travel	52880
+Cada quién su música	257464
+Un témoin dans la ville	52571
+Witness in the Dark	53448
+La vida de Agustín Lara	52362
+Westbound	53441
+Jet Storm	52944
+Sangte Aika	238575
+The Legend of Tom Dooley	52998
+En fremmed banker på	52824
+Paigham	53152
+Das Totenschiff	53369
+The Navy Lark	198814
+Madari	242630
+Navrang	298078
+Do Ustad	135399
+Die Wahrheit über Rosemarie	53432
+Lotna	53019
+Three Stooges Fun-O-Rama	390554
+La vache et le prisonnier	53403
+SOS Pacific	53234
+Night of the Quarter Moon	53113
+Baap Bete	250229
+Watusi	53436
+Whirlpool	53442
+Die Halbzarte	51695
+Yûsei ôji	53464
+The Louisiana Hussy	122159
+Vice Raid	53418
+Erotikes istories	200615
+Il magistrato	53031
+Nella città l'inferno	51986
+Ujala	157132
+The Purple Gang	54218
+The Treasure of San Teresa	53018
+Buddenbrooks - 1. Teil	52656
+Nippon tanjô	53117
+Happy Anniversary	52878
+Sen noci svatojánské	53261
+Marie-Octobre	53050
+Cerasella	122016
+Paratroop Command	53156
+Isla para dos	154655
+Il marito bello: Il nemico di mia moglie	53105
+Plunderers of Painted Flats	53175
+Chhoti Bahen	255050
+Breakout	224679
+Sube y baja	52255
+Love Marriage	245239
+Hier bin ich - hier bleib' ich	52889
+Misterios de ultratumba	51937
+El ciclón	50253
+Kermesse	51815
+Le chemin des écoliers	52690
+Quando tramonta il sole	48524
+Shônen Sarutobi Sasuke	53275
+Zorro, the Avenger	52424
+Nianchan	53111
+I ladri	52985
+Les dragueurs	52759
+Ragazzi del Juke-Box	53207
+Deadly Record	204247
+T-Bird Gang	163315
+The Boy and the Bridge	52645
+Surrender - Hell!	51032
+Bedard Zamana Kya Jane	242307
+Summer of the Seventeenth Doll	53321
+I battellieri del Volga	51401
+The Rabbit Trap	53203
+Jet Over the Atlantic	52943
+Far til fire på Bornholm	52796
+Punainen viiva	53194
+I tartassati	53333
+Left Right and Centre	55079
+I magliari	53032
+Operation Bullshine	53141
+La nuit des traqués	136438
+The Night We Dropped a Clanger	53112
+El gafe	51644
+Face of Fire	52793
+Il tempo si è fermato	52281
+Ung flukt	53437
+Idol on Parade	52915
+Tan bueno el giro como el colorado	274926
+Costa Azzurra	52704
+The Lonely Sex	132287
+The Young Captives	53460
+Lin Zexu	53010
+La nuit des espions	53130
+Catch Me If You Can	310854
+Flor de mayo (Topolobampo)	50400
+Das Feuerzeug	51611
+Jiang shan mei ren	194984
+Soledad	52215
+Labyrinth	52984
+Gigantis, the Fire Monster	9247554
+The Princess with the Golden Star	152073
+Menschen im Hotel	53059
+Crime & Punishment, USA	52711
+Drillinge an Bord	52760
+La cucaracha	51504
+Raj Tilak	52116
+L'arciere nero	52574
+Roadracers	230702
+Paprika	202519
+Rehla ilal kamar	355949
+Naked Fury	166727
+Suppadaka no nenrei	53322
+Barkha	233292
+The House of the Seven Hawks	52908
+Kavi Kalidas	389068
+Il vendicatore	53408
+The Siege of Pinchgut	53278
 Düsman yollari kesti	279058
 Desert Mice	52728
-Juke Box Rhythm	52951
-Und ewig singen die Wälder	53393
-Cry Tough	52716
-Poveri milionari	53185
-Jet Over the Atlantic	52943
-Suppadaka no nenrei	53322
-Sube y baja	52255
-Misterios de ultratumba	51937
-Luna de miel	53023
-Paratroop Command	53156
-Viza na zloto	175304
-Ferdinando I° re di Napoli	53820
-Insan Jaag Utha	52926
-Ein Engel auf Erden	52778
-Min ajal emraa	355774
-The Lonely Sex	132287
-Left Right and Centre	55079
-Die Wahrheit über Rosemarie	53432
-Il figlio del corsaro rosso	51616
-Sabaleros	52153
-Les dragueurs	52759
-Ujala	157132
-The Headless Ghost	53895
-Deep Jweley Jai	321968
-Archimède, le clochard	52573
-Délit de fuite	136787
-Jago Hua Savera	375865
-Sterne	53306
-Vacanze d'inverno	53402
-Kanhaiya	52960
 Bobbikins	53661
-Shônen Sarutobi Sasuke	53275
-Nepoddayushchiyesya	147081
-Pier 5, Havana	53169
-The Treasure of San Teresa	53018
-Barkha	233292
-The Young Captives	53460
-Sengoku gunto-den	53263
-Chhoti Bahen	255050
-Kavi Kalidas	389068
-Charles Tante	52687
-Natürlich die Autofahrer	53100
-Inside the Mafia	52927
-Jagajyothi Basaveshwara	843533
-Ardhangini	139027
-I cavalieri del diavolo	52684
-Seraa fil Nil	356019
-125 rue Montmartre	52528
-En fremmed banker på	52824
-The Flying Fontaines	52814
 Forbidden Island	52818
-Love Marriage	245239
-Arzt ohne Gewissen	52581
-Shinel	53274
-Giuditta e Oloferne	51664
-Ein Mann geht durch die Wand	53047
-Slecna od vody	53284
-Douze heures d'horloge	52757
-Ghost of Zorro	52845
-Captured	2025516
-Yevgeni Onegin	52790
-O Ilias tou 16ou	181592
-Redenção	197814
-I ladri	52985
-Guardatele ma non toccatele	52865
-The Night We Dropped a Clanger	53112
-The Diary of a High School Bride	52739
-El hombre del alazán	236305
-The Cat Gang	51458
-The Bandit of Zhobe	52601
-Il magistrato	53031
-El grito de la muerte	51682
-Costa Azzurra	52704
-Roadracers	230702
-Du rififi chez les femmes	52136
-¿Dónde vas, Alfonso XII?	52429
-Sangte Aika	238575
-Rosen für den Staatsanwalt	53227
-Main Nashe Men Hoon	53035
-Hunde, wollt ihr ewig leben	51749
-Chacha Zindabad	337596
-I battellieri del Volga	51401
-Kiku to Isamu	186273
-Julie la rousse	137857
-Kangan	156683
-Yaar Beli	1407317
-Char Dil Char Rahen	139110
-Operation Dames	53142
-Cesta zpátky	51467
-The Tale of Chun Hyang	3420118
-Anak ng bulkan	467764
-Battle Flame	52605
-La pandilla en acción	277214
-Le grand chef	52860
-The Cosmic Man	52702
-Bedard Zamana Kya Jane	242307
-Chernomorochka	313884
-Soldaterkammerater rykker ud	122725
-Dokuritsu gurentai	52747
-Catch Me If You Can	310854
-Ce corps tant désiré	154297
-Jakten	52939
-Paw	53158
-Rue des Prairies	53230
-La peccatrice del deserto	52727
-Subway in the Sky	53316
-Die schöne Lügnerin	53252
-El Lazarillo de Tormes	52995
-Rommel ruft Kairo	52145
-Ando volando bajo	274337
-Bicharak	1920854
-La jument verte	52953
-Vento del Sud	215328
-Baza ludzi umarlych	52608
-Menschen im Hotel	53059
-La nuit des espions	53130
-Do Ustad	135399
-Naked Fury	166727
-King of the Wild Stallions	52971
-Ai to kibô no machi	52540
-Sawan	4431160
-Chirag Kahan Roshni Kahan	139116
-HD-Soldat Läppli	255208
-Wu duo Jinhua	355036
-Blood and Steel	52636
-Parque de Madrid	52048
-Zorro Rides Again	53468
-Life in Emergency Ward 10	53009
-Juke box - Urli d'amore	121430
-Dos fantasmas y una muchacha	264555
-Der Rest ist Schweigen	53217
-Kazabana	52966
-Chand	139106
-Pourquoi viens-tu si tard...	155040
-Mustang!	127038
-Entrei de Gaiato	200612
-El cofre del pirata	242384
-Arzt aus Leidenschaft	52580
-Nujum pak belalang	277929
-Aventuras de la pandilla	180463
-Die Halbzarte	51695
-Le secret du Chevalier d'Éon	53307
-Guest House	212978
-Kartar Singh	1620501
-Geheimaktion Schwarze Kapelle	138461
-Med fara för livet	53055
-Speed Crazy	53300
-La caída	51465
-Orzel	53148
-The Heart of a Man	52882
-The Sad Horse	53235
-Sköna Susanna och gubbarna	53283
-La Paloma	53153
-Jiang shan mei ren	194984
-The White Trap	210386
-Raj Tilak	52116
-I Reali di Francia	53210
-Der Haus-Tyrann	51707
-Hey Boy! Hey Girl!	52887
-Violent Moment	238709
-El redentor	50713
-Cerasella	122016
-Morgen wirst du um mich weinen	137964
-Sekishunchô	53259
-Oh! Qué mambo	52022
-Street-Fighter	53311
-Tipi da spiaggia	159793
-Hier bin ich - hier bleib' ich	52889
-Counterplot	52707
-Dorothea Angermann	51551
-Las señoritas Vivanco	170565
-Die feuerrote Baronesse	52801
-Il moralista	53081
-Kyô mo mata kakute ari nan	52981
-Alaska Passage	52544
-Sed de amor	134956
-Yo pecador	180322
-Il padrone delle ferriere	52042
-Poeten og Lillemor	53180
-Vivir del cuento	270052
-Mohar	357912
-Maruja	282724
-Cry Freedom	54771
-Abak Prithibi	6591102
-L'ambitieuse	52557
-Quando tramonta il sole	48524
-Lockvogel der Nacht	53015
-Bendito entre las mujeres	275959
-Am Tag als der Regen kam	52553
-Signé: Arsène Lupin	52578
-Devil's Bait	52734
-Do Behnen	231470
-Enigme aux Folies-Bergère	147741
-Shashi Babur Sansar	1582602
-Noc poslubna	53122
-Totò, Eva e il pennello proibito	53370
-Buddenbrooks - 2. Teil	52657
-Jawani Ki Hawa	52940
-Hidden Homicide	51718
-Ankokugai no kaoyaku	52567
-Lone Texan	53016
-A Dog's Best Friend	53776
-Der Löwe von Babylon	52776
-Bei der blonden Kathrein	52613
-Ryttare i blått	53233
-Kalyana Parisu	322916
-Wrong Number	221718
-Il vendicatore	53408
-L'amico del giaguaro	52558
-Kiss Her Goodbye	52972
-Frontier Rangers	52828
-Los diablos del terror	276066
-Fröken Chic	52831
-Nianchan	53111
+Sterne	53306
 El hombre y el monstruo	51731
-Café Colón	51441
-O thisavros tou makariti	219350
-Bhangra	231257
-Watashi wa kai ni naritai	202919
-Breakout	224679
-Arrangiatevi	52575
-La bête à l'affût	52663
-Kærlighedens melodi	125328
-Drillinge an Bord	52760
-Bouboulina	231290
-The Rookie	53224
-The Little Savage	53012
-Paprika	202519
-Qaidi No. 911	155080
-Mon pote le gitan	53076
-Tutti innamorati	53385
-Diez fusiles esperan	51538
-Alt Heidelberg	52551
-Rehla ilal kamar	355949
-Jacqueline	52938
-La nuit des traqués	136438
-Samarat Prithviraj Chauvan	156995
-Tunisi top secret	53383
-The Scavengers	57474
-Zurück aus dem Weltall	53470
-As the Sea Rages	52582
-Hakuôki	199580
-Brevi amori a Palma di Majorca	54433
-Sonar Harin	1534509
-Los chicos	53710
-Die Nacht vor der Premiere	53093
-Duniya Na Mane	373806
-Labyrinth	52984
-Le confident de ces dames	51486
-Tuko sa Madre Kakaw	1190199
-La notte del grande assalto	54129
-Vite perdute	52372
-Freddy, die Gitarre und das Meer	51633
-Shararat	139607
-Born to Be Loved	52643
-Cigarettes, whisky et p'tites pépées	51573
-Sängkammartjuven	53328
-Abschied von den Wolken	52533
-La casa de la Troya	52678
-Dva Fyodora	123052
-Tokyo After Dark	53364
-Pêcheur d'Islande	159684
-Bus Conductor	231305
-Mission in Morocco	53070
-Lupi nell'abisso	53025
-Gutierritos	276996
-Aus dem Tagebuch eines Frauenarztes	52591
-Peter Voss, der Held des Tages	53166
-Geliebte Bestie	52839
-Die Gans von Sedan	52836
-Sonatas	53294
-El vestido de novia	237890
-High Jump	51723
-La nipote Sabella	51997
-El zarco	275094
-Bhagapirivinai	156350
-Daigo Fukuryu-Maru	51511
-El día de los enamorados	52766
-Jons und Erdme	52947
-Illarikam	254403
-Tipu Sultan	3904306
-Marutirtha Hinglaj	53052
-Ugler i mosen	53389
-Baap Bete	250229
-Ama no bakemono yashiki	202787
-Broth of a Boy	52652
-Der blaue Nachtfalter	52633
-Onna kyûketsuki	204515
-La congiura dei Borgia	51487
-Une simple histoire	332458
-L'inferno addosso	52534
-Le sorprese dell'amore	53297
-The Lady Is a Square	52986
-Jagga Daku	157843
-Il marito bello: Il nemico di mia moglie	53105
-Kriegsgericht	52979
-Campo Mamula	179701
-Mandolinen und Mondschein	53046
-La vida alrededor	53419
-Personal Assistant	363880
-Acapulqueña	225020
-Saikô shukun fujin	228806
-Make Mine a Million	53038
-Die Bremer Stadtmusikanten	202275
-El baile	52598
-Policarpo 'ufficiale di scrittura'	52078
-Gigantis, the Fire Monster	9247554
-Friends and Neighbours	52826
-Nai Raahen	158018
-Und das am Montagmorgen	53392
-Hekayat hub	355526
-Maweed maa maghoul	308562
-El cariñoso	275995
-A sangre fría	52532
-María de la O	50693
-Una gran señora	52859
-Mädchen für die Mambo-Bar	62615
-Dagli Appennini alle Ande	51510
-Okefenokee	53135
-Herren og hans tjenere	52886
-Pehli Raat	269684
-Der Schatz vom Toplitzsee	53249
-Nathalie, agent secret	53099
-Primo amore	52091
-Attack of the Jungle Women	52588
-Les yeux de l'amour	128852
-Yalnizlar rihtimi	262130
-Le mariage de Figaro	158757
-Tütün zamani	275006
-Crash Drive	52710
-Kong zhong xiao jie	211467
-Verbrechen nach Schulschluß	53412
-Ivy League Killers	52935
-Brott i paradiset	52653
-Sensuikan I-57 kofuku sezu	53315
-Hinter den sieben Gleisen	282560
-15 bajo la lona	52107
-Surrender - Hell!	51032
-Deadly Record	204247
-Kotan no kuchibue	52976
-Tan bueno el giro como el colorado	274926
-Astero	167773
-Nagin	1057948
-Vetar je stao pred zoru	180282
-Le vent se lève	53409
-Kalabog en Bosyo	1158275
-Salto a la gloria	53238
-In the Wake of a Stranger	179865
-Sad aris sheni bedniereba Mzia?	269812
-Balanagamma	256632
-Baazigar	156344
-Gia to psomi kai ton erota	184514
-I limni ton stenagmon	220615
-La sentence	53266
-La cento chilometri	161421
-Kal Hamara Hai	134757
-Les motards	159579
-Glück und Liebe in Monaco	142313
-Qing chun zhi ge	53196
-Pistolas de oro	274722
-Uomini e nobiluomini	53398
-El akh el kabir	355178
-Escuela de verano	51592
-A Cool Sound from Hell	299705
-Tank Commandos	53332
-El que con niños se acuesta..	191984
-Um Caso de Polícia	344508
-Spavaldi e innamorati	53299
-Date with Death	124336
-Das Nachtlokal zum Silbermond	53281
-Bogáncs	51425
-Juan Tamad Goes to Congress	436458
-Dos corazones y un cielo	402142
-Me gustan valentones!	276326
-Akash Ar Mati	1620687
+Take a Giant Step	53331
+The Rough and the Smooth	53229
+Nikutai no paradaisu	7144822
 Sharia el hub	357164
-El niño de las monjas	51999
-Wenn die Glocken hell erklingen	54465
-Ciao, ciao bambina! (Piove)	52694
-Punainen viiva	53194
-Jirôchô Fuji	188717
-Alo? Ati gresit numarul	154134
-Las aventuras de Carlos Lacroix	275948
-The Naked Road	342814
-Heera Moti	388995
-Afsanehe shemal	395439
-Med mord i bagaget	55236
-Mi esposa me comprende	242676
-Mis padres se divorcian	236504
-Ghar Ghar Ki Baat	212964
-Alle lieben Peter	52547
-Vallatud kurvid	142954
-Cuando se quiere se quiere	274447
-Khovanshchina	55046
-Los hermanos Diablo	244534
-Zümrüt	262142
-Král Sumavy	52978
-Paradies der Matrosen	53155
-Aangan	214402
-800 leguas por el Amazonas o (La jangada)	236942
-Krzyz Walecznych	52980
-Kaitei kara kita onna	1330033
-Mujeres de fuego	137968
-I ragazzi dei Parioli	53206
-A harangok Rómába mentek	51699
-Saeta del ruiseñor	50924
-Esterina	51595
-Yukcheui kil	316931
-Ivan Brovkin na tseline	51789
-Salem Aleikum	53237
-Il cavaliere del castello maledetto	51463
-Molokai, la isla maldita	53075
-Himmel och pannkaka	52892
-Le petit prof	159644
-Adomas nori buti zmogumi	297704
-This Is the BBC	9457730
-Khaniker Atithi	7690880
-12 Mädchen und 1 Mann	53471
-La vida de Agustín Lara	52362
-Los hijos ajenos	276193
-Støv på hjernen	53314
-Yotsuya kaidan	202141
 Nahna el talamiza	359732
-Mantelli e spade insanguinate	198713
-La verte moisson	53414
-The Miracle of the Hills	53068
-Inchu e aghmkum gete	420690
-O Homem do Sputnik	191187
-El candidato	179121
-Un vaso de whisky	52348
-Vi er allesammen tossede	53417
-Khmuroe utro	52968
-Bara en kypare	53633
-Kodama wa yonde iru	52770
-Yukinojô henge	5884904
-Nel blu dipinto di blu	51984
-Mingea	51932
-Heimat, deine Lieder	52883
-Non perdiamo la testa	53124
-Khoobsurat Dhokha	404175
-Tri Ane	170712
-Vístete Cristina	276612
-Santan	384498
-Kashima ari	322930
-India	241569
-Marili	53051
-Zi chai ji	205599
-Minister	3906304
-El hambre nuestra de cada día	207502
-Señoritas	242874
-Songokû	53078
-Kutsumata külalised	314434
-Flor de canela	228307
-School Master	387566
-El rajul el thani	359874
-Ikaw ang aking buhay	357776
-Malish gherak	355730
-Kôdo nanasen metoru: kyôfu no yojikan	316144
-Ankoku no ryoken	52566
-Enas vlakas kai misos	197431
-Bain el atlal	356387
-The Crowning Touch	198389
-Onkel Bill fra New York	53138
-Mikkai	1186660
-Ein Sommer, den man nie vergißt	53292
-Foma Gordeev	52816
-Heiße Ware	123881
-Innocent Meeting	51777
-Saye	390461
-Sie nannten ihn Amigo	53277
-Tre må man være	53376
-L'arciere nero	52574
-Lui, lei e il nonno	183437
-Freddy unter fremden Sternen	52823
-Yo... el aventurero	275804
-Hanayome-san wa sekai-ichi	404094
-Home Is the Hero	52900
-Krasa nenaglyadnaya	230426
-Pyar Ki Rahen	381521
-Taková láska	147580
-Sweet Beat	56542
-Osma vrata	180029
-Con la vida hicieron fuego	50262
-El Zorro Escarlata	51229
-Il cavaliere senza terra	51464
-Visa pour l'enfer	161071
-Fadiha fil Zamalek	355431
-Jaalsaaz	3173676
-El ataba el khadra	355226
-Savera	1207980
-Le fric	51676
-Devochka ishchet otsa	140954
-Sivagangai Seemai	323987
-Melodías inolvidables	243412
-Sirr taqiyyat al ikhfa	356044
-Il mondo dei miracoli	53077
-Naughty New York	136815
-91:an Karlsson muckar (tror han)	53562
-Athisaya Penn	259201
-Noi siamo due evasi	53123
-Messieurs les ronds de cuir	158778
-Quai des illusions	160725
-Les amants de demain	139831
-Il raccomandato di ferro	53204
-Ya byl sputnikom solntsa	141294
-Annushka	52568
-A harminckilences dandár	52531
-Sogno di una notte di mezza sbornia	156091
-Pasaporte al infierno	49597
-Biyaya ng lupa	159283
-Bibô ni tsumi ari	309358
-Fashionable Wife	1577809
-La valse du gorille	126712
-Naya Sansar	156834
-Anyakôro	321255
-Bombas para la paz	51428
-Los tramposos	53373
-Dr. Z	388903
-Las dos y media y... veneno	52755
-Hubb lel-abad	126341
-Khelaghar	231897
-Destinazione Sanremo	52731
-Yajû shisubeshi	313796
-Three Crooked Men	52292
-Chaleurs d'été	142158
-Indranath Srikanta O Annadadidi	367883
-Arson for Hire	52577
-Strictly Confidential	200180
-La edad de la tentación	51571
-This Other Eden	53356
-Hawaiian Boy	442257
-Traumrevue	129451
-Koel	234048
-Vous n'avez rien à déclarer?	128831
-Llegaron dos hombres	51873
-Hubertusjagd	52910
-Gali Theke Rajpath	366502
-Herrn Josefs letzte Liebe	51716
-La duchessa di Santa Lucia	162939
-Le cameriere	52669
-Asphalte	51379
-Forty Days	231611
-Fosforlu Cevriye	349462
-Canto para ti	51446
-Nick Knattertons Abenteuer - Der Raub der Gloria Nylon	51991
-Hicran yarasi	353532
-Bezaubernde Arabella	52624
-Murder at Site 3	53087
-Tetsuwan tôshu Inao monogatari	52922
-The Witness	53449
-Ganga	269261
-Circus Queen	3908750
-Gangsterjagd in Lederhosen	140066
-Siempre estaré contigo	275677
-Malkata	172766
-La pandilla se divierte	277215
-Aquello que amamos	201431
-Får jag låna din fru?	52834
-Chand Ki Duniya	1567285
-Khul Ja Sim Sim	1620830
-Smrt v sedle	240907
-Camarote de lujo	50224
-Croquemitoufle	51499
-Madam XYZ	156759
-Un uomo facile	52342
-Cada quién su música	257464
-Café Odeon	52665
-Jaya Vijaya	1510770
-Schlag auf Schlag	52163
-Chofer de Praça	178332
-Lin Zexu	53010
-Osobyy podkhod	5093972
-Match contre la mort	140366
-Bobosse	149912
-Maa Ke Aansoo	213828
-Heures chaudes	57139
-Pueblo en armas	276429
-King Gojong and Martyr An Jung-Geun	8125356
-Shubha Bibaha	243557
-Das blaue Meer und Du	52632
-Awantura o Basie	52593
-Maine Jeena Seekh Liya	369687
-Karacaoglan'in kara sevdasi	274605
-El ciclón	50253
-Nina	159600
-Y después del cuplé	53456
-Verwirrung der Liebe	53415
-Here Come the Jets	52884
-Kirik plak	352495
-Kilabot sa Makiling	370847
-Quanto sei bella Roma	54503
-Maria 38	194136
-Una señora movida	276498
+Virgin Sacrifice	188273
 Tausend Sterne leuchten	53336
-V yedinom stroyu	324401
-Échame a mí la culpa	52435
-Doku-ganryu Masamune	2643408
-Great Van Robbery	52863
-Ne imey 100 rubley...	1446116
-O Ali Pasas kai i kyra Frosyni	252841
-Mumu	249031
-No soy monedita de oro	276361
-Gringalet	186179
-Kato Ajanare	52965
-Do Gunde	2530482
-Cilali Ibo casuslar arasinda	349216
-La última lucha	255718
-Les tripes au soleil	52105
-Mis secretarias privadas	206145
-Doshmane zan	389943
-Le notti dei Teddy Boys	186396
-Gyalog a mennyországba	52871
-Bal de nuit	149777
-Kalyanikku Kalyanam	269418
-Vrata ostaju otvorena	53429
-El gafe	51644
-Lasisydän	133057
-Kvavili tovlze	269459
-Hyotan suzume	422446
-Arrêtez le massacre	149713
-Kundiman ng lahi	357846
-Szerelem csütörtök	53326
-Das schöne Abenteuer	53251
-Lin jia pu zi	470423
-El frente infinito	49232
-Ginza Senbuji	7320708
-Ich bin kein Casanova	52912
-Dobri stari pianino	52743
-O Tera Kya Kahna	232208
-Hanran	228368
-Álmatlan évek	173511
-La ciudad sagrada	52697
-Ça n'arrive qu'aux vivants	143020
-Pet minuta raja	53165
-Ramuntcho	160735
-Mein Schatz komm mit ans blaue Meer	229571
-Daibosatsu tôge - Kanketsu-hen	960752
-Pan Anatol szuka miliona	53154
-Neend	234328
-Ardyn elch	316423
-Musang berjanggut	277908
-Unser Wunderland bei Nacht	53397
-Behram Daku	3913224
-The Adventures of Rex	1675888
-El superflaco	51030
-Fantasmi e ladri	51602
-Tres lecciones de amor	265896
-S.O.S., abuelita	52152
-Pitong gatang	764862
-Zafra	52420
-Menschen im Netz	53060
-Isla para dos	154655
-Naniwa no koi no monogatari	410355
-Hatsuharu tanuki goten	202897
-Sverstnitsy	174192
-Kogan no misshi	198603
-Buen viaje, Pablo	52658
-Luna de verano	51884
-Felfelé a lejtön	171318
-Las de Caín	52989
-He nacido en Buenos Aires	52881
-Sudba pojeta	2238937
-De sjove år	124124
-Las locuras de Bárbara	51875
-Oneechan makari tôru	199906
-Quem Roubou Meu Samba?	182378
-Lygos, o leventis	232014
-Eu Sou o Tal	194854
+Chacha Zindabad	337596
+Marie des Isles	140364
+Sengoku gunto-den	53263
+Bhai-Bahen	388768
+Am Tag als der Regen kam	52553
+Le secret du Chevalier d'Éon	53307
+Le notti di Lucrezia Borgia	53128
+Totò, Eva e il pennello proibito	53370
+Ugler i mosen	53389
+Brevi amori a Palma di Majorca	54433
+Model for Murder	51940
+Battle Flame	52605
+Swarg Se Sundar Desh Hamara	451935
+The Little Savage	53012
+Born to Be Loved	52643
+The Bandit of Zhobe	52601
+The Naked Road	342814
+Sabaleros	52153
+The Flying Fontaines	52814
+King of the Wild Stallions	52971
+Anak ng bulkan	467764
+Make Mine a Million	53038
+Vetar je stao pred zoru	180282
+Kiss Her Goodbye	52972
+Subway in the Sky	53316
+Le grand chef	52860
+Counterplot	52707
+O Ilias tou 16ou	181592
+Sad aris sheni bedniereba Mzia?	269812
+Buddenbrooks - 2. Teil	52657
+Sawan	4431160
+Vlak bez voznog reda	170774
+Neel Akasher Neechey	53104
+El hambre nuestra de cada día	207502
+Gali Theke Rajpath	366502
+Saeta del ruiseñor	50924
+Il figlio del corsaro rosso	51616
+Paw	53158
+Pensione Edelweiss	52058
+Soldaterkammerater rykker ud	122725
+La prima notte	52090
+Støv på hjernen	53314
+Lupi nell'abisso	53025
+Le fauve est lâché	51604
+The Bridal Path	52649
+The Rookie	53224
+Giuditta e Oloferne	51664
+Abschied von den Wolken	52533
+Flor de canela	228307
+Chirag Kahan Roshni Kahan	139116
+Dokuritsu gurentai	52747
+Bouboulina	231290
+Poveri milionari	53185
+Des femmes disparaissent	52726
+Goonj Uthi Shehnai	156576
+Aru kengo no shogai	52579
+Il moralista	53081
+Uomini e nobiluomini	53398
+Guardatele ma non toccatele	52865
+Jakten	52939
+The Scavengers	57474
+Der Rest ist Schweigen	53217
+Ai to kibô no machi	52540
+Maruja	282724
+La notte del grande assalto	54129
+Ama no bakemono yashiki	202787
+Die Nacht vor der Premiere	53093
+Jons und Erdme	52947
+India	241569
+Rosen für den Staatsanwalt	53227
+Freddy unter fremden Sternen	52823
+Vite perdute	52372
+Los chicos	53710
+¿Dónde vas, Alfonso XII?	52429
+Die schöne Lügnerin	53252
+Tre må man være	53376
+Hey Boy! Hey Girl!	52887
+Pourquoi viens-tu si tard...	155040
 Szegény gazdagok	53325
-Il terrore dell'Oklahoma	122749
-Ismail Yassine fil tayyaran	355584
-Lettere dei condannati a morte	182282
-Raat Ke Rahi	385978
-Rendezvous in Wien	52388
-Operation Stogie	313433
-Patarouva	121111
-¡Quietos todos!	277452
-Fridolfs farliga ålder	52825
-Chelovek s planety Zemlya	141573
-Pakshiraj	389241
-Drôles de phénomènes	156493
-Chiyari musô	5889502
-El ánima del ahorcado contra el latigo negro	50662
-Sa Libis ng Nayon	5782242
-Jurnjava za motorom	194070
-Ben kahpe degilim	346593
-Nangoku Tosa o ato ni shite	3228200
-Wan zi qian hong zong shi chun	483960
-Guinguette	51455
-Nacida para amar	237485
-Piko	194245
-Een zonde waard	220870
-Agosto, donne mie non vi conosco	52539
-Jungle King	1045627
-Alle Tage ist kein Sonntag	52546
-Muerte al amanecer	52925
-Vatsa sisään, rinta ulos!	139704
-Mi niño, mi caballo y yo	275516
-Telesme schekasté	310212
-Kölyök	52983
-Un mundo para mí	53086
-Abbas yolcu	346473
-Kein Mann zum Heiraten	52967
-Humihazushita haru: Aoi chibusa II	8420422
-Yami o yokogire	276755
-El Salvador	344295
-Bank Manager	424825
+I cavalieri del diavolo	52684
+Hidden Homicide	51718
+Charles Tante	52687
+Dorothea Angermann	51551
 Kapitán Dabac	250459
-The Child and the Killer	52691
-105 % alibi	231058
-Kizû tsukeru yajû	8244434
-Los santos reyes	180119
-Pardesi Dhola	4780122
-Avventura a Capri	51386
-Llegaron los franceses	53014
-Bobby Dodd greift ein	52640
-Kamienne niebo	52959
-Kaidan hitotsu-me Jizo	202953
-El sordo	276512
-Nie Er	183576
-Lalu Bhulu	151288
-Dandan setia	1669104
-SAS 181 antwortet nicht	345880
-Aruhi watashi wa	312384
-Solntse svetit vsem	53289
-Amar Shaheed	250205
-O Primo Basílio	53191
-Xiang che mei ren	211750
-Marcelino	1226308
-Charlestón	52688
-Pervyy den mira	55288
-Moral em Concordata	183526
-Pasos de angustia	50824
-Kermesse	51815
-Mayskie zvyozdy	53036
-L'increvable	157817
-Jula juli bintang tiga	261766
-Senbazuru hichô	200106
-Aana Valarthiyal Vanampady	252185
-The Big Hunt	186876
-Nuits de Pigalle	159609
-Caterina Sforza, la leonessa di Romagna	52683
-Kanli degirmen	351161
-Sygnaly	53324
-Sagar Sangame	6864518
-Vasiliy Surikov	53406
-Afrit Samara	356335
-Oleksa Dovbush	314458
-El regreso del monstruo	275626
-Thaai Magalukku Kattiya Thali	1469385
-Carta al cielo	52677
-La ley del más rápido	276286
-Ganacheni	268325
-Las tierras blancas	186618
-Hassan wa Marika	1673390
-Fuunji Oda Nobunaga	3084118
-Chûshingura: ôka no maki, kikka no maki	186921
-Sonbahar	354037
-Jeunes filles d'aujourd'hui	264729
-Beany and Cecil Meet Billy the Squid	145672
-Du gehörst mir	207438
-Otchiy dom	53151
-Balikçinin kizi Gülnaz	346570
-Le travail c'est la liberté	161006
-Perfide.... ma belle	53161
-Der Schäfer vom Trutzberg	227442
-Anata to watashi no aikotoba: Sayônara, konnichiwa	53246
-Date at Midnight	52723
-Minnal Padayali	254574
-Ce soir on tue	128849
-SOS Gletscherpilot	140527
-Man Accused	53040
-Onna o wasurero	2630280
-El derecho a la vida	51528
-México nunca duerme	51968
-Helle for Helene	125779
-Sagar Sangamey	156987
-Web of Suspicion	53438
-Hame ghonahkarim	396628
-Wang Bao Chuan	247810
-Der Mustergatte	202485
-La estampida	51594
-Pár lépés a határ	173083
-Secret professionnel	52830
-Mucho Dinero	5787462
-Fly mej en greve	52813
-I mafiosi	183464
-Pukotina raja	180066
-Der Engel, der seine Harfe versetzte	51583
-Krishna Leelalu	288091
-Tri rasskaza Chekhova	288843
-Mi hun qu	453156
-Stump Run	53313
-Nek Khatoon	3904380
-Kabale und Liebe	52955
-Shikleli Baiko	8495136
-V tvoikh rukakh zhizn	192734
-So angelt man keinen Mann	53288
-Peter schiesst den Vogel ab	53167
-Duelo en la cañada	52764
-Pushpadhanu	237623
-Shobushi to sono musume	164164
-Kitipiyoza tuzak	352496
-Bevor der Blitz einschlägt	52622
-Gurbet	351018
-Bhagya Devatha	157386
-Uwayaku, shitayaku, godôyaku	53265
-Beklenen bomba	346589
-The Man Who Liked Funerals	53042
-Gayarre	51648
-Derso Khokhar Kando	1582488
-Dai san no shikaku	1482136
-Naan Sollum Rahasiyam	390287
-Senta auf Abwegen	230754
-Ware für Katalonien	53433
-Mahishasura Mardini	261037
-Liu lian piao xiang	453140
-Hahakogusa	1573832
-Scout Camp	3904366
-Wenn das mein großer Bruder wüßte	53439
-Bialy niedzwiedz	52625
-Arriva la banda	52576
-Lass mich am Sonntag nicht allein	52996
-O Preço da Vitória	198924
-Zara Bachke	155407
-Voennaya tayna	334661
-Del suelo no paso	276056
-Azafatas con permiso	51389
-Ángel del infierno	52430
-Música de ayer	51970
-Naach Ghar	1573873
-Laffing Time	759925
-Pelli Sandadi	369821
-Kêisatsû-kan to bôryôku-dan	6532170
-Utamaro wo meguru gonin no onna	204718
-Sábado negro	276547
-2 x Adam, 1 x Eva	142061
-Der lustige Krieg des Hauptmann Pedro	53027
-Muskurahat	1620897
-Erotas... me doseis	196537
-Machibugyô nikki: Tekka botan	5368496
-Kibris sehitleri	304288
-O vecech nadprirozených	52018
-Los cobardes	51481
-Stastie príde v nedelu	240035
-Fronteiras do Inferno	189536
-Amrapali	52559
-Cavalcade	51462
-Madhu	139444
-Auskunft im Cockpit	204849
-Lágrimas de amor	234158
-Noci i jutra	180877
-Iskelmäketju	133025
-No Safety Ahead	52004
-Shi xiong di	207735
-La Pica sul Pacifico	122656
-Avventura in città	156307
-Dongshimcho	389940
-Tegnap	53338
-Mech i roza	307146
-Chunhyangdyun	4910834
-La mujer y la bestia	51957
-C.I.D. Girl	212834
-Daaka	156443
-El puma	276430
-Debutante	454117
-Det svänger på slottet	52732
-El amo	346505
-Sevdali gelin	354000
-Gharimet hub	356642
-Satomi hakken-den	165935
-Détournement de mineures	140977
-Juego de niños	50573
-Roulotte e roulette	186504
-Pet z milionu	124051
-Skandal um Dodo	52202
-Soledad	52215
-Amud Ha'Esh	133365
-Chung mot dong song	2136824
-Karatachi nikki	52962
-Hlavni vyhra	378051
-Hum Bhi Insaan Hain	396644
-Hula-Hopp, Conny	51748
-Campo virgen	201507
-Psit... koritsia!	288779
-Charnon Ki Dasi	388827
-Sasameyuki	426202
-Bayanihan	1223233
-Waga ai	53431
-Ferias de México	242455
-Ja, so ein Mädchen mit sechzehn	136270
-Zolotoy eshelon	178117
-Niguruma no uta	323407
-Kard és kocka	52963
-Inspekcja pana Anatola	52928
-Binan-jo	186879
-Houla Houla	157772
-Un week-end fantastique	256470
-Saata Janmachi Sobti	238570
-Angelitos del trapecio	271964
-Ae Desh Tomar Amar	1620685
-Vagabundo y millonario	235852
-Mikosch im Geheimdienst	53066
-El joven del carrito	244571
-Du bist wunderbar	52761
+Chand	139106
+Insan Jaag Utha	52926
+El redentor	50713
+I ragazzi dei Parioli	53206
+Don't Panic Chaps	52750
 Immer die Mädchen	52919
-Mulheres à Vista	200878
-Matomeno iliovasilemma	256920
-Fleuve invisible	332063
-Kalpaklilar	351160
-Dada me to zori	255082
-Vatan ugruna	355005
-Amaryllis, to koritsi tis agapis	200430
-O theios apo ton Kanada	184942
-Tikadambaaz	3904316
-Teki wa honnoji ni ari	199071
-Bizim mahalle	310751
-Dinü hua	247292
-Bufakkar filli nassini	355296
-Keechak Vadha	252593
-Barrio Fiesta	5790628
-Soroka-vorovka	142865
-Titian serambut dibelah tudjuh	6687872
-Abu Hadid	355172
-Dogholuha	398959
-O Thymios takane thalassa	206342
-Un canto nel deserto	159335
-Wang ge Liu ge you Tai Wan	1854374
-Jia you xi shi	198574
-I cattivi vanno in paradiso	51460
-Kawaii onna	5526182
-Nippon romansu ryokô	378449
-Szombattól hétföig	53327
-Játék a szerelemmel	50582
-Felaket yolu	349443
-Alam Ara	1620424
-Bint el badia	355262
-Suuri sävelparaati	134125
-Zhan Shanghai	334786
-Mabilis pa sa lintik	2206012
-Nukso nang nukso	442380
-Commander	231380
-Hebihime sama	187133
-The Dawn Killer	1284615
-Liang shang jia ren	198650
-Jagir	139389
-Miss Hunterwali	5319784
-Kaidan Kagami-ga-fuchi	202950
-Kulub el azara	355670
-Askin acilari	346534
-El zorro escarlata en diligencia fantasma	4092808
-Top Floor Girl	53367
-Diego Corrientes	52741
-Maia Tskneteli	170197
-Chuzhaya v posyolke	350716
-Les brûlés	188321
-Allahu Akbar	356347
-Puteri gunung banang	1669211
-Gia tin agapi tis voskopoulas	259325
-Anthismeni amygdalia	184217
-Vazha Vaitha Daivam	1459979
-Tanikalang apoy	358191
-Mystery in the Mine	196775
-Meine Tochter Patricia	53057
-Caín adolescente	184334
-Nooi van my Hart	437364
-Kovaa peliä Pohjolassa	52977
-Bo li xie	452996
-Lan aoud	356807
-Rancho Texas	53209
-Tri cetrtine sonca	170713
-Krystallo	231935
-Fedakar kaptan	349437
-Zatoulané delo	257287
-Le gendarme de Champignol	157691
-Satomi hakken-den: Hachi kenshi no gaika	6014266
-Mr. Announcer	5783336
-Shibdaeui banhang	314659
-San theli i nyfi kai o gabros	288801
-Son yolcu	354036
-La reina del cielo	276450
-Leila, bint el shatie	355685
-Pobresita	843586
-Les naufrageurs	155903
-Cilali Ibo yildizlar arasinda	349217
-Satanskoraal	2035614
-Yi ming san xiong shou	205572
-San xing ban yue	205383
-Dou kou nian hua	349368
-Haha no omokage	1570590
-Naaji	1620550
-Strogaya zhenshchina	5094086
-Chandrasena	242360
-Qian mian nu lang	477833
-Los tigres del desierto	276560
-Ein Tag, der nie zu Ende geht	53330
-Horká láska	256818
-Yagyu tabi nikki: Tenchi muso ken	202124
-Due selvaggi a corte	52762
-Cerro Guanaco	331214
-Der kleine Kuno	171442
-Fudôtoku kyôiku kôza	816239
-To parastratima mias athoas	232275
-Liebe, Luft und lauter Lügen	53007
-Raaz	1407282
-Feng yu you lan	192021
+The Heart of a Man	52882
+Pehli Raat	269684
+Vacanze d'inverno	53402
+Kal Hamara Hai	134757
+Brott i paradiset	52653
+Tutti innamorati	53385
+Operation Dames	53142
+Onkel Bill fra New York	53138
+Tank Commandos	53332
+Appu Chesi Pappu Koodu	254967
+Date with Death	124336
+Biyaya ng lupa	159283
+Abak Prithibi	6591102
+Rue des Prairies	53230
+Pakshiraj	389241
+El grito de la muerte	51682
+Watashi wa kai ni naritai	202919
+Baza ludzi umarlych	52608
+Las dos y media y... veneno	52755
+Alt Heidelberg	52551
+Kartar Singh	1620501
+Heera Moti	388995
+Arrangiatevi	52575
+Bicharak	1920854
+Shinel	53274
+The Sad Horse	53235
+The Diary of a High School Bride	52739
+Orzel	53148
+Me gustan valentones!	276326
+Char Dil Char Rahen	139110
+La nipote Sabella	51997
+Du bist wunderbar	52761
+Speed Crazy	53300
+The White Trap	210386
+Frontier Rangers	52828
+Personal Assistant	363880
+Geheimaktion Schwarze Kapelle	138461
+La jument verte	52953
+A Dog's Best Friend	53776
+Cigarettes, whisky et p'tites pépées	51573
+Tenemos 18 años	53342
+L'ambitieuse	52557
+Dos fantasmas y una muchacha	264555
+Inside the Mafia	52927
 Pigen i søgelyset	53171
-Bored Hatamoto: Acrobats of Death	5898424
-Gody molodye	53873
-Was eine Frau im Frühling träumt	53435
-Hao men ye yan	205116
-Zoku sûpâ jaiantsu - Dokuga Ôkoku	52746
-Qi jian xia Tian Shan	249151
-Esrarli kadin	345201
-Hast noch der Söhne ja...?	948617
-Den kära leken	52982
-Kalyana Penn	390156
-Ponnu Vilayum Bhoomi	156902
-Zoku sûpâ jaiantsu - Akuma no keshin	52542
-Útek ze stínu	175377
-Kaze no aru michi	2951880
-La marraine de Charley	158761
-Yeosajang	4907150
-Ganryujima zenya	198507
-De magische ring	270489
-Naghma-E-Dil	1620552
-El millionaire el fakir	356889
-Meus Amores no Rio	161803
-Eine alte Liebe	52552
-Sam	53239
-La rebelión de los adolescentes	235706
-Venta de Vargas	52353
-Ismail Yassine bolis harbi	355581
-Onna gokoro	358615
-Kahapon lamang	1158724
-Grihalakshmi	357715
-Neobyknovennoye puteshestviye Mishki Strekachyova	170299
-Zehir Ali	355051
-Sombrero	194391
-Kaigunheigakkô monogatari: Aa! Etajima	7693096
-Binnaz	349146
-Un giorno come ogni giorno	177800
-Sehvet uçurumu	354905
-President Panchatcharam	156909
-Panoptikum 59	195973
-Drakoulas & Sia	237186
-Ultimatum	5784814
-Gan xiang gan zuo de ren	8228258
-A Handful of Grain	52875
-Frau im besten Mannesalter	52822
-Mulheres, Cheguei!	194186
-Apat na anino	1215013
-El hareba	356676
-Annemi ariyorum	346515
-Tatak	1158799
-Nakanune	53096
-Chini Jadugar	1062245
-Quel tesoro di papà	53199
-The Desert Inn	2265587
-Hägringen	150808
-Zhizn proshla mimo	230996
-Pitong pagsisisi	439276
-Mein ganzes Herz ist voll Musik	311508
-Gamilies peripeteies	184504
-Vannakkili	259082
-Big Time Berto	1240903
-Mi mujer necesita marido	209147
-Mo ter zhi lian	456544
-Ang matapang lamang	1364258
-To agorokoritso	135754
-Irham hubbi	355577
-Ottsy i deti	53817
-Jin tian wo xiu xi	4300208
-Nash korrespondent	183564
-Bodi Shah	1407162
-Ispravlennomu verit	471762
-Zoku-zoku: Kindan no suna: Akai pantsu	7252648
-Matir Pahar	1620890
+Escucha mi canción	52783
+Luna de verano	51884
+Molokai, la isla maldita	53075
+Wenn die Glocken hell erklingen	54465
+Kalyana Parisu	322916
+Life in Danger	53008
+Vi er allesammen tossede	53417
+Sonar Harin	1534509
+Riot in Juvenile Prison	53222
 Auch Männer sind keine Engel	210552
-Kaatil Kaun	5310858
-Pennkulathin Ponnvillakku	5615098
-Iroha wakashû: Furisode sakura	1167843
-Wrong Number	3904224
-Beran me-e geisha	328888
-À bride abattue	1493317
-Arashi o yobu yûjô	321276
-Blackmailer	3908758
-Campo arado	188475
-Esse Milhão É Meu	191115
-Gokul Ka Chor	364379
-Vanya	142955
-La vertiente	179503
-Katia tarik	356784
-Akashganga	252215
-Suzukake no sanpomichi	203965
-vatrahai	7158764
-Xi chun tu	194555
-Ssora v Lukashakh	53302
-High Speed Flights: Part I	309677
-Geu yeojaui joiga anida	388967
-Donto ikôze	2496706
-Yks' tavallinen Virtanen	134223
-Sono kabe o kudake	53296
-Vernye serdtsa	53413
-Rajo to satsujin-meiro	6537934
-Bai hua gong zhu	198323
-Die unvollkommene Ehe	122775
-Hete septemberdager	273647
-Merhamet	353727
-Jenny	300049
-Im Sonderauftrag	233919
-Sparring Partner	5790680
-O moyom druge	6018302
-Üç kizin hikayesi	355060
-Karagiozis, o adikimenos tis zois	184633
-Doto no taiketsu	199476
-Pelli Meeda Pelli	1510823
-Walang takot	1210179
-Julius Janonis	4924202
-A Costureirinha da Sé	52705
-Dokribhyeobhwiwa cheongnyeon Lee Seung-man	389934
-Maria Stuart	202466
-Do arus baraye se baradar	398957
+Café Odeon	52665
+Wrong Number	221718
+El Lazarillo de Tormes	52995
+Hakuôki	199580
+La caída	51465
+Lone Texan	53016
+I mousitsa	182330
+Kazabana	52966
+Kanhaiya	52960
+De espaldas a la puerta	52725
+Un vaso de whisky	52348
+Peter Voss, der Held des Tages	53166
+The Witness	53449
+Chaowa-Pawa	237089
+El baile	52598
+Ça n'arrive qu'aux vivants	143020
+Esterina	51595
+Saikô shukun fujin	228806
+Kangan	156683
+Gutierritos	276996
+Der blaue Nachtfalter	52633
+Gitaa o motta wataridori	270394
+Douze heures d'horloge	52757
+Du rififi chez les femmes	52136
+Gunfighters of Abilene	53883
+Adomas nori buti zmogumi	297704
+The Man Who Liked Funerals	53042
+Black Cat	154236
+Helle for Helene	125779
+Alle lieben Peter	52547
+Hekayat hub	355526
+Mayskie zvyozdy	53036
+Ramuntcho	160735
+Vous n'avez rien à déclarer?	128831
+Salem Aleikum	53237
+Shararat	139607
+Yo pecador	180322
+Osma vrata	180029
+Ein Mann geht durch die Wand	53047
+Tipi da spiaggia	159793
+Zurück aus dem Weltall	53470
+Musang berjanggut	277908
+Les yeux de l'amour	128852
+Délit de fuite	136787
+Ángel del infierno	52430
+Laos kai Kolonaki	208254
+Deep Jweley Jai	321968
+I Reali di Francia	53210
+Fadiha fil Zamalek	355431
+Street-Fighter	53311
+High Jump	51723
+Pêcheur d'Islande	159684
+Seraa fil Nil	356019
+Tuko sa Madre Kakaw	1190199
+Hasan wa Naimah	309658
+Sirr taqiyyat al ikhfa	356044
+Le sorprese dell'amore	53297
+La scimitarra del saraceno	53253
+Den kära leken	52982
+Krzyz Walecznych	52980
+Arzt ohne Gewissen	52581
+Mission in Morocco	53070
+Kiku to Isamu	186273
+Devil's Bait	52734
+Juke Box Rhythm	52951
+Jago Hua Savera	375865
+Beklenen bomba	346589
+Juke box - Urli d'amore	121430
+Fantasmi e ladri	51602
+Der Löwe von Babylon	52776
+Ganga	269261
+Ankokugai no kaoyaku	52567
+Mon pote le gitan	53076
+Der Schatz vom Toplitzsee	53249
+Attack of the Jungle Women	52588
+Pasaporte al infierno	49597
+Himmel och pannkaka	52892
+Alaska Passage	52544
+Vivir del cuento	270052
+Ciao, ciao bambina! (Piove)	52694
+Sekishunchô	53259
+Yalnizlar rihtimi	262130
+Friends and Neighbours	52826
+Life in Emergency Ward 10	53009
+O Tera Kya Kahna	232208
+Gan xiang gan zuo de ren	8228258
+Natürlich die Autofahrer	53100
+Songokû	53078
+Signé: Arsène Lupin	52578
+A Cool Sound from Hell	299705
+A sangre fría	52532
+Niguruma no uta	323407
+Sonatas	53294
+This Other Eden	53356
+Main Nashe Men Hoon	53035
+Med fara för livet	53055
+Oh! Qué mambo	52022
+Duniya Na Mane	373806
+Ce corps tant désiré	154297
+Il padrone delle ferriere	52042
+Mädchen für die Mambo-Bar	62615
+Die feuerrote Baronesse	52801
+Las señoritas Vivanco	170565
+Jagga Daku	157843
+Enas vlakas kai misos	197431
+Und ewig singen die Wälder	53393
+El zarco	275094
+Saye	390461
 Zamach	53465
-Talihsizler	354955
-Yun chang yan hou	209504
-Huan le ren jian	340764
-Seytan mayasi	354910
-Çakir Eminem	350376
-Bhagwan Aur Shaitan	3908768
-La huida	136256
-Bagriyanik	346564
-Xiao yue liang	205547
-Üç kursun	355061
+Ankoku no ryoken	52566
+Il cavaliere senza terra	51464
+Ferdinando I° re di Napoli	53820
+El día de los enamorados	52766
+Las aventuras de Carlos Lacroix	275948
+Un mundo para mí	53086
+Maine Jeena Seekh Liya	369687
+Keechak Vadha	252593
+Verwirrung der Liebe	53415
+Pueblo en armas	276429
+Dos corazones y un cielo	402142
+Yotsuya kaidan	202141
+La peccatrice del deserto	52727
+Nick Knattertons Abenteuer - Der Raub der Gloria Nylon	51991
+El rajul el thani	359874
+Nagin	1057948
+Ryttare i blått	53233
+Avventura a Capri	51386
+Die Bremer Stadtmusikanten	202275
+Bezaubernde Arabella	52624
+Gayarre	51648
+Caterina Sforza, la leonessa di Romagna	52683
+Llegaron dos hombres	51873
+El cofre del pirata	242384
+Las coronelas	270292
+Los tigres del desierto	276560
+Rommel ruft Kairo	52145
+Smrt v sedle	240907
+Die Gans von Sedan	52836
+Yukinojô henge	5884904
+Okefenokee	53135
+Psit... koritsia!	288779
+Do Gunde	2530482
+Enigme aux Folies-Bergère	147741
+Ivy League Killers	52935
+Jirôchô Fuji	188717
+Khovanshchina	55046
+Los santos reyes	180119
+Qaidi No. 911	155080
+Bank Manager	424825
+Und das am Montagmorgen	53392
+Jagajyothi Basaveshwara	843533
+Julie la rousse	137857
+Jagir	139389
+De sjove år	124124
+La sentence	53266
+Sängkammartjuven	53328
+Tokyo After Dark	53364
+Nukso nang nukso	442380
+Shingo juban-shobu	201112
+Mawed maa el-Maghool	308562
+Paradies der Matrosen	53155
+La cento chilometri	161421
+Maria Stuart	202466
+Los diablos del terror	276066
+Dagli Appennini alle Ande	51510
+Mikkai	1186660
+Nel blu dipinto di blu	51984
+Naughty New York	136815
+Violent Moment	238709
+The Child and the Killer	52691
+The Miracle of the Hills	53068
+Poeten og Lillemor	53180
+Chand Ki Duniya	1567285
+Santan	384498
+Il terrore dell'Oklahoma	122749
+Shubha Bibaha	243557
+El puma	276430
+Piet se Tante	437426
+Mustang!	127038
+Lass mich am Sonntag nicht allein	52996
+Malish gherak	355730
+Sahodari	156989
+Lalu Bhulu	151288
+Freddy, die Gitarre und das Meer	51633
+O vecech nadprirozených	52018
+Chaleurs d'été	142158
+The Lady Is a Square	52986
+Awantura o Basie	52593
+Herrn Josefs letzte Liebe	51716
+Asphalte	51379
+Kotan no kuchibue	52976
+Bogáncs	51425
+Le confident de ces dames	51486
+Zorro Rides Again	53468
+Ando volando bajo	274337
+Baguio Fever	418488
+Here Come the Jets	52884
+In the Wake of a Stranger	179865
+Verbrechen nach Schulschluß	53412
+El ánima del ahorcado contra el latigo negro	50662
+Season of Strangers	10773698
+This Is the BBC	9457730
+Khelaghar	231897
+Amor se dice cantando	274333
+Jaalsaaz	3173676
+Le gendarme de Champignol	157691
+Mein Schatz komm mit ans blaue Meer	229571
+Las de Caín	52989
+Les naufrageurs	155903
+Nathalie, agent secret	53099
+Yevgeni Onegin	52790
+Stournara 288	200177
+Sweet Beat	56542
+Señoritas	242874
+Gurama-to no yuwaku	204357
+Mumu	249031
+L'amico del giaguaro	52558
+Parque de Madrid	52048
+Policarpo 'ufficiale di scrittura'	52078
+Der lustige Krieg des Hauptmann Pedro	53027
+Quanto sei bella Roma	54503
+Krishna Leelalu	288091
+Marili	53051
+Pier 5, Havana	53169
+La edad de la tentación	51571
+Une simple histoire	332458
+La valse du gorille	126712
+Ballade på Bullerborg	123420
+Daigo Fukuryu-Maru	51511
+Kundiman ng lahi	357846
+Triunfa la pandilla	277401
+Bain el atlal	356387
+Khaniker Atithi	7690880
+Besos de arena	50185
+Il cavaliere del castello maledetto	51463
+El regreso del monstruo	275626
+Karacaoglan'in kara sevdasi	274605
+Hunterwali	1057914
+Shashi Babur Sansar	1582602
+Garota Enxuta	200653
+Fuunji Oda Nobunaga	3084118
+La Paloma	53153
+Siete pecados	253701
+Maa Ke Aansoo	213828
+Bendito entre las mujeres	275959
+Sagar Sangame	6864518
+Il mondo dei miracoli	53077
+Bei der blonden Kathrein	52613
+Home Is the Hero	52900
+Laffing Time	759925
+Oleksa Dovbush	314458
+Ismail Yassine bolis harbi	355581
+Man Accused	53040
+Kôdo nanasen metoru: kyôfu no yojikan	316144
+Quai des illusions	160725
+Les motards	159579
+O thisavros tou makariti	219350
+800 leguas por el Amazonas o (La jangada)	236942
+Balanagamma	256632
+La congiura dei Borgia	51487
+Jawani Ki Hawa	52940
+O Ali Pasas kai i kyra Frosyni	252841
+Le vent se lève	53409
+Melodías inolvidables	243412
+Kashima ari	322930
+La casa de la Troya	52678
+María de la O	50693
+2 x Adam, 1 x Eva	142061
+Ghost of Zorro	52845
+La verte moisson	53414
+105 % alibi	231058
+Gurbet	351018
+Kirik plak	352495
+Álmatlan évek	173511
+Der Haus-Tyrann	51707
+A Luz Vem do Alto	53028
+Kalabog en Bosyo	1158275
+La bête à l'affût	52663
+Vallatud kurvid	142954
+Een zonde waard	220870
+Sagar Sangamey	156987
+Les amants de demain	139831
+El joven del carrito	244571
+Naniwa no koi no monogatari	410355
+Kriegsgericht	52979
+Fronteiras do Inferno	189536
+Ismail Yassine fil tayyaran	355584
+Mystery in the Mine	196775
+Pyar Ki Rahen	381521
+Kyô mo mata kakute ari nan	52981
+91:an Karlsson muckar (tror han)	53562
+Åsa-Nisse jubilerar	53475
+HD-Soldat Läppli	255208
+Daaka	156443
+Geliebte Bestie	52839
+V yedinom stroyu	324401
+Eojeggajina geudaemaneul	309563
+Non perdiamo la testa	53124
+Les tripes au soleil	52105
+Yo... el aventurero	275804
+Venta de Vargas	52353
+Heiße Ware	123881
+Khoobsurat Dhokha	404175
+Pelli Meeda Pelli	1510823
+Diez fusiles esperan	51538
+The Crowning Touch	198389
+Escuela de verano	51592
+Samonim	407175
+Three Crooked Men	52292
+La ciudad sagrada	52697
+México nunca duerme	51968
+The Cat Gang	51458
+El que con niños se acuesta..	191984
+Murder at Site 3	53087
+L'increvable	157817
+Ein Sommer, den man nie vergißt	53292
+Král Sumavy	52978
+Katia tarik	356784
+Pitong gatang	764862
+Hero No. 1	3906384
+Der Mann, der sich verkaufte	53048
+Gharimet hub	356642
+Lockvogel der Nacht	53015
+Baazigar	156344
+Med mord i bagaget	55236
+Kull daqqa fi qalbi	184654
+Do Behnen	231470
+Raat Ke Rahi	385978
+Broth of a Boy	52652
+Nek Khatoon	3904380
+Muerte al amanecer	52925
+Mriter Marte Agaman	7683726
+I limni ton stenagmon	220615
+Tegnap	53338
+Messieurs les ronds de cuir	158778
+Croquemitoufle	51499
+Maharani Padmini	2762842
+Vrata ostaju otvorena	53429
+Guest House	212978
+Aangan	214402
+Ein Tag, der nie zu Ende geht	53330
+Kogan no misshi	198603
+Kabale und Liebe	52955
+Café Colón	51441
+Bobosse	149912
+Kaidan Kagami-ga-fuchi	202950
+Naach Ghar	1573873
+Tütün zamani	275006
+Viza na zloto	175304
+Los hermanos Diablo	244534
+Bombas para la paz	51428
+Les affreux	52536
+Der Engel, der seine Harfe versetzte	51583
+Agosto, donne mie non vi conosco	52539
+Krasa nenaglyadnaya	230426
+The Dawn Killer	1284615
+Tipu Sultan	3904306
+Salto a la gloria	53238
+Ningen no kabe	53116
+Hinter den sieben Gleisen	282560
+Kaigunheigakkô monogatari: Aa! Etajima	7693096
+O Homem do Sputnik	191187
+Sed de amor	134956
+Hum Bhi Insaan Hain	396644
+Cry Freedom	54771
+Police Station	3904376
+Hula-Hopp, Conny	51748
+Chelovek s planety Zemlya	141573
+Juan Tamad Goes to Congress	436458
+More Deadly Than the Male	248192
+Indranath Srikanta O Annadadidi	367883
+Das blaue Meer und Du	52632
+Pardesi Dhola	4780122
+Inspekcja pana Anatola	52928
+Glück und Liebe in Monaco	142313
+Vagabundo y millonario	235852
+Sa Libis ng Nayon	5782242
+Prepotenti più di prima	53187
+Veter	52359
+Spavaldi e innamorati	53299
+Échame a mí la culpa	52435
+Nakanune	53096
+Gekko kamen - kaiju Kongu	203522
+Una señora movida	276498
+Neoplachennyy dolg	254603
+Får jag låna din fru?	52834
+Le fric	51676
+El vestido de novia	237890
+Szombattól hétföig	53327
+Jesienny dzien	172629
+O Primo Basílio	53191
+Humihazushita haru: Aoi chibusa II	8420422
+Neend	234328
+Un uomo facile	52342
+Der Schäfer vom Trutzberg	227442
+Zhan huo zhong de qing chun	6914800
+Bus Conductor	231305
+Ottsy i deti	53817
+El niño de las monjas	51999
+Jayabheri	256113
+Ich bin kein Casanova	52912
+Otchiy dom	53151
+Chunhyangdyun	3420118
+Visa pour l'enfer	161071
+Chofer de Praça	178332
+Ferias de México	242455
+Qing tian xue lei	193442
+Shingo jûban shôbu: dai-ni-bu	5889536
+Campo Mamula	179701
+Date at Midnight	52723
+SOS Gletscherpilot	140527
+Krystallo	231935
+Devochka ishchet otsa	140954
+A harangok Rómába mentek	51699
+A Handful of Grain	52875
+Redenção	197814
+Sivagangai Seemai	323987
+Aana Valarthiyal Vanampady	252185
+Nina	159600
+Nie Er	183576
+Mahishasura Mardini	261037
+Madhu	139444
+Huang he fei du	349589
+Secret professionnel	52830
+Sensuikan I-57 kofuku sezu	53315
+La pandilla en acción	277214
+Melodie und Rhythmus	53058
+Kong zhong xiao jie	211467
+I mafiosi	183464
+Onna kyûketsuki	204515
+Min ajal emraa	355774
+Angelitos del trapecio	271964
+La reina del cielo	276450
+Er nu ying xiong chuan	164325
+O theios apo ton Kanada	184942
+Mantelli e spade insanguinate	198713
+Marutirtha Hinglaj	53052
+Fly mej en greve	52813
+Kamandag	356776
+Arzt aus Leidenschaft	52580
+Wu duo Jinhua	355036
+El ataba el khadra	355226
+A Costureirinha da Sé	52705
+El Salvador	344295
+Simpatico mascalzone	53280
+Haha no omokage	1570590
+El cariñoso	275995
+La bellezza del diavolo	52615
+Foma Gordeev	52816
+La duchessa di Santa Lucia	162939
+Anthismeni amygdalia	184217
+Natürlich die Nelli	53101
+Yajû shisubeshi	313796
+Buen viaje, Pablo	52658
+Avalansa	182745
+Bhagapirivinai	156350
+Gokul Ka Chor	364379
+Tunisi top secret	53383
+Lettere dei condannati a morte	182282
+Tri cetrtine sonca	170713
+Jungle King	1045627
+Destinazione Sanremo	52731
+Das schöne Abenteuer	53251
+Aus dem Tagebuch eines Frauenarztes	52591
+Solntse svetit vsem	53289
+Forty Days	231611
+Mi esposa me comprende	242676
+Noci i jutra	180877
+Bhangra	231257
+Las aventuras de Taxi Key	6055830
+Det svänger på slottet	52732
+Kölyök	52983
+C.I.D. Girl	212834
+La ley del más rápido	276286
+Great Van Robbery	52863
+Tri Ane	170712
+Le donne ci tengono assai	52752
+El hombre del alazán	236305
+Lejon på stan	53000
+Kêisatsû-kan to bôryôku-dan	6532170
+Cesta zpátky	51467
+Anata to watashi no aikotoba: Sayônara, konnichiwa	53246
+Pistoleiro Bossa Nova	194252
+Ispravlennomu verit	471762
+L'inferno addosso	52534
+Uwayaku, shitayaku, godôyaku	53265
+Fudôtoku kyôiku kôza	816239
+Mohar	357912
+Innocent Meeting	51777
+Lita molodiyi	53873
+Charlestón	52688
+Hägringen	150808
+Asl dost	1448440
+Manicomio	274646
+Dr. Z	388903
+Zi chai ji	205599
+La última lucha	255718
+La copla andaluza	52701
+Akashganga	252215
+School Master	387566
+Yoru no togyo	218735
+Le travail c'est la liberté	161006
+Mofubuki no shito	142664
+Il raccomandato di ferro	53204
+Aruhi watashi wa	312384
+Top Floor Girl	53367
+Oneechan makari tôru	199906
+Dongshimcho	389940
+Mis secretarias privadas	206145
+Caín adolescente	184334
+Ce soir on tue	128849
+Shibdaeui banhang	314659
+Proslave i sjecanja	320315
+Arson for Hire	52577
+Polska kronika filmowa nr 52 A-B	173014
+Sogno di una notte di mezza sbornia	156091
+Ja, so ein Mädchen mit sechzehn	136270
+Bal de nuit	149777
+Hamati malak	359375
+Kaitei kara kita onna	1330033
+Nai Raahen	158018
+Zafra	52420
+Mandolinen und Mondschein	53046
+Sasameyuki	426202
+La Pica sul Pacifico	122656
+Meiji Tennô to Nogi Shôgun	4524074
+Ivan Brovkin na tseline	51789
+Kodama wa yonde iru	52770
+Samarat Prithviraj Chauvan	156995
+Piko	194245
+Beany and Cecil Meet Billy the Squid	145672
+Kvavili tovlze	269459
+Wenn das mein großer Bruder wüßte	53439
+El dinero de Dios	201567
+Alle Tage ist kein Sonntag	52546
+Golubaya strela	312732
+Vístete Cristina	276612
+Café pod Minoga	52664
+Qing chun zhi ge	53196
+Fleuve invisible	332063
+Nour el lail	355841
+Maia Tskneteli	170197
+Rendezvous in Wien	52388
+Ben kahpe degilim	346593
+Amaryllis, to koritsi tis agapis	200430
+Patarouva	121111
+Pukotina raja	180066
+12 Mädchen und 1 Mann	53471
+Yeosajang	4907150
+Útek ze stínu	175377
+15 bajo la lona	52107
+Fridolfs farliga ålder	52825
+Flying Rani	3906516
+Koel	234048
+Korosareta suchuwadesu: shiro ka kuro ka	52975
+Acapulqueña	225020
+Ne imey 100 rubley...	1446116
+Guinguette	51455
+Der Mustergatte	202485
+Ponnu Vilayum Bhoomi	156902
+Savera	1207980
+Shera	1427109
+El candidato	179121
+Ismail Yassine lal baie	355586
+Lágrimas de amor	234158
+Gureumeun heulleogado	231686
+Doku-ganryu Masamune	2643408
+Sora kakeru hanayome	164176
+Itsuka kita michi	795944
+Astero	167773
+A Woman's Temptation	53452
+Lui, lei e il nonno	183437
+Samanyolu	353971
+Satomi hakken-den	165935
+Gu wu jiang shi	349510
+Daste taghdir	395513
+Blackmailer	3908758
+El derecho a la vida	51528
+Zhan Shanghai	334786
+President Panchatcharam	156909
+Son yolcu	354036
+La marraine de Charley	158761
+Web of Suspicion	53438
+Due selvaggi a corte	52762
+Weißes Blut	173447
+Deep Jalta Rahe	213599
+Yami o yokogire	276755
 Tough Guy	1139413
+Heimat, deine Lieder	52883
+Chun-hie	387933
+Jula juli bintang tiga	261766
+Arus kodome?	315789
+Die Premiere fällt aus	171654
+Doshmane zan	389943
+Chen xin ru yi	349206
+Ssora v Lukashakh	53302
+Wang ge Liu ge you Tai Wan	1854374
+Liu lian piao xiang	453140
+Muskurahat	1620897
+Yaar Beli	1407317
+Simiente humana	314675
+Kutsumata külalised	314434
+Das Nachtlokal zum Silbermond	53281
+Miss Hunterwali	5319784
+Jamaeui hwawon	388143
+Frankie	5782206
+Wakaki hi no Nobunaga	198666
+El negoción	188938
+Thaai Magalukku Kattiya Thali	1469385
+A harminckilences dandár	52531
+Ya byl sputnikom solntsa	141294
+S.O.S., abuelita	52152
+El Zorro Escarlata	51229
+Gia to psomi kai ton erota	184514
+Dobri stari pianino	52743
+Nooi van my Hart	437364
+Gekko kamen - akuma no saigo	203521
+Nepoddayushchiyesya	147081
+Pakiusap	371061
+Pan Anatol szuka miliona	53154
+Neobyknovennoye puteshestviye Mishki Strekachyova	170299
+Camarote de lujo	50224
+Bevor der Blitz einschlägt	52622
+Tres lecciones de amor	265896
+Taková láska	147580
+Lyuboy tsenoy	253224
+Un canto nel deserto	159335
+Nacida para amar	237485
+Minute papillon	158788
+Le petit prof	159644
+El superflaco	51030
+Naya Sansar	156834
+Carta al cielo	52677
+Noc poslubna	53122
+Eine alte Liebe	52552
+El sordo	276512
+Traitors of the Blue Castle	202008
+Hatsuharu tanuki goten	202897
+Mi mujer necesita marido	209147
+Tatsumaki bugyô	360065
+Lin jia pu zi	470423
+Match contre la mort	140366
+Itazura	10843666
+Pet z milionu	124051
+Grihalakshmi	357715
+Douleies me fountes	218946
+Fashionable Wife	1577809
+Cerro Guanaco	331214
+Skandal um Dodo	52202
+Kard és kocka	52963
+Le cameriere	52669
+Sie nannten ihn Amigo	53277
+Arrêtez le massacre	149713
+Crash Drive	52710
+Schlag auf Schlag	52163
+Roulotte e roulette	186504
+O Preço da Vitória	198924
+Doto no taiketsu	199476
+Azhagarmalai Kalvan	319021
+The Big Hunt	186876
+Gringalet	186179
+Waga ai	53431
+Warera no jidai	1926346
+Ang maton	1364259
+Khul Ja Sim Sim	1620830
+Eglima sto Kolonaki	236184
+Hry a sny	277022
+Poyraz Osman	404335
+Sahara	1407289
+Big Time Berto	1240903
+Zhizn proshla mimo	230996
+Hanran	228368
+Commander	231380
+Vatsa sisään, rinta ulos!	139704
+Quel tesoro di papà	53199
+Kya Yeh Bombai Hai	3904210
+Li gui yuan chou	205216
+El akh el kabir	355178
+Shree Shree Mahalaxmi Puja	1402559
+Enslingen i blåsväder	52779
+Die unvollkommene Ehe	122775
+Duelo en la cañada	52764
+Cuentan de una mujer	242396
+Hitohada botan	10856218
+Du gehörst mir	207438
+Onna gokoro	358615
+Una gran señora	52859
+Seksing-Seksi (Mapang-halina)	5788394
+Tsarsuli zapkhuli	265910
+Osobyy podkhod	5093972
+Raaz	1407282
+Ena nero, kyra Vangelio	184437
+Bhakt Pralhad	1286509
+No soy monedita de oro	276361
+Na petheros, na malama!	200885
+Los tramposos	53373
+Shikleli Baiko	8495136
+Suuri sävelparaati	134125
+Chûshingura: ôka no maki, kikka no maki	186921
+Daibosatsu tôge - Kanketsu-hen	960752
+Besuch aus heiterem Himmel	51409
+Asintado	5787744
+La huida	136256
+Ginza no onêchan	204346
+Kaze no naka no hitomi	2513648
+Les brûlés	188321
+Del suelo no paso	276056
+Vachina Kodalu Nachindi	8862346
+Hui min zhi dui	487102
+Talihsizler	354955
+Zolotoy eshelon	178117
+El millionaire el fakir	356889
+Lokandet el mofagaat	355698
+Menschen im Netz	53060
+Gyvieji didvyriai	194580
+Bodi Shah	1407162
+Osorubeki hiasobi	52720
+Akiket a pacsirta elkísér	52541
+Drakoulas & Sia	237186
+Llegaron los franceses	53014
+Angustia de un secreto	52565
+Unser Wunderland bei Nacht	53397
+Izmir Atesler Içinde	351121
+Ömrüm böyle geçti	209206
+La rebelión de los adolescentes	235706
+Ivanna	174784
+Na dorogakh voyny	351402
+El cerco	318355
+Stuchis' v lyubuyu dver'	314731
+Hicran yarasi	353532
+Rajo to satsujin-meiro	6537934
+Lao bing xin zhuan	6645620
+Lasisydän	133057
+Pelli Sandadi	369821
+Kagero ezu	52956
+Saata Janmachi Sobti	238570
+Nangoku Tosa o ato ni shite	3228200
+Asu e no seiso	10605744
+La mujer y la bestia	51957
+Hast noch der Söhne ja...?	948617
+La sangre y la semilla	188191
+Senjô no nadeshiko	142830
+Guldgrävarna	52867
+To agorokoritso	135754
+Hanmalpungungwa minchung jeongong	309655
+Détournement de mineures	140977
+Nikaidô Takuya: Ginza Buraichô - Ginza Mite Guy	2712176
+Qian shao	6896580
+Pennkulathin Ponnvillakku	5615098
+Dinü hua	247292
+Mingea	51932
+Veealused karid	447519
+Kahapon lamang	1158724
+Con la vida hicieron fuego	50262
+El hub el samet	355546
+Pet minuta raja	53165
+Mikosch im Geheimdienst	53066
+Images pour Baudelaire	330436
+Stump Run	53313
+Culpas ajenas	325212
+Vasiliy Surikov	53406
+El amo	346505
+Traumrevue	129451
+Nash korrespondent	183564
+Kalb min dahab	355629
+Le mariage de Figaro	158757
+Tetsuwan tôshu Inao monogatari	52922
+Sombrero	194391
+Ei ruumiita makuuhuoneeseen	125071
+Bacha Jamoora	1620692
+Iô-tô	2177593
+Diakopes stin Kolopetinitsa	225506
+Mi niño, mi caballo y yo	275516
+Unpaid Debt	195371
+Yu guo tian qing	194573
+Machibugyô nikki: Tekka botan	5368496
+Jurnjava za motorom	194070
+Senbazuru hichô	200106
+Oso yparhoun gynaikes	232241
+Seytan mayasi	354910
+El casco blanco	53701
+Noi siamo due evasi	53123
+Hanayome-san wa sekai-ichi	404094
+Kibris sehitleri	304288
+Wedding Bells	371394
+Utamaro wo meguru gonin no onna	204718
+Matomeno iliovasilemma	256920
+Mucho Dinero	5787462
+Aventuras de la pandilla	180463
+A mi földünk	4694182
+Rolling Rockers	5195892
+Pushpadhanu	237623
+Alam Ara	1620424
+Sha mo zhui fei ji	340970
+Komandirat na otryada	309776
+Fereshteh vahshi	399049
+Sköna Susanna och gubbarna	53283
+Chi feng hao	8161208
+Ware für Katalonien	53433
+Avventura in città	156307
+El hareba	356676
+Kara sevdali yarim	304261
+Ginza Senbuji	7320708
+Peter schiesst den Vogel ab	53167
+Ae Desh Tomar Amar	1620685
+La novia de Juan Lucero	52011
+Binan-jo	186879
+Apna Paraya	1620689
+Tapehe eshq	388455
+Hawaiian Boy	442257
+Cilali Ibo casuslar arasinda	349216
+Karagiozis, o adikimenos tis zois	184633
+Bialy niedzwiedz	52625
+Drôles de phénomènes	156493
+Canto para ti	51446
+Stastie príde v nedelu	240035
+Quem Roubou Meu Samba?	182378
+La vie est belle à Medje	265990
+Jiang shi fu chou	453116
+Shama	1620964
+Toofani Tirandaz	3904250
+Was eine Frau im Frühling träumt	53435
+Jin tian wo xiu xi	4300208
+Adisaya Thirudan	255778
+Ashat lil-hob	355220
+Bibô ni tsumi ari	309358
+Kawaii onna	5526182
+Der kleine Kuno	171442
+¡Quietos todos!	277452
+Senryô-jishi	201079
+Qué noche aquella	219991
+Zverolovy	146363
+Sverstnitsy	174192
+La vida alrededor	53419
+Kyûjûkyû-honme no kimusume	202449
+Los hijos ajenos	276193
+Sotto a chi tocca	3643368
+Rancho Texas	53209
+Chung mot dong song	2136824
+Hubertusjagd	52910
+Kamienne niebo	52959
+Il Medico Dei Pazzi	8296980
+Inchu e aghmkum gete	420690
+San xing ban yue	205383
+El zorro escarlata en diligencia fantasma	4092808
+Gyalog a mennyországba	52871
+Pervyy den mira	55288
+Zimbo KI Beti	3906324
+Bored Hatamoto: Acrobats of Death	5898424
+Fosforlu Cevriye	349462
+Kibris'in belasi kizil EOKA	353623
+Pistolas de oro	274722
+Taxeidi me ton erota	201971
+Tayo'y magsaya	419187
+Karimin Aski	353614
+Prázdniny v oblacích	235697
+Kærlighedens melodi	125328
+Ipinagbili ko ang aking anak	422495
+Lyubovyu nado dorozhit	53029
+Ang matapang lamang	1364258
+Sakhrat al hub	251973
+Linda Mora	5775154
+Saaz	5310850
+Teki wa honnoji ni ari	199071
+Yu wang	205586
+Bagriyanik	346564
+Isinumpa	370787
+Ana Gibi Yar Olmaz	8961444
+Campo virgen	201507
+Bara en kypare	53633
+Handsome	370624
+Lileya	237411
+Mujeres de fuego	137968
+No Safety Ahead	52004
+El otro camino	298253
+Manaiviye Manithanin Manickam	6039162
+Saijo kishitsu	9663146
+Zvigenis kbili	266107
+Auskunft im Cockpit	204849
+Daigaku no nijuhachin	372846
+Minister	3906304
+Sarakatsanissa	230731
+V tvoikh rukakh zhizn	192734
+Ojo-kichiza	198863
+Hyoryû shitaî	6586692
+Illarikam	254403
+Jiken kisha	2470080
+Nuits de Pigalle	159609
+Y después del cuplé	53456
+Kalb yahtarek	355630
+Derso Khokhar Kando	1582488
+Esrarli kadin	345201
+Na zisoun ta ftohopaida	205283
+Todai	9224352
+Soldatskoye serdtse	253728
+Treis manges sto parthenagogeio	236808
+Vatan ugruna	355005
+Jin Feng gu niang	1062929
+Shôkon no okite	9606700
+Mein ganzes Herz ist voll Musik	311508
+Serseri	311781
+Qian mian nu lang	477833
+Haru o matsu hitobito	10831358
+Gamilies peripeteies	184504
+Sathi Sukanya	8827176
+Baekman jangjaga doeryeonmyeon	371557
+Kalyana Penn	390156
+Agha jenni shodeh	389737
+King Gojong and Martyr An Jung-Geun	8125356
+Die ideale Frau	52914
+Panoptikum 59	195973
+Mr. Announcer	5783336
+Do arus baraye se baradar	398957
+Tasogare no Tokyo Tower	1565049
+Chans va eshq va tasadof	397366
+Arris marti	355215
+Dada me to zori	255082
+Sevdali gelin	354000
+Ek Armaan Mera	215742
+Vazha Vaitha Daivam	1459979
+Kilabot sa Makiling	370847
+Jia you xi shi	198574
+Gekkô kamen - Yûrei tô no gyakushû	202368
+Ejército blanco	52772
+Cara de Goma	50228
+Gangsterjagd in Lederhosen	140066
+Zi mei hua	211764
+Sandra	371164
+Zhazhda	53466
+Tokyo Romance Way	6260734
+Madam XYZ	156759
+Die Wildeboere	2181907
+Lygos, o leventis	232014
+Cuando se quiere se quiere	274447
+Pasos de angustia	50824
+Bir qalanin sirri	2081190
+Sabash Pilla	250706
+Patriot	10054282
+Bandaramudu	255827
+Ardyn elch	316423
+Chun man ren jian	377650
+Ölmeyen ask	354254
+Meus Amores no Rio	161803
+Napoli è tutta una canzone	136424
+Naega naheun geomdungi	396751
+Yo y las mujeres	470169
+Behram Daku	3913224
+Ben bir günahsizim	346592
+Onu Bagislamaq Olarmi?	1657409
+Erotika skandala	236201
+Periplanomenoi Ioudaioi	184818
+Jal-Jangal	157848
+Chinita	1210151
+Auf allen Straßen	52590
+Muz, ktorý sa nevrátil	174948
+Scout Camp	3904366
+Zafra (I)	5772408
+Tri rasskaza Chekhova	288843
+Ömrümün tek gecesi	354257
+Çakir Eminem	350376
+Xiao yue liang	205547
+Maragatham	323188
+Shonen tanteidan: Teki wa genshisenkoutei	203897
+Las locuras de Bárbara	51875
+Poteryannaya fotografiya	173027
+Panagimpan	2059260
+Música de ayer	51970
+Patay Kung Patay	5769308
+Telesme schekasté	310212
+Friluft	289710
+Operation Stogie	313433
+Osome Hisamatsu: Soyokaze higasa	6012126
+Awishwasaya	3157094
+Bufakkar filli nassini	355296
+Brigade des moeurs	142136
+Diego Corrientes	52741
+Cilali Ibo yildizlar arasinda	349217
+Hubb lel-abad	126341
+Eomeoni	371664
+La vertiente	179503
+Hao yuan jia	207506
+Cholpon-utrennyaya zvezda	55848
+Die ying hong li ji	205010
+Onna to kaizoku	53139
+Kabbelni fi zalam	355620
+Two Men of Fiji	1845308
+Titio Não É Sopa	197956
+Kalaivanan	256125
+Yeki boud yeki naboud	399914
+Kahramana	355622
+Sam	53239
+Tenryu no karasu	201242
+El bolis serry	355280
+Sparring Partner	5790680
+Ye mei gui	205563
+Kanundan kaçilmaz	353610
+Juego de niños	50573
+Chathurangam	254215
+Aisaiki	313181
+Liebe auf krummen Beinen	53005
+Ginza senburi - kûromakû wa daretâ	7321120
+Liebe, Luft und lauter Lügen	53007
+Muhô gai no yarô domo	6741384
+Arriva la banda	52576
+Ikaw ang aking buhay	357776
+Edo no akutaro	164556
+Ask rüyasi	346533
+Xiang che mei ren	211750
+Leila, bint el shatie	355685
+Milagros de San Martín de Porres	218439
+Abu Hadid	355172
+Perfide.... ma belle	53161
+Thangapathumai	269952
+Ritrovarsi all'alba	47419
+Kato Ajanare	52965
+Maria 38	194136
+Chandrasena	242360
+Arashi o yobu yûjô	321276
+Chiyari musô	5889502
+La pandilla se divierte	277215
+Heures chaudes	57139
+The Lost Class of '59	2561022
+Fröken Chic	52831
+Fukaku hichô	327751
+Kidnapped	1364238
+Dokribhyeobhwiwa cheongnyeon Lee Seung-man	389934
+Awatef	355235
+Suzukake no sanpomichi	203965
+Sijn el azara	356036
+Hassan wa Marika	1673390
+El secreto de papá	53257
+Bi setareha	398762
+Onun süvarisi	353837
+Janmantar	1538313
+Bayanihan	1223233
+Sokak sarkicisi	354032
+Herren og hans tjenere	52886
+Zhestokost	53467
+Mo ter zhi lian	456544
+Chuzhaya v posyolke	350716
+Tsukikage Hyôgo: Jôdan kasumigiri	9071886
+Dai san no shikaku	1482136
+Yun wu shan zhong	6912588
+Onna kanchô akatsuki no chôsen	6538870
+En la vía	187827
+Raja Makutam	266880
+Beni azami	164392
+Sygnaly	53324
+Salitre	195227
+Dar jostojuye damad	387964
+Soroka-vorovka	142865
+Hebihime sama	187133
+Dandan setia	1669104
+Iseng	1431085
+Saaligirah	4720800
+Mis padres se divorcian	236504
 Sabhash Ramudu	261990
+Sashko	3206112
+Szerelem csütörtök	53326
+Kalpaklilar	351160
+El frente infinito	49232
+Futari wakagishi	201628
+Yorû o sagase	8567102
+Mi hun qu	453156
+Zalongo, to kastro tis lefterias	232979
+The Desert Inn	2265587
+O moyom druge	6018302
+Yun chang yan hou	209504
+Sudba pojeta	2238937
+Amar Shaheed	250205
+Frau im besten Mannesalter	52822
+Mga Anghel sa Lansangan	370284
+Baby Face	454078
+Os três Cangaceiros	194463
+Kanli degirmen	351161
+Entrei de Gaiato	200612
+Pescando millones	53164
+Zara Bachke	155407
+Isshin Tasuke: Otoko no naka no otoko ippiki	5111850
+Eu Sou o Tal	194854
+Mulheres, Cheguei!	194186
+Bioneun nalui ohu seshi	409754
+Nirdharita Silpir Anupastithi Tey	213944
+to imeroma tis striglas	7158776
+Anyakôro	321255
+Qiao lao ye shang jiao	6611820
+Zatoulané delo	257287
+Ganeun bom oneun bom	309621
+Cicatriz	1242612
+Játék a szerelemmel	50582
+Moral em Concordata	183526
+Eceline susamislar	349394
+Carretera general	49056
+La estampida	51594
+Bhagwan Aur Shaitan	3908768
+Wan zi qian hong zong shi chun	483960
+Kawaii hana	53021
+Le notti dei Teddy Boys	186396
+Erotas... me doseis	196537
+Koi yamabiko	3419126
+Huan le ren jian	340764
+Kiken ryoko	10808510
+Otan to misos kyverna	288691
+Sonbahar	354037
+Claudia	52699
+Nuregami sandogasa	198856
+Zümrüt	262142
+Kapitäne bleiben an Bord	231871
+Teen-Agers' Holday	5772064
+Qing chun er nu	211584
+Asa o yobu kuchibue	9032838
+5 loddrett	205057
+Onna no kyôshitsu	2912918
+Zhuravlinaya pesn	143015
+El hub el akhir	355545
+Tegami o kakeru	373354
+Dou kou nian hua	349368
+Hai bin chun se	209009
+Liman tashrouk al chams	251802
+Tenka no igagoe: akatsuki no kessen	6200640
+Las tierras blancas	186618
+Chhabi	233437
+Binnaz	349146
+Slecna od vody	53284
+Jungle Ki Duniya	3906320
+Feng yu gui zhou	211367
+Xue sa qing hua	350340
+Bakit may putik ang bulaklak	446920
+Zavalli yavrucak	355050
+Jai Bhawana	256840
+N.S. Khruschev v Amerike	235611
+vatrahai	7158764
+Krizovatky	396091
+Esse Milhão É Meu	191115
+Huang Fei Hong yi guan Cai hong qiao	187961
+Insaeng bokdeokbang	414157
+Shura zakura	201122
+Yu bu sa hua hua bu gong	350358
+He chu shi er jia	7457668
+Naneun gobalhanda	393519
+Captain James Cook	1824163
+Engal Kula Daivi	367704
+Torimono dochu	199097
+I Liza toskase	206898
+Neng yan niao	453170
+Smuggler	4720842
+Haengbokui jogeon	430165
+Tian chang di jiu	205466
+Man tang hong	453147
+V etot prazdnichnyi vecher	7915738
+Kosolapyy drug	5091748
+Obcan Brych	175981
+Taeyangui geori	423311
+Tian tian mi mi	470943
+Cheke yek milyon toomani	389850
+You yi	357332
+Tian tang qing lei	798439
+Aí Vêm os Cadetes	180465
+Ek Sal Opstaan	2180355
+Jeunes filles d'aujourd'hui	264729
+Ori no naka no yarôtachi	372770
+Yeonggwangui chimshil	313801
+Satomi hakken-den: Hachi kenshi no gaika	6014266
+Iroes tis gafas	262506
+Chini Jadugar	1062245
+Kaze no aru michi	2951880
+Pen huo nu lang	477808
+Kenju gai ichî: cho mo	8254984
+Jacqueline	52938
+Gogaereul neomeumyeon	396037
+Skaly a ludia	5868092
+Meine Tochter Patricia	53057
+Tokyo no kodoku	1934448
+Na ge bu duo qing	1296560
+Jin mei ren	206059
+Tsubanari sankengô	8821286
+San lun che fu zhi lian	1523984
+Feryat	349448
+Hibari torimonochô: furisode koban	4929686
+Otros tiempos	128386
+Futô no nâwabarî	6666024
+Keishichô monogatari: Iryûhin nashi	443079
+Ayrilik	341241
+Tong xin jie	205475
+Soupe au lait	160900
+Yagyu tabi nikki: Tenchi muso ken	202124
+Kalyanikku Kalyanam	269418
+Ôtoko ga bâkuhatsû surû	6386284
+Huang tang nu xu	207527
+Annemi ariyorum	346515
+Shi hang	351718
+Mr. John	357925
+Inham yek jooreshe	395601
+Unutulmayan ask	354999
+Horká láska	256818
+Anak ng kidlat	1190178
+O Thymios takane thalassa	206342
+Wangja Mi-reuk	324493
+Huang Fei Hong hu peng fu hu	187939
+Tere Baghair	1620616
+Circus	236107
+Er ba jia ren	349409
+Ramona	1207742
+Shan dong za jiao Mu Gui Ying shang ji	1942979
+Barrio Fiesta	5790628
+Bai hua gong zhu	198323
+Tanikalang apoy	358191
+Sarariman shussetai koki daiyonbu	372511
+Silnejsie ako hranice	171743
+Insaaf Kithe Ah?	213728
+Donto ikôze	2496706
+Ghar Ghar Ki Baat	212964
+Chen Sanliang	341301
+Erich Kubak	230192
+Du li qiao zhi lian	453039
+Vesyolka	334616
+Jin zhi yu ye	207562
+Nauka Bilash	1582561
+Felaket yolu	349443
+Zoku Satsujinhan Nanatsu no Kao: Kaiketsuhen	3114138
+Pardesan	1620571
+Yarikuri apâto	396939
+Taiyô ni somuku mono	1562456
+Aawitan kita	1228958
+Kaoyaku to bakudan musume	7820026
+Balikçinin kizi Gülnaz	346570
+Matir Pahar	1620890
+Lavina s gor	252635
+Zhui yu	2097954
+Raiden	5061794
+À bride abattue	1493317
+Wo men de zi nu	350327
+Dynamite ni hi o tsukero	3375084
+Zoku Raiden	5061832
+N no kiroku	2147441
+Bakushô Mito Kômon man'yûki	4307356
+The Face of the Phantom	10329742
+Wang Bao Chuan	247810
+För katten	52835
+Ultimatum	5784814
+Xing dao fang zong	455870
+Xing xing zhi huo	7733416
+Hwang-geumui sangcheo	927612
+Ordeal at Dry Red	53144
+Hanâ no daishogaî	8972854
+Zero bângai no ôkami	6386686
+Raja laksamana bentan	1268268
+Bobby Dodd greift ein	52640
+Naalu Veli Neelam	368054
+Rosa Rossini	1409796
+Yari hitosuji nihon bare	4279328
+Maibowle	174897
+Duke de Borgoña	5790582
+SATHI SUKANYA	10137232
+Pesar-e darya	384424
+Bôfûken	3066602
+Daigaku no oneechan	204276
+Siempre estaré contigo	275677
+Nitôhei monogatari: Banji yôryô no maki	10374546
+Voennaya tayna	334661
+Doroga ukhodit vdal	422119
+SAS 181 antwortet nicht	345880
+Kalbain wa jassad	251761
+Gui wu ge sheng	193212
+Izmedju dvije prozivke	171409
+Furqat	2259092
+Tin Tin Tin	3904312
+Jeevan Ki Nadiaan	156640
+Beran me-e geisha	328888
+Abul eyoun garia	356325
+Circus ki Sundari	384454
+Aaj Kal	1620681
+Ren lun	205363
+Jan Arima no shûgeki	188711
+Rouze gomshodeh	396844
+Bai fa mo nu zhuan san ji da jie ju	2965810
+Jaya Vijaya	1510770
+Mise dobré vule	261070
+Allah büyüktür	346495
+Ggotpineun shijeol	407824
+Ana kucagi	261529
+Sekai o kakeru koi	2524634
+Cheongchun baedal	327560
+Gehanu Geta	3157122
+Dharma Vijaya	1411846
+Abashiri Bangaichi	6381480
+Cha mou ai chi cu	2282735
+Osklivá slecna	232240
+Mlechnyy Put	5091870
+Marcelino	1226308
+Aquello que amamos	201431
+Shi hou ji	781485
+Shachô taiheiki	314654
+He nacido en Buenos Aires	52881
+Groza nad polyami	314130
+Jutian xuannü	245190
+Mech i roza	307146
+Naghma-E-Dil	1620552
+Kruh	174833
+Cavalcade	51462
+Love the Future	151401
+Kyôfu no wana	9006606
+Hindi Kita Anak	5777728
+Pos pernoun oi pantremenoi	207021
+High Speed Flights: Part I	309677
+Tange Sazen doto-hen	200197
+Üç kursun	355061
+Toya & Heidi	217854
+Jwalamukhi	4678016
+Il était une guerre	225970
+Liebe verboten - Heiraten erlaubt	53006
+Hatoba no muho mono	8387518
+Puro utos, puro utos	1204250
+Yuganda tsuki	2700210
+Kendi düsen aglamaz	353620
+Ostatni strzal	53150
+Esta fue mi vereda	225646
+Askin gözyaslari	346535
+Evlatlik	349417
+Saathi	1620954
+The School of Work	131578
+Tenka no fuku-shogun	201240
+Shi xiong di	207735
+Gokigen musume	363643
+Kitsune to tanuki	314277
+Faisla	1620735
+Shui shang chun qiu	6643526
+Sotang Bastos	5787714
+Kanniraindha Kanavan	254476
+Salaya handa	316527
+Circus	236106
+Kurutta datsugoku	2630218
+Ganacheni	268325
+Areumdawoon yeoin	321283
+Kenjû o migaku otoko: Ano on'na o sagase	9505212
+Reifender Sommer	316478
+Wakai koibitotachi	4246946
+Jai Bhawani	1492915
+Virtaset ja Lahtiset	133267
+Jiken kisha: Kage naki otoko	3493070
+Qing chun le	453189
+Nimai no e	426129
+Huang Fei Hong bei kun hei di yu	187921
+Abare daimyo	201412
+Hiroi ten	2098705
+Naradhar Kalyanam	261851
+Lie huo zhen jin	6900434
+Halou	396627
+Lukkan Mitti	1620529
+Sipayi Kooturu	369939
+Fei lai yan fu	453058
+Qi jian xia Tian Shan	249151
+Xi chun tu	194555
+Mabilis pa sa lintik	2206012
+Saminui shinbu	328353
+Allahu Akbar	356347
+Strogaya zhenshchina	5094086
+Sehvet uçurumu	354905
+Dong chuang jia xu	4165908
+Reportaje en el infierno	201889
+Sati Tulasi	369899
+San yue du juan hun	5648836
+Kak possorilis Ivan Ivanovich s Ivanom Nikiforovichem	8155134
+The Adventures of Rex	1675888
+Gui fu feng liu	211397
+Puteri gunung banang	1669211
+Flyboy baksa sodong	350947
+Tobitchô kantarô	9665776
+Hai shang sheng ying	340146
+Insaeng daehak ilnyeonsaeng	309713
+Otoko nara yume o miro	8287022
+Satanskoraal	2035614
+Kizû tsukeru yajû	8244434
+Inoru hito	5463238
+Ganryujima zenya	198507
+Epistrofi ap' to metopo	257622
+Hao men ye yan	205116
+Fong Sze Yu's Bloody Battle with the Net of Dual Forces	186148
+Leili i Medzhnun	187237
+Hyotan suzume	422446
+Hub wa dalaa	355548
+Samra sina	274784
+Kaiheki	216853
+Shin nitôhei monogatari: Fukeyo kamikaze no maki	10375754
+The Prodigal's Wife	249095
+Daivame Thunai	247267
+Liang shang jia ren	198650
+Takamaru Kikumaru	202613
+Tuchi pokidayut nebo	5494778
+Chong chong wei kun	455389
+Kitipiyoza tuzak	352496
+Obgonyayushchaya veter	5094440
+Zoku sûpâ jaiantsu - Akuma no keshin	52542
+Ai rabu yû	393033
+Hana noren	379801
+Touba	357249
+Utashigure senryo tabi	201293
+Alli Petra Pullai	366158
+Eva Dragon	5198616
+Sábado negro	276547
+Ginintuang Tinig	5805494
+Mi ren de jia qi	470439
+Masken und Gesichter	8407456
+Ittôsai wa sebangô 6	2167775
+Nasreddin v Hodjente, ili Ocharovannyi prints	5072522
+Hadisi Vivahaya	2977872
+Yamada Nagamasa - Oja no ken	187368
+Jigoku no magarikado	3377066
+Apat na anino	1215013
+Kuroi yubi no otoko	6612572
+Misija mira i prijateljstva	316257
+Chernomorochka	313884
+Tou qing ji	192690
+Dongbaek ggot	371646
+Iroha wakashû: hana kago tôge	330459
+Pilyong Kubrador	5785292
+O Giannos ki i Pagona	258321
+Sarariman jikkai	316541
+Daigaku no abarembô	1948550
+Shui bai yi zhi lian	3739600
+Wakai kawa no nagare	1949260
+Mi esqueleto	178756
+Itsuwari no jôji	8610272
+Zhang fu de qing ren	194579
+Ge mi xiao jie	445392
+Veer Bhaskaradu	246308
+Benzincinin aski	346594
+Daitoa senso to kokusai saiban	317308
+Zwervers in het land der dromen	226698
+Lalkaar	1427072
+Üç kizin hikayesi	355060
+Rechukka Pagatichukka	263924
+Malkata	172766
+Nirenjû no tetsu	8345260
+Dou fu xi shi	191969
+Seishun o kakero	3055452
+A Musical Tribute to Paris	306844
+Ye hua xiang	5130490
+Jiken kisha: Shin'ya no mokugekisha	3493134
+Feng yu you lan	192021
+Ipinagbili kami ng aming tatay	1389771
+Sazae-san no dâssen okusamâ	10324178
+Maa	249771
+Yang Na-Wu	409504
+Abba! A Hudgi	321068
+Suche Moti	1620970
+Shandong zaijiao Mu Guiying	247697
+O Drama das Secas	195665
+Teisô no Arashi	3762298
+Kizû ato no ôkite	8228842
+Kenjû 0 gô	5675094
+Sri Panduranga Mahatyam	264035
+Pár lépés a határ	173083
+Nan zhi zui	7063276
+Hashi	5330528
+Guhongyeol sadae	327817
+Jûdai no magari kado	6376188
+Julius Janonis	4924202
+Gwo bou san neung	455518
+Agnes psyhes	299455
+Saral Biswas	236709
+Kaidan hitotsu-me Jizo	202953
+Tenka-muso no ken	200203
+Angham habibi	251585
+Oi klironomoi tou Karaboubouna	263578
+Kader degismez	353597
+La ji qian jin	470418
+Kêdamonô no torû michi	6559432
+Amud Ha'Esh	133365
+Oshaberi okusan	420816
+Naruto no hanayome	198813
+Et knudeproblem	298397
+Jenny	300049
+Kolmas laukaus	133051
+Me ga hoshii	5739104
+Afrit Samarah	356335
+Himmat	1223297
+Kodokan ni hi wa noboru	165848
+Iskelmäketju	133025
+Society	1620965
+Umikko yamakko	1888622
+Les 90 Jours	224577
+Said effendi	50925
+Da po tong wang zhen	5825716
+Bint el badia	355262
+Depois do Carnaval	199453
+Mazloom	1620537
+Bo li xie	452996
+Bizim mahalle	310751
+Merhametsiz gençlik	353728
+Kenju gai ichî: cho mo	8264484
+So angelt man keinen Mann	53288
+Nicolette et les Faust	10590168
+Kagebôshi torimonochô	5146510
+Yorû o sagase (I)	8571886
+Carmentea	258479
+Kaatil Kaun	5310858
+Zoku shachô taiheiki	314956
+Abarenbo miri ni Ishimatsu	10323678
+Geu yeojaui joiga anida	388967
+Oshidori dochu	198880
+Hayate monzaburo	199585
+Raja Sevai	263913
+Zoku-zoku: Kindan no suna: Akai pantsu	7252648
+Asayake gumo no ketto	164358
+Montgomery Speaks His Mind	2559950
+Ölürüm de ayrilmam	354256
+Hete septemberdager	273647
+Selvaggia	53260
+Tong jun jiao lian	205472
+Perilous Assignment	4836370
+Kikenna onna	2273331
+Kein Mann zum Heiraten	52967
+Satsujinhan Nanatsu no Kao	3100964
+Ca xie tong	194744
+Gumrah	1620469
+Pathirai Matru Thangam	368129
+Dogholuha	398959
+Dansei shiikuhô	1817694
+Kenjû o migaku otoko	9506678
+Khmuroe utro	52968
+Un week-end fantastique	256470
+Chuanjin baoshan	245053
+Bara no ki ni bara no hana saku	2673232
+Vicky	439328
+oresteia	7158758
+Naaji	1620550
+Kurutta yokubô	8610248
+Ji ling gui yu xiao lai mao	192176
+Chabukwali	3908754
+Akash Ar Mati	1620687
+Daglar sahini Yörük Efe	349313
+Vazhkai Oppantham	267085
+Gribedyret	291211
+Detective Maturam	5769446
+Merhamet	353727
+Mälarpirater	54108
+Raja Makutam	266881
+Nalla Theerpu	254600
+Yi ming san xiong shou	205572
+Kulub el azara	355670
+V nashem gorode	324400
+Musterknaben	230550
+Jangmaruchonui ibalsa	407899
+Bai fa mo nu zhuan xia ji	2973476
+Raja Malaya Simhan	261222
+Zehir Ali	355051
+Nra yerevakayutyune	428898
+Thamarai Kulam	7142258
+Kaderim böyle imis	351155
+Nino	268498
+Ancillae domini	296507
+Hame ghonahkarim	396628
+Three in a Million	1829050
+Qian	207693
+Fukaku hichô: kanketsuhen	4082800
+Pod stuk kolyos	351563
+Sevdaya kosanlar	354001
+Andra thelo me pygmi	252878
+La Fortuna Con L'effe Maiuscola	8291650
+Naan Sollum Rahasiyam	390287
+Edokko hangan to furisode kozô	5111892
+Yangjileul chajaseo	310369
+Sha san shao qing sha Tan A Ren	248096
+Tong xin shu	814085
+Posledný návrat	232444
+Minnal Padayali	254574
+Wakai keisha	1928316
+Pobresita	843586
+Irham hubbi	355577
+Reportage 57	53215
+Akai jinbaori	199307
+Arimunding-munding	5784826
+Erkek Fatma	349410
+Nacido para la música	53094
+Kujakujo no hanayome	202447
+Campo arado	188475
+Scandale à la Belgique Joyeuse	256371
+Felfelé a lejtön	171318
+Keechak Vadha	252594
+Sam yeoseong	414473
+Raden Mas	9900280
+Kohtalo tekee siirron	133050
+Jiken kisha: Mahiru no kyôfu	2470078
+Senta auf Abwegen	230754
+Comendo de Colher	261620
+Vanya	142955
+Zhao wuniang wanli xunfu	245584
+I cattivi vanno in paradiso	51460
+Ciné ballets de Paris	4632632
+Askin Kudreti	7172772
+Wang lao wu zhi lian	470592
+Kdo své nebe neunese	174813
+Aval Yar	366201
+Qing chun huan xiang qu	350012
+Onna o wasurero	2630280
+Athisaya Penn	259201
+Ostrvo mungosa	320220
+Dao xia mei ren hun	207401
+Nippon romance ryoko: Sapporo han	142689
+Gönül kimi severse	351024
+Tôboshâ	7209306
+Yuan wang xiang si	6717336
+Di xia hang xian	7784630
+Alipin ng palad	1242588
+Hahakogusa	1573832
+Baziye eshq	395468
+Nan zhi zui xu ji	7063288
+Um Caso de Polícia	344508
+Hai ying	6630478
+Sanian yiku erlang qiao	247684
+Debutante	454117
+Yala Jeevan Aise Naav	248618
+Liu shui huan ge	354708
+Long xiang feng wu	205235
+Shobushi to sono musume	164164
+Heungbuwa Nolbu	422416
+Jôen	52945
+Sono kabe o kudake	53296
+Kom	316121
+Nippon romansu ryokô	378449
+Ping bu qing yun shang ji	248479
+Private Maturan	5785148
+Fei yue tian xian	354573
+Houla Houla	157772
+L'héritage	228410
+Himegimi ittoryu	199597
+Iyam min amri	251751
+Awdat el hayat	355236
+Kurama Tengu	164709
+Serba salah	1314842
+Inazuma kotengu	199628
+Bing shang jie mei	7784932
+Aru rakujitsu	2728344
+Kettô gaî	10029188
+Esimese järgu kapten	447023
+Brigliadoro	52650
+Dashi pineun ggot	429983
+Pachai Malai Kurathi	263829
+Shabash Ramu	261989
+Chelovek, operedivshiy vremya	141572
+Azarashi no Ô	2993288
+Yu nu si qing	209503
+Durga Mata	260870
+Aesang	327400
+Vernye serdtsa	53413
+Ge chang yao ji	10199026
+Liu yue xue	205228
+Wakaî hyo no murê	7317102
+Sevmek günah mi?	347982
+Ninno	353801
+Qian jin xiao jie	205337
+Bôryoku musume	5952404
+Oyae no hatsukoi sensei	5477042
+Zavalli kiz	355049
+Kelian nu	246649
+Jigokû no sokô made tsuki auzê	6664686
+Mutiara jang kembali	1326998
+Anae	393043
+Mukeisatsu	2977462
+Chasy ostanovilis v polnoch	313875
+Abbas yolcu	346473
+Shin santô jûyaku	314662
+Bujeon jajeon	370375
+Umi no wanâ	6386586
+Hlavni vyhra	378051
+El sabeha fil nar	355979
+Annushka	52568
+Britain and Canada Debate Britain's World Leadership	224682
+Yutaro kodan	202151
+Edokko sakura	3230190
+Hayatim sana feda	353527
+Raja Malaya Simhan	261221
+Sumpa at pangako	376220
+Qi xia wu yi ye tan chong xiao lou	5825718
+Beni-dasuki kenkajo	199361
+Pitong pagsisisi	439276
+Pativrata	213987
+Kang zhuang da dao	340193
+Askin acilari	346534
+Yim si ngon	455875
+Amrapali	52559
+Ang kanyang kamahalan	1186230
+Fils d'Imana	826066
+Oshidori kago	165413
+První a poslední	247640
+Tao wang 48 xiao shi	211659
+Tatlong R	5780154
+V stepnoy tishi	328601
+Maa Inti Mahalakshmi	314340
+Wrong Number	3904224
+Futari no kyujitsu	398074
+Pekka ja Pätkä mestarimaalareina	54168
+To parastratima mias athoas	232275
+Esmeralda	454135
+Yukcheui kil	316931
+Hukam al-kadar	251737
+Lu	207590
+Tokyo beran me-e musume	376256
+Chuekui mokgeoli	321683
+Sha ren de qing shu	453211
+Shizuka nari akatsuki no senjô	861801
+Dashi chatneun yangji	398923
+Mriter Martye Agaman	158008
+Gulshan	1620468
+Amar Ghar	155486
+De magische ring	270489
+She lang chun	6323884
+Gia tin agapi tis voskopoulas	259325
+Fubuki To Tomoni Kieyukinu	8897790
+Miss Cuplé	53071
+Bhagya Devatha	157386
+Kagerô-gasa	188732
+Kaiketsu kurozukin	164698
+Ireum-eobsneun byeoldeul	2151764
+Vozvrashchenie na Zemlyu	232912
+Im Sonderauftrag	233919
+Tikadambaaz	3904316
+Kiri aru jyoji	781596
+Hatamoto taikutsu otoko: nazo no nanban-taiko	200895
+Edo yumin den	165746
+Sola Aanay	1351307
+Hong fen gan ge	209027
+Hu pan cao	192133
+Yanzi xian lai yanzi jian	245579
+Lan aoud	356807
+Mechty sbyvayutsya	5091828
+Satomi hakken-den: Youkai no ranbu	6014246
+Nangman yeolcha	323363
+Karatachi nikki	52962
+Gwageoreul mudji maseyo	399119
+Kovaa peliä Pohjolassa	52977
+Da xia qing sha an	798416
+Dum na Orechovce	53422
+Shi hao feng bo	249211
+Salangi gagijeone	350084
+Balangamma	256633
+Lan gui feng yun	205196
+I Lili kai o mourdaris	263655
+Mi wa jukushitari	383506
+Un giorno come ogni giorno	177800
+Prelude tot de dageraad	220707
+Aijô fudo	10382834
+Morgen wirst du um mich weinen	137964
+Kuafeng chenglong	248140
+Podvig Leningrada	256272
+Gorod na zare	5849958
+Charnon Ki Dasi	388827
+Zivot pro Jana Kaspara	1464798
+Seki no yatappe	328396
+Abare kaido	200405
+Fedakar kaptan	349437
+Walang takot	1210179
+Ma femme et moi	264818
+Yujeong cheonri	396947
+Cover Girl	5784846
+Veer Ghatotkajan	243001
+Qing fan	193440
+Afsanehe shemal	395439
+Iroha wakashû: Furisode sakura	1167843
+Zoku sûpâ jaiantsu - Dokuga Ôkoku	52746
+Du zhang fu	207439
+San theli i nyfi kai o gabros	288801
+Titian serambut dibelah tudjuh	6687872
+Los cobardes	51481
+Evangelina	189510
+Azafatas con permiso	51389
+Jaidad	1620489
+Vannakkili	259082
+Huan xi yuan jia	193233
+Circus Queen	3908750
+Huo zang Lan Tou He	186113
+Piano e no shoutai	2855856
+Higashi shinakai no joketsu	9797630
+Katame no okami	199677
+Mariana de Jesus, Azucena de Quito	2977362
+Nattukoru Nallavan	368065
+Sny na nedeli	171760
+Lal Nishan	3904400
+Gunshû no naka no taiyô	1928178
+Resa i toner	53216
+Tao hua yun	194429
+Dom na rázcestí	231503
+Khmuryy Vangur	351175
+High Teen	2535076
+Jhoomer	317762
+Shizukanaru kyoden	10598580
+Bolshaya gora	172189
+Liang sha da nao tai kong	198649
+Moro no Ichimatsu yûrei dochu	189763
+Sati Vaishalini	358107
+Hanma Kid	7798388
+Maturan at Lagman	5775272
+Simplon-Tunnel	173199
+Yoru non haiyakû	10386424
+La víbora	259098
+Ana baria	355191
+Hong fu si ben	206016
+Yks' tavallinen Virtanen	134223
+Tatak	1158799
+Ya vam pishu...	314911
+Naadodikal	253270
+Nu'er xiang	249177
+Taas tapaamme Suomisen perheen	53329
+V hodine dvanástej	250801
+Sheng si pai	2084085
+Fen hong se de xiong shou	211366
+Vtoroye tsveteniye	170782
+Dona Xepa	228229
+Mulheres à Vista	200878
+Yu Gwan-sun	310381
+Sazish	3904334
+Holjuki dungdungi nonsan honryeonsoe gada	422425
+Hîrusa gari no boryoku	8237834
+Ölüm dönemeci	354255
+Jiken kisha: Sugata naki sogekisha	3477714
+Jiken kisha: Kamen no kyôhaku	2470070
+Gilirheun saramdeul	396615
+Kakkun chô tokkyû	9562268
+Si wang de yue hui	211624
+Thayapola Pillai Noola Pola Selai	10189400
+Yeoinsuk	423561
+Pora tayozhnogo podsnezhnika	5096272
+Hazar Pariyan	3906446
+Yu dao zhi zi	6437322
+Pierre Beaulieu agriculteur	289759
+Kinokuniya bunzaemon	188770
+Jin wu meng	205163
+Vier Rakkers en een oude jeep	53421
