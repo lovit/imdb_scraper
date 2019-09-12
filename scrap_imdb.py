@@ -23,6 +23,8 @@ def main():
     parser.add_argument('--reviews', dest='scrap_reviews', action='store_true')
     parser.add_argument('--debug', dest='debug', action='store_true')
     parser.add_argument('--rescrap', dest='rescrap', action='store_true')
+    parser.add_argument('--start-movie-index', dest='skip', type=int, default=0,
+        help='Number of movies which are skiped scraping')
 
     args = parser.parse_args()
     directory = args.directory
@@ -36,6 +38,7 @@ def main():
     scrap_reviews = args.scrap_reviews
     debug = args.debug
     rescrap = args.rescrap
+    skip = args.skip
 
     # check output directory
     directories = ['{}/main/', '{}/credits/', '{}/keywords/', '{}/quotes/', '{}/reviews/']
@@ -49,6 +52,7 @@ def main():
     print('Scrap keywords: {}'.format(scrap_keywords))
     print('Scrap quotes  : {}'.format(scrap_quotes))
     print('Scrap reviews : {}'.format(scrap_reviews))
+    print('num skips     : {}'.format(skip))
     print('year          : {} ~ {}'.format(begin_year, end_year))
 
     for year in range(end_year, begin_year - 1, -1):
@@ -64,6 +68,9 @@ def main():
 
         n_movies = len(title_idxs)
         for i_movie, (title, idx) in enumerate(title_idxs):
+            if i_movie < skip:
+                print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
+                continue
 
             print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
 
