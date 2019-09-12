@@ -69,7 +69,7 @@ def main():
         n_movies = len(title_idxs)
         for i_movie, (title, idx) in enumerate(title_idxs):
             if i_movie < skip:
-                print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
+                print('[{} / {}]: {} ({}) is skiped'.format(i_movie + 1, n_movies, title, year))
                 continue
 
             print('[{} / {}]: {} ({})'.format(i_movie + 1, n_movies, title, year))
