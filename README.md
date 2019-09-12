@@ -198,8 +198,7 @@ for tidxs in yield_topmovie_title_idxs(2018, max_num=100):
 | quotes | Boolean | False | action='store_true' |
 | reviews | Boolean | False | action='store_true' |
 | debug | Boolean | False | 매년 10 개의 영화만 scraping |
-| rescrap | Boolean | False | 이미 scrap 한 리뷰라도 re-scrap. Rescrap 시 이전에 수집한 데이터는 제거 |
-| fast-update | Boolean | False | True 일 경우, 이전에 수집하지 않은 리뷰만 추가로 수집 |
+| rescrap | Boolean | False | 이미 scrap 한 리뷰라도 re-scrap. Rescrap 시 이전에 수집한 데이터는 제거. False 일 경우, 이전에 수집하지 않은 리뷰만 추가로 수집 |
 
 ```
 python scrap_imdb.py --begin_year 2017 --end_year 2018 --debug --main --credits --keywords --reviews --quotes

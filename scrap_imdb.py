@@ -23,8 +23,6 @@ def main():
     parser.add_argument('--reviews', dest='scrap_reviews', action='store_true')
     parser.add_argument('--debug', dest='debug', action='store_true')
     parser.add_argument('--rescrap', dest='rescrap', action='store_true')
-    parser.add_argument('--fast-update', dest='fastupdate', action='store_true',
-        help='If True, this script scraps movie reviews which are not scraped before time')
 
     args = parser.parse_args()
     directory = args.directory
@@ -38,7 +36,6 @@ def main():
     scrap_reviews = args.scrap_reviews
     debug = args.debug
     rescrap = args.rescrap
-    fastupdate = args.fastupdate
 
     # check output directory
     directories = ['{}/main/', '{}/credits/', '{}/keywords/', '{}/quotes/', '{}/reviews/']
@@ -52,7 +49,6 @@ def main():
     print('Scrap keywords: {}'.format(scrap_keywords))
     print('Scrap quotes  : {}'.format(scrap_quotes))
     print('Scrap reviews : {}'.format(scrap_reviews))
-    print('Fast update   : {}'.format(fastupdate))
     print('year          : {} ~ {}'.format(begin_year, end_year))
 
     for year in range(end_year, begin_year - 1, -1):
